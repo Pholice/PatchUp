@@ -1,5 +1,5 @@
 import { createHash } from "node:crypto";
-import { head, put } from "@vercel/blob";
+import { list, put } from "@vercel/blob";
 import type { Game, Patch } from "./types";
 
 export const SUMMARY_VERSION = "v1";
@@ -38,8 +38,9 @@ export function cacheKey(
 
 export async function readSummary(key: string): Promise<string | null> {
   try {
-    const info = await head(key);
-    const res = await fetch(info.url);
+    const { blobs } = await list({ prefix: key, limit: 1 });
+    if (!blobs.length || blobs[0].pathname !== key) return null;
+    const res = await fetch(blobs[0].url);
     if (!res.ok) return null;
     return await res.text();
   } catch {
