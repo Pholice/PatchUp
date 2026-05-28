@@ -29,7 +29,11 @@ Each patch entry contains:
 {
   "version": "10.08",
   "date": "2025-04-15",
+  "locale": "en-us",
   "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-10-08/",
+  "fetched_at": "2026-05-27T14:30:00Z",
+  "parser_version": "valorant-v1",
+  "content_hash": "a1b2c3d4e5f60789",
   "sections": [
     {
       "title": "Agent Updates",
@@ -47,7 +51,7 @@ A scheduled GitHub Actions workflow runs weekly (Riot patches on a ~2-week Tuesd
 **Workflow:** `.github/workflows/fetch-patches.yml`
 - Runs `scripts/fetch-patches.ts`
 - Per-game parsers in `scripts/parsers/valorant.ts` and `scripts/parsers/lol.ts`
-- Compares live Riot patch list against existing JSON; appends new entries only
+- Compares live Riot patch list against existing JSON; appends new entries and refreshes recent known entries when parsed content changes
 - Commits and pushes updated JSON automatically
 - GitHub notifies repo owner on workflow failure by default
 
@@ -59,11 +63,13 @@ Both Valorant and LoL share the same Riot site structure (playvalorant.com / lea
 
 1. Receives `{ game, lastPlayedDate }`
 2. Resolves date to a patch version range (e.g., `10.04 → 10.10`) by scanning the JSON
-3. Checks Vercel Blob for a cached summary keyed to `{game}:{fromVersion}:{toVersion}`
+3. Checks Vercel Blob for a cached summary keyed to `{game}:{fromVersion}:{toVersion}:{fingerprint}`
 4. **Cache hit:** return cached summary immediately
-5. **Cache miss:** collect all patch notes in range, call Claude API, stream response back, store result in Vercel Blob
+5. **Cache miss:** collect all patch notes in range, call Claude API, stream response back as text, store the completed text result in Vercel Blob
 
-**Cache key:** `{game}:{fromVersion}:{toVersion}` — date-independent, so two users who last played around the same time share the same cached summary.
+**Cache key:** `{game}:{fromVersion}:{toVersion}:{fingerprint}` — date-independent, so two users who last played around the same time share the same cached summary. `fingerprint` is a short hash of the summary version, model id, prompt version, and each included patch's `{version, date, parser_version, content_hash}`. When Riot edits a patch, parser output changes, the prompt changes, or the model changes, the old Blob object naturally becomes unreachable and a fresh summary is generated.
+
+**Summary format:** user-facing summaries are streamed and rendered as text only. Cached summaries are stored as the completed UTF-8 text payload, not as a per-token transcript or verbose JSON envelope.
 
 **UI:** Single-page React app (`app/page.tsx`). No navigation, no accounts.
 
@@ -128,10 +134,11 @@ patchup/
 
 ## Claude Integration
 
-- **Model:** claude-sonnet-4-6 (balance of quality and cost for a side project)
+- **Model:** claude-sonnet-4-20250514 (balance of quality and cost for a side project)
 - **Prompt:** System prompt instructs Claude to summarize as a returning player briefing — group by category, focus on what's meaningfully different, skip minor bug fixes
-- **Streaming:** Response streamed to UI via Vercel's streaming support; Blob cache is written only after the full stream completes (no partial caching)
-- **Caching:** Summaries stored in Vercel Blob; never re-generated for the same patch range
+- **Streaming:** Response streamed to UI as text via Vercel's streaming support; Blob cache is written only after the full stream completes (no partial caching)
+- **Caching:** Summaries stored in Vercel Blob as completed text payloads; never re-generated for the same patch range and fingerprint
+- **Invalidation:** A summary fingerprint is derived from `SUMMARY_VERSION`, model id, prompt version, parser versions, and patch `content_hash` values. Changing any of those inputs generates a different cache key automatically.
 
 ---
 
