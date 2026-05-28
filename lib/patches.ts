@@ -8,12 +8,16 @@ const DATASETS: Record<Game, Patch[]> = {
 };
 
 export function loadPatches(game: Game): Patch[] {
-  return [...DATASETS[game]].sort((a, b) => a.date.localeCompare(b.date));
+  return [...DATASETS[game]].sort((a, b) => (a.date < b.date ? -1 : a.date > b.date ? 1 : 0));
 }
 
 export function resolveDateToRange(patches: Patch[], lastPlayed: Date): Omit<PatchRange, "game"> {
-  const sorted = [...patches].sort((a, b) => a.date.localeCompare(b.date));
-  const cutoff = lastPlayed.toISOString().slice(0, 10);
+  const sorted = [...patches].sort((a, b) => (a.date < b.date ? -1 : a.date > b.date ? 1 : 0));
+  const cutoff = [
+    lastPlayed.getFullYear(),
+    String(lastPlayed.getMonth() + 1).padStart(2, "0"),
+    String(lastPlayed.getDate()).padStart(2, "0"),
+  ].join("-");
   const missed = sorted.filter((p) => p.date > cutoff);
 
   if (missed.length === 0) {

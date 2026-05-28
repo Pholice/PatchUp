@@ -1,5 +1,5 @@
 import { describe, expect, it } from "vitest";
-import { resolveDateToRange } from "./patches";
+import { resolveDateToRange, loadPatches } from "./patches";
 import type { Patch } from "./types";
 
 const mkPatch = (version: string, date: string): Patch => ({
@@ -45,7 +45,18 @@ describe("resolveDateToRange", () => {
   });
 
   it("handles a date exactly equal to a patch date (excludes that patch)", () => {
-    const range = resolveDateToRange(patches, new Date("2025-03-25"));
+    const range = resolveDateToRange(patches, new Date(2025, 2, 25));
     expect(range.patches.map((p) => p.version)).toEqual(["10.07", "10.08"]);
+  });
+});
+
+describe("loadPatches", () => {
+  it("returns an array for 'valorant'", () => {
+    const result = loadPatches("valorant");
+    expect(Array.isArray(result)).toBe(true);
+  });
+  it("returns an array for 'lol'", () => {
+    const result = loadPatches("lol");
+    expect(Array.isArray(result)).toBe(true);
   });
 });
