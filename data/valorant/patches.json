@@ -1,1 +1,2097 @@
-[]
+[
+  {
+    "version": "0.47",
+    "date": "2020-04-21",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-0-47/",
+    "fetched_at": "2026-05-28T01:34:53.293Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "52ebf8880ea1eb23",
+    "sections": [],
+    "raw_text": ""
+  },
+  {
+    "version": "0.49",
+    "date": "2020-04-28",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-0-49/",
+    "fetched_at": "2026-05-28T01:34:53.133Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "52ebf8880ea1eb23",
+    "sections": [],
+    "raw_text": ""
+  },
+  {
+    "version": "0.50",
+    "date": "2020-05-12",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-0-50/",
+    "fetched_at": "2026-05-28T01:34:52.758Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "52ebf8880ea1eb23",
+    "sections": [],
+    "raw_text": ""
+  },
+  {
+    "version": "1.0",
+    "date": "2020-06-01",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-1-0/",
+    "fetched_at": "2026-05-28T01:34:52.256Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "52ebf8880ea1eb23",
+    "sections": [],
+    "raw_text": ""
+  },
+  {
+    "version": "1.01",
+    "date": "2020-06-09",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-1-01/",
+    "fetched_at": "2026-05-28T01:34:51.758Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "52ebf8880ea1eb23",
+    "sections": [],
+    "raw_text": ""
+  },
+  {
+    "version": "1.02",
+    "date": "2020-06-23",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-1-02/",
+    "fetched_at": "2026-05-28T01:34:51.464Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "52ebf8880ea1eb23",
+    "sections": [],
+    "raw_text": ""
+  },
+  {
+    "version": "1.03",
+    "date": "2020-07-07",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-1-03/",
+    "fetched_at": "2026-05-28T01:34:51.267Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "52ebf8880ea1eb23",
+    "sections": [],
+    "raw_text": ""
+  },
+  {
+    "version": "1.04",
+    "date": "2020-07-21",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-1-04/",
+    "fetched_at": "2026-05-28T01:34:51.067Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "52ebf8880ea1eb23",
+    "sections": [],
+    "raw_text": ""
+  },
+  {
+    "version": "1.05",
+    "date": "2020-08-04",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-1-05/",
+    "fetched_at": "2026-05-28T01:34:50.885Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "52ebf8880ea1eb23",
+    "sections": [],
+    "raw_text": ""
+  },
+  {
+    "version": "1.06",
+    "date": "2020-08-20",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-1-06/",
+    "fetched_at": "2026-05-28T01:34:50.698Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "52ebf8880ea1eb23",
+    "sections": [],
+    "raw_text": ""
+  },
+  {
+    "version": "1.07",
+    "date": "2020-09-01",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-1-07/",
+    "fetched_at": "2026-05-28T01:34:50.476Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "52ebf8880ea1eb23",
+    "sections": [],
+    "raw_text": ""
+  },
+  {
+    "version": "1.08",
+    "date": "2020-09-15",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-1-08/",
+    "fetched_at": "2026-05-28T01:34:50.304Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "52ebf8880ea1eb23",
+    "sections": [],
+    "raw_text": ""
+  },
+  {
+    "version": "1.09",
+    "date": "2020-09-29",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-1-09/",
+    "fetched_at": "2026-05-28T01:34:50.100Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "52ebf8880ea1eb23",
+    "sections": [],
+    "raw_text": ""
+  },
+  {
+    "version": "1.10",
+    "date": "2020-10-13",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-1-10/",
+    "fetched_at": "2026-05-28T01:34:49.876Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "52ebf8880ea1eb23",
+    "sections": [],
+    "raw_text": ""
+  },
+  {
+    "version": "1.11",
+    "date": "2020-10-27",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-1-11/",
+    "fetched_at": "2026-05-28T01:34:49.691Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "52ebf8880ea1eb23",
+    "sections": [],
+    "raw_text": ""
+  },
+  {
+    "version": "1.12",
+    "date": "2020-11-10",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-1-12/",
+    "fetched_at": "2026-05-28T01:34:49.494Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "52ebf8880ea1eb23",
+    "sections": [],
+    "raw_text": ""
+  },
+  {
+    "version": "1.14",
+    "date": "2020-12-08",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-1-14/",
+    "fetched_at": "2026-05-28T01:34:49.266Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "52ebf8880ea1eb23",
+    "sections": [],
+    "raw_text": ""
+  },
+  {
+    "version": "2.0",
+    "date": "2021-01-12",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-2-0/",
+    "fetched_at": "2026-05-28T01:34:49.077Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "52ebf8880ea1eb23",
+    "sections": [],
+    "raw_text": ""
+  },
+  {
+    "version": "2.01",
+    "date": "2021-01-20",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-2-01/",
+    "fetched_at": "2026-05-28T01:34:48.904Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "52ebf8880ea1eb23",
+    "sections": [],
+    "raw_text": ""
+  },
+  {
+    "version": "2.02",
+    "date": "2021-02-02",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-2-02/",
+    "fetched_at": "2026-05-28T01:34:48.701Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "52ebf8880ea1eb23",
+    "sections": [],
+    "raw_text": ""
+  },
+  {
+    "version": "2.03",
+    "date": "2021-02-17",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-2-03/",
+    "fetched_at": "2026-05-28T01:34:48.520Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "52ebf8880ea1eb23",
+    "sections": [],
+    "raw_text": ""
+  },
+  {
+    "version": "2.04",
+    "date": "2021-03-02",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-2-04/",
+    "fetched_at": "2026-05-28T01:34:48.316Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "52ebf8880ea1eb23",
+    "sections": [],
+    "raw_text": ""
+  },
+  {
+    "version": "2.05",
+    "date": "2021-03-16",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-2-05/",
+    "fetched_at": "2026-05-28T01:34:48.142Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "52ebf8880ea1eb23",
+    "sections": [],
+    "raw_text": ""
+  },
+  {
+    "version": "2.06",
+    "date": "2021-03-30",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-2-06/",
+    "fetched_at": "2026-05-28T01:34:47.976Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "52ebf8880ea1eb23",
+    "sections": [],
+    "raw_text": ""
+  },
+  {
+    "version": "2.07",
+    "date": "2021-04-13",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-2-07/",
+    "fetched_at": "2026-05-28T01:34:47.794Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "52ebf8880ea1eb23",
+    "sections": [],
+    "raw_text": ""
+  },
+  {
+    "version": "2.08",
+    "date": "2021-04-27",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-2-08/",
+    "fetched_at": "2026-05-28T01:34:47.635Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "52ebf8880ea1eb23",
+    "sections": [],
+    "raw_text": ""
+  },
+  {
+    "version": "2.09",
+    "date": "2021-05-11",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-2-09/",
+    "fetched_at": "2026-05-28T01:34:47.385Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "52ebf8880ea1eb23",
+    "sections": [],
+    "raw_text": ""
+  },
+  {
+    "version": "2.11",
+    "date": "2021-06-08",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-2-11/",
+    "fetched_at": "2026-05-28T01:34:47.174Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "52ebf8880ea1eb23",
+    "sections": [],
+    "raw_text": ""
+  },
+  {
+    "version": "3.0",
+    "date": "2021-06-22",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-3-0/",
+    "fetched_at": "2026-05-28T01:34:46.931Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "52ebf8880ea1eb23",
+    "sections": [],
+    "raw_text": ""
+  },
+  {
+    "version": "3.01",
+    "date": "2021-07-07",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-3-01/",
+    "fetched_at": "2026-05-28T01:34:46.686Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "52ebf8880ea1eb23",
+    "sections": [],
+    "raw_text": ""
+  },
+  {
+    "version": "3.02",
+    "date": "2021-07-20",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-3-02/",
+    "fetched_at": "2026-05-28T01:34:46.513Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "52ebf8880ea1eb23",
+    "sections": [],
+    "raw_text": ""
+  },
+  {
+    "version": "3.03",
+    "date": "2021-08-10",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-3-03/",
+    "fetched_at": "2026-05-28T01:34:46.291Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "52ebf8880ea1eb23",
+    "sections": [],
+    "raw_text": ""
+  },
+  {
+    "version": "3.04",
+    "date": "2021-08-24",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-3-04/",
+    "fetched_at": "2026-05-28T01:34:46.134Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "52ebf8880ea1eb23",
+    "sections": [],
+    "raw_text": ""
+  },
+  {
+    "version": "3.05",
+    "date": "2021-09-08",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-3-05/",
+    "fetched_at": "2026-05-28T01:34:45.942Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "52ebf8880ea1eb23",
+    "sections": [],
+    "raw_text": ""
+  },
+  {
+    "version": "3.06",
+    "date": "2021-09-21",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-3-06/",
+    "fetched_at": "2026-05-28T01:34:45.748Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "52ebf8880ea1eb23",
+    "sections": [],
+    "raw_text": ""
+  },
+  {
+    "version": "3.07",
+    "date": "2021-10-05",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-3-07/",
+    "fetched_at": "2026-05-28T01:34:45.572Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "52ebf8880ea1eb23",
+    "sections": [],
+    "raw_text": ""
+  },
+  {
+    "version": "3.08",
+    "date": "2021-10-19",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-3-08/",
+    "fetched_at": "2026-05-28T01:34:45.379Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "52ebf8880ea1eb23",
+    "sections": [],
+    "raw_text": ""
+  },
+  {
+    "version": "3.09",
+    "date": "2021-11-02",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-3-09/",
+    "fetched_at": "2026-05-28T01:34:45.213Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "52ebf8880ea1eb23",
+    "sections": [],
+    "raw_text": ""
+  },
+  {
+    "version": "3.10",
+    "date": "2021-11-16",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-3-10/",
+    "fetched_at": "2026-05-28T01:34:45.062Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "52ebf8880ea1eb23",
+    "sections": [],
+    "raw_text": ""
+  },
+  {
+    "version": "3.12",
+    "date": "2021-12-07",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-3-12/",
+    "fetched_at": "2026-05-28T01:34:44.875Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "52ebf8880ea1eb23",
+    "sections": [],
+    "raw_text": ""
+  },
+  {
+    "version": "4.0",
+    "date": "2022-01-11",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-4-0/",
+    "fetched_at": "2026-05-28T01:34:44.697Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "52ebf8880ea1eb23",
+    "sections": [],
+    "raw_text": ""
+  },
+  {
+    "version": "4.01",
+    "date": "2022-01-19",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-4-01/",
+    "fetched_at": "2026-05-28T01:34:44.535Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "52ebf8880ea1eb23",
+    "sections": [],
+    "raw_text": ""
+  },
+  {
+    "version": "4.02",
+    "date": "2022-02-01",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-4-02/",
+    "fetched_at": "2026-05-28T01:34:44.339Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "52ebf8880ea1eb23",
+    "sections": [],
+    "raw_text": ""
+  },
+  {
+    "version": "4.03",
+    "date": "2022-02-15",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-4-03/",
+    "fetched_at": "2026-05-28T01:34:44.122Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "52ebf8880ea1eb23",
+    "sections": [],
+    "raw_text": ""
+  },
+  {
+    "version": "4.04",
+    "date": "2022-03-01",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-4-04/",
+    "fetched_at": "2026-05-28T01:34:43.931Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "52ebf8880ea1eb23",
+    "sections": [],
+    "raw_text": ""
+  },
+  {
+    "version": "4.05",
+    "date": "2022-03-22",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-4-05/",
+    "fetched_at": "2026-05-28T01:34:43.762Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "52ebf8880ea1eb23",
+    "sections": [],
+    "raw_text": ""
+  },
+  {
+    "version": "4.07",
+    "date": "2022-04-12",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-4-07/",
+    "fetched_at": "2026-05-28T01:34:43.565Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "52ebf8880ea1eb23",
+    "sections": [],
+    "raw_text": ""
+  },
+  {
+    "version": "4.08",
+    "date": "2022-04-27",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-4-08/",
+    "fetched_at": "2026-05-28T01:34:43.386Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "52ebf8880ea1eb23",
+    "sections": [],
+    "raw_text": ""
+  },
+  {
+    "version": "4.09",
+    "date": "2022-05-10",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-4-09/",
+    "fetched_at": "2026-05-28T01:34:43.109Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "52ebf8880ea1eb23",
+    "sections": [],
+    "raw_text": ""
+  },
+  {
+    "version": "4.10",
+    "date": "2022-05-24",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-4-10/",
+    "fetched_at": "2026-05-28T01:34:38.034Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "52ebf8880ea1eb23",
+    "sections": [],
+    "raw_text": ""
+  },
+  {
+    "version": "4.11",
+    "date": "2022-06-07",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-4-11/",
+    "fetched_at": "2026-05-28T01:34:37.665Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "52ebf8880ea1eb23",
+    "sections": [],
+    "raw_text": ""
+  },
+  {
+    "version": "5.0",
+    "date": "2022-06-16",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-5-0/",
+    "fetched_at": "2026-05-28T01:34:37.464Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "52ebf8880ea1eb23",
+    "sections": [],
+    "raw_text": ""
+  },
+  {
+    "version": "5.01",
+    "date": "2022-07-12",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-5-01/",
+    "fetched_at": "2026-05-28T01:34:37.080Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "52ebf8880ea1eb23",
+    "sections": [],
+    "raw_text": ""
+  },
+  {
+    "version": "5.03",
+    "date": "2022-08-09",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-5-03/",
+    "fetched_at": "2026-05-28T01:34:36.819Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "52ebf8880ea1eb23",
+    "sections": [],
+    "raw_text": ""
+  },
+  {
+    "version": "5.04",
+    "date": "2022-08-23",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-5-04/",
+    "fetched_at": "2026-05-28T01:34:36.656Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "52ebf8880ea1eb23",
+    "sections": [],
+    "raw_text": ""
+  },
+  {
+    "version": "5.05",
+    "date": "2022-09-07",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-5-05/",
+    "fetched_at": "2026-05-28T01:34:36.380Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "52ebf8880ea1eb23",
+    "sections": [],
+    "raw_text": ""
+  },
+  {
+    "version": "5.06",
+    "date": "2022-09-20",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-5-06/",
+    "fetched_at": "2026-05-28T01:34:36.200Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "52ebf8880ea1eb23",
+    "sections": [],
+    "raw_text": ""
+  },
+  {
+    "version": "5.07",
+    "date": "2022-10-04",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-5-07/",
+    "fetched_at": "2026-05-28T01:34:35.944Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "52ebf8880ea1eb23",
+    "sections": [],
+    "raw_text": ""
+  },
+  {
+    "version": "5.08",
+    "date": "2022-10-18",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-5-08/",
+    "fetched_at": "2026-05-28T01:34:35.765Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "52ebf8880ea1eb23",
+    "sections": [],
+    "raw_text": ""
+  },
+  {
+    "version": "5.09",
+    "date": "2022-11-01",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-5-09/",
+    "fetched_at": "2026-05-28T01:34:35.579Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "52ebf8880ea1eb23",
+    "sections": [],
+    "raw_text": ""
+  },
+  {
+    "version": "5.10",
+    "date": "2022-11-15",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-5-10/",
+    "fetched_at": "2026-05-28T01:34:35.339Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "52ebf8880ea1eb23",
+    "sections": [],
+    "raw_text": ""
+  },
+  {
+    "version": "5.12",
+    "date": "2022-12-06",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-5-12/",
+    "fetched_at": "2026-05-28T01:34:35.169Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "52ebf8880ea1eb23",
+    "sections": [],
+    "raw_text": ""
+  },
+  {
+    "version": "6.0",
+    "date": "2023-01-10",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-6-0/",
+    "fetched_at": "2026-05-28T01:34:34.945Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "52ebf8880ea1eb23",
+    "sections": [],
+    "raw_text": ""
+  },
+  {
+    "version": "6.01",
+    "date": "2023-01-18",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-6-01/",
+    "fetched_at": "2026-05-28T01:34:34.700Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "52ebf8880ea1eb23",
+    "sections": [],
+    "raw_text": ""
+  },
+  {
+    "version": "6.02",
+    "date": "2023-02-07",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-6-02/",
+    "fetched_at": "2026-05-28T01:34:34.491Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "52ebf8880ea1eb23",
+    "sections": [],
+    "raw_text": ""
+  },
+  {
+    "version": "6.03",
+    "date": "2023-02-14",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-6-03/",
+    "fetched_at": "2026-05-28T01:34:34.312Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "52ebf8880ea1eb23",
+    "sections": [],
+    "raw_text": ""
+  },
+  {
+    "version": "6.04",
+    "date": "2023-03-07",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-6-04/",
+    "fetched_at": "2026-05-28T01:34:34.089Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "52ebf8880ea1eb23",
+    "sections": [],
+    "raw_text": ""
+  },
+  {
+    "version": "6.05",
+    "date": "2023-03-14",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-6-05/",
+    "fetched_at": "2026-05-28T01:34:33.897Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "52ebf8880ea1eb23",
+    "sections": [],
+    "raw_text": ""
+  },
+  {
+    "version": "6.06",
+    "date": "2023-03-28",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-6-06/",
+    "fetched_at": "2026-05-28T01:34:33.580Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "52ebf8880ea1eb23",
+    "sections": [],
+    "raw_text": ""
+  },
+  {
+    "version": "6.07",
+    "date": "2023-04-11",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-6-07/",
+    "fetched_at": "2026-05-28T01:34:33.396Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "52ebf8880ea1eb23",
+    "sections": [],
+    "raw_text": ""
+  },
+  {
+    "version": "6.08",
+    "date": "2023-04-25",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-6-08/",
+    "fetched_at": "2026-05-28T01:34:33.208Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "52ebf8880ea1eb23",
+    "sections": [],
+    "raw_text": ""
+  },
+  {
+    "version": "6.10",
+    "date": "2023-05-23",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-6-10/",
+    "fetched_at": "2026-05-28T01:34:32.934Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "52ebf8880ea1eb23",
+    "sections": [],
+    "raw_text": ""
+  },
+  {
+    "version": "6.11",
+    "date": "2023-06-06",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-6-11/",
+    "fetched_at": "2026-05-28T01:34:32.766Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "52ebf8880ea1eb23",
+    "sections": [],
+    "raw_text": ""
+  },
+  {
+    "version": "7.0",
+    "date": "2023-06-27",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-7-0/",
+    "fetched_at": "2026-05-28T01:34:32.539Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "52ebf8880ea1eb23",
+    "sections": [],
+    "raw_text": ""
+  },
+  {
+    "version": "7.01",
+    "date": "2023-07-11",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-7-01/",
+    "fetched_at": "2026-05-28T01:34:32.336Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "52ebf8880ea1eb23",
+    "sections": [],
+    "raw_text": ""
+  },
+  {
+    "version": "7.02",
+    "date": "2023-08-01",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-7-02/",
+    "fetched_at": "2026-05-28T01:34:32.173Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "52ebf8880ea1eb23",
+    "sections": [],
+    "raw_text": ""
+  },
+  {
+    "version": "7.03",
+    "date": "2023-08-08",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-7-03/",
+    "fetched_at": "2026-05-28T01:34:31.976Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "52ebf8880ea1eb23",
+    "sections": [],
+    "raw_text": ""
+  },
+  {
+    "version": "7.04",
+    "date": "2023-08-29",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-7-04/",
+    "fetched_at": "2026-05-28T01:34:31.784Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "52ebf8880ea1eb23",
+    "sections": [],
+    "raw_text": ""
+  },
+  {
+    "version": "7.05",
+    "date": "2023-09-06",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-7-05/",
+    "fetched_at": "2026-05-28T01:34:31.609Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "52ebf8880ea1eb23",
+    "sections": [],
+    "raw_text": ""
+  },
+  {
+    "version": "7.06",
+    "date": "2023-09-19",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-7-06/",
+    "fetched_at": "2026-05-28T01:34:31.434Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "52ebf8880ea1eb23",
+    "sections": [],
+    "raw_text": ""
+  },
+  {
+    "version": "7.07",
+    "date": "2023-10-03",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-7-07/",
+    "fetched_at": "2026-05-28T01:34:31.108Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "52ebf8880ea1eb23",
+    "sections": [],
+    "raw_text": ""
+  },
+  {
+    "version": "7.08",
+    "date": "2023-10-17",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-7-08/",
+    "fetched_at": "2026-05-28T01:34:30.934Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "52ebf8880ea1eb23",
+    "sections": [],
+    "raw_text": ""
+  },
+  {
+    "version": "7.09",
+    "date": "2023-10-31",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-7-09/",
+    "fetched_at": "2026-05-28T01:34:30.759Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "52ebf8880ea1eb23",
+    "sections": [],
+    "raw_text": ""
+  },
+  {
+    "version": "7.10",
+    "date": "2023-11-14",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-7-10/",
+    "fetched_at": "2026-05-28T01:34:30.574Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "52ebf8880ea1eb23",
+    "sections": [],
+    "raw_text": ""
+  },
+  {
+    "version": "7.12",
+    "date": "2023-12-05",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-7-12/",
+    "fetched_at": "2026-05-28T01:34:30.386Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "52ebf8880ea1eb23",
+    "sections": [],
+    "raw_text": ""
+  },
+  {
+    "version": "8.0",
+    "date": "2024-01-09",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-8-0/",
+    "fetched_at": "2026-05-28T01:34:30.155Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "52ebf8880ea1eb23",
+    "sections": [],
+    "raw_text": ""
+  },
+  {
+    "version": "8.01",
+    "date": "2024-01-23",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-8-01/",
+    "fetched_at": "2026-05-28T01:34:29.968Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "52ebf8880ea1eb23",
+    "sections": [],
+    "raw_text": ""
+  },
+  {
+    "version": "8.02",
+    "date": "2024-02-06",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-8-02/",
+    "fetched_at": "2026-05-28T01:34:29.771Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "52ebf8880ea1eb23",
+    "sections": [],
+    "raw_text": ""
+  },
+  {
+    "version": "8.03",
+    "date": "2024-02-21",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-8-03/",
+    "fetched_at": "2026-05-28T01:34:29.598Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "52ebf8880ea1eb23",
+    "sections": [],
+    "raw_text": ""
+  },
+  {
+    "version": "8.04",
+    "date": "2024-03-05",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-8-04/",
+    "fetched_at": "2026-05-28T01:34:29.427Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "52ebf8880ea1eb23",
+    "sections": [],
+    "raw_text": ""
+  },
+  {
+    "version": "8.05",
+    "date": "2024-03-26",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-8-05/",
+    "fetched_at": "2026-05-28T01:34:29.219Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "52ebf8880ea1eb23",
+    "sections": [],
+    "raw_text": ""
+  },
+  {
+    "version": "8.07",
+    "date": "2024-04-16",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-8-07/",
+    "fetched_at": "2026-05-28T01:34:28.969Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "52ebf8880ea1eb23",
+    "sections": [],
+    "raw_text": ""
+  },
+  {
+    "version": "8.08",
+    "date": "2024-04-30",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-8-08/",
+    "fetched_at": "2026-05-28T01:34:28.775Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "52ebf8880ea1eb23",
+    "sections": [],
+    "raw_text": ""
+  },
+  {
+    "version": "8.09",
+    "date": "2024-05-14",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-8-09/",
+    "fetched_at": "2026-05-28T01:34:28.505Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "52ebf8880ea1eb23",
+    "sections": [],
+    "raw_text": ""
+  },
+  {
+    "version": "8.10",
+    "date": "2024-05-29",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-8-10/",
+    "fetched_at": "2026-05-28T01:34:28.319Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "52ebf8880ea1eb23",
+    "sections": [],
+    "raw_text": ""
+  },
+  {
+    "version": "8.11",
+    "date": "2024-06-11",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-811",
+    "fetched_at": "2026-05-28T01:34:28.111Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "52ebf8880ea1eb23",
+    "sections": [],
+    "raw_text": ""
+  },
+  {
+    "version": "9.0",
+    "date": "2024-06-25",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-9-0",
+    "fetched_at": "2026-05-28T01:34:22.937Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "52ebf8880ea1eb23",
+    "sections": [],
+    "raw_text": ""
+  },
+  {
+    "version": "9.01",
+    "date": "2024-07-16",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-901",
+    "fetched_at": "2026-05-28T01:34:22.759Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "52ebf8880ea1eb23",
+    "sections": [],
+    "raw_text": ""
+  },
+  {
+    "version": "9.02",
+    "date": "2024-07-30",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-902",
+    "fetched_at": "2026-05-28T01:34:22.576Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "52ebf8880ea1eb23",
+    "sections": [],
+    "raw_text": ""
+  },
+  {
+    "version": "9.03",
+    "date": "2024-08-13",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-9-03",
+    "fetched_at": "2026-05-28T01:34:22.359Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "f8777e67580562f3",
+    "sections": [
+      {
+        "title": "GENERAL UPDATES",
+        "items": [
+          "Made improvements to how overlapping interactable objects work. You should now perform the desired action more consistently."
+        ]
+      },
+      {
+        "title": "AGENT UPDATES",
+        "items": [
+          "Ground Spreading Abilities",
+          "Map Targeted Abilities Improvements",
+          "Sage’s Barrier Orb"
+        ]
+      },
+      {
+        "title": "PERFORMANCE UPDATES",
+        "items": [
+          "Improved the performance of Iso’s Kill Contract ability."
+        ]
+      },
+      {
+        "title": "BUG FIXES",
+        "items": [
+          "Fixed issue where opening menus would reset your toggle crouch / toggle walk state.",
+          "Fixed a bug where pinging guns on the ground was not displaying the gun's name in the text feed.",
+          "Fixed a rare bug that resulted in the defuse timer showing up as ‘-00.00’ if the Spike was defused as the round timer hit 0.",
+          "Fixed an issue with Ability icons not appearing on the minimap as an Observer.",
+          "Fixed an issue where in certain scenarios, you can see an enemy but they don’t appear on the minimap.",
+          "Fixed an issue where \"DAMAGE TO YOU/YOU DEALT\" is overlapping the Combat Report widget.",
+          "Fixed font size readability issues with Combat Report in certain languages.",
+          "Fixed an issue with auto re-scoping for Outlaw, Marshall, Operator staying active while the gun goes through a reload.",
+          "Abyss",
+          "The Range"
+        ]
+      },
+      {
+        "title": "BUG FIXES",
+        "items": [
+          "Combat Report"
+        ]
+      },
+      {
+        "title": "MAP UPDATES",
+        "items": [
+          "Pearl enters Unrated & Swift Play queues."
+        ]
+      },
+      {
+        "title": "KNOWN ISSUES",
+        "items": [
+          "Fixed issue where opening an Ability map and the Shop/Scoreboard simultaneously could result in a loss of input.",
+          "Fixed an issue where pressing an Ability button while defusing the Spike would equip a weapon.",
+          "Harbor"
+        ]
+      }
+    ],
+    "raw_text": "Hey folks! I’m Ash and I’m a new Community Manager on the team. Don’t worry, Jo-Ellen is still here – I’ll be helping her out with patch notes from now on so you’ll see me from time to time. I’m excited to start sharing game updates with y’all so let’s get right to it with Patch Notes 9.03.We’ve made improvements to ground spreading abilities and added a preview to Sage’s Barrier Orb so the placement preview now also shows up on the minimap. Additionally, Pearl is entering Unrated and Swift Play queues on Console.Hope everyone has been enjoying VALORANT on Console so far!ALL PLATFORMSGENERAL UPDATESMade improvements to how overlapping interactable objects work. You should now perform the desired action more consistently.For Example: A dart from Cypher’s Spycam should no longer prevent you from attaching to a rope if you’re directly looking at it.AGENT UPDATESGround Spreading AbilitiesWe're making improvements to abilities that spread along the ground like Brimstone’s Incendiary and Viper's Snakebite. Previously, these abilities had inconsistent effects depending on the exact location they landed, ranging from extremely different sizes or damaging through walls and in areas the ability wasn’t visually present. With this update, these abilities should spread more consistently and only apply damage in places that are consistent with the visuals.Map Targeted Abilities ImprovementsYou can now ping and see additional icons on maps used for ability targetingAffected abilities: Brimstone’s Sky Smoke and Orbital Strike, Clove’s Ruse, and Omen’s From The ShadowsSage’s Barrier OrbBarrier Orb’s placement preview now also shows up on the minimapPERFORMANCE UPDATESImproved the performance of Iso’s Kill Contract ability.BUG FIXESGeneralFixed issue where opening menus would reset your toggle crouch / toggle walk state.Gameplay SystemsFixed a bug where pinging guns on the ground was not displaying the gun's name in the text feed.Fixed a rare bug that resulted in the defuse timer showing up as ‘-00.00’ if the Spike was defused as the round timer hit 0.Fixed an issue with Ability icons not appearing on the minimap as an Observer.Fixed an issue where in certain scenarios, you can see an enemy but they don’t appear on the minimap.Fixed an issue where \"DAMAGE TO YOU/YOU DEALT\" is overlapping the Combat Report widget.Fixed font size readability issues with Combat Report in certain languages.Fixed an issue with auto re-scoping for Outlaw, Marshall, Operator staying active while the gun goes through a reload.MapsAbyssFixed a spot in Mid Library where thrown abilities can clip through the shelves into gameplay space.Fixed a spot where Agent utility could be thrown off the map and used as a platform.Revised the message from the Scions of the Hourglass to fix text errors.Fixed a minor visual issue for the railings around Defender Spawn.The RangeFixed a bug where certain words in the Range were not being translated correctly into various languages.PCBUG FIXESClientCombat ReportFixed a bug where during pre-round, [Tab] must be held down while pressing the cursor toggle button to enable the cursor.CONSOLEMAP UPDATESPearl enters Unrated & Swift Play queues.KNOWN ISSUESGeneralFixed issue where opening an Ability map and the Shop/Scoreboard simultaneously could result in a loss of input.Fixed an issue where pressing an Ability button while defusing the Spike would equip a weapon. AgentsHarborFixed an issue where Harbor’s High Tide wall would end prematurely."
+  },
+  {
+    "version": "9.04",
+    "date": "2024-08-27",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-9-04",
+    "fetched_at": "2026-05-28T01:34:22.112Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "52ebf8880ea1eb23",
+    "sections": [],
+    "raw_text": ""
+  },
+  {
+    "version": "9.05",
+    "date": "2024-09-10",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-9-05",
+    "fetched_at": "2026-05-28T01:34:21.926Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "52ebf8880ea1eb23",
+    "sections": [],
+    "raw_text": ""
+  },
+  {
+    "version": "9.06",
+    "date": "2024-09-24",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-906",
+    "fetched_at": "2026-05-28T01:34:21.707Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "90d94ab58fcdeca8",
+    "sections": [],
+    "raw_text": "Hi, everyone. Jo-Ellen here. We’ve got a bunch of updates in Patch 9.06. In particular, you’ll now be able to see if you’re picking up a Reaver vandal or Forsaken vandal, new VALORANT PC players will now get tips on how to play, and the voting system will now no longer count AFK players in the draw vote. As always, let us know what you think of the updates. We’re always looking for feedback. ALL PLATFORMS AGENT UPDATES Agent abilities involving walls have had their interaction with the glass window on Ascent changed. Phoenix’s Blaze and Neon’s Fast Lane will break the window if their initial cast center point would hit the window, but the walls themselves will not interact with the window. Harbor’s High Tide will no longer break the glass window since it does not hit walls. Chamber’s Trademark, Cypher’s Trapwire, and Killjoy’s Lockdown will no longer break windows when placed too close. Brimstone’s Orbital Strike AOE windup/activation and Vyse’s Steel Garden AOE windup audio integration have been updated from being positioned directly on the Agent when in the AOE to being slightly directional toward the origin of the AOE to allow you to know which direction to travel in, in order to escape. GAMEPLAY SYSTEMS UPDATES Updated voting systems so that draw votes no longer take into account AFK players. MAP UPDATES Haven There are several quality of life improvements to help with placing Vyse’s Arc Rose and Cypher’s Trapwire on crates on Haven. PLAYER BEHAVIOR UPDATES We have adjusted our comms abuse penalties to create a better comms experience in VALORANT. People who engage in repeat comms abuse behavior will receive increased penalties. In order to create a healthier comms experience in VALORANT, we will be issuing comms abuse penalties to people who have received a manual behavioral evaluation due to their repeated pattern of comms abuse. SOCIAL UPDATES We made an update to our voice chat system. You should now more reliably reconnect to voice chat after unexpected disconnects. WEAPONS UPDATES We are adding Weapon Skin names to the in-game Weapon Switcher. We hope this will make it easier to determine what skin you are using when you pick up or switch to a weapon. You can see this change on your in-game HUD. BUG FIXES Agents Fixed an issue where Deadlock’s Sonic Sensors could stay active if placed as Deadlock was killed. Fixed an issue where Cypher’s Trapwire did not take damage from certain abilities. Fixed an issue where Gekko’s Wingman could get stuck in a loop while attempting to chase an unreachable target. Fixed an issue where Yoru’s Fakeout did not trigger Vyse’s Shear. Fixed an issue where Breach was unable to cast abilities through Vyse’s Shear. Fixed an issue where Sova’s Recon Bolt was destroyed by Vyse’s Shear. Fixed an issue where Gekko’s Thrash and Raze’s Showstopper could hit people on the other side of Vyse’s Shear. Fixed an issue where Vyse’s Arc Rose could be placed on invalid objects. Fixed various collision issues with Vyse’s Shear, that blocked bullets and people while despawning. Fixed rare instances of people’s bodies being clipped inside Vyse’s Shear. Fixed an issue where Vyse’s Razorvine and Shear had lingering VFX when canceling early. Cosmetics Fixed the third person animation for the Nocturnum Scythe so it will no longer appear higher than the Agent model when you equip your melee. Thanks to Kanga for this report! Gameplay Systems Fixed an issue where the Combat Report did not display “killed” text when you kill an ally. Fixed an issue where the Combat Report “killed by” text would have incorrect text alignment in Arabic. Maps Breeze Fixed an issue with the mechanical door at A Switch where bullets were not able to go through even though the door was open. PC GAMEPLAY SYSTEMS UPDATES New Player Tips (defaulted on for new accounts only) As you join our community, complete the tutorial, and start sharpening your skills on the battlefield, we want to make sure you are armed with the right information in order to succeed and secure that clutch! So, we’ve implemented a \"New Player Tip\" system that will display useful in-game information based on the actions you take during the match. These tips will provide critical information for gameplay fundamentals, potential focuses for skill improvements, and suggestions for advanced strategies. NOTE: If you’re an existing player, New Player Tips won't show up unless turned on in Settings. Our New Player Tips have been built from the ground up to give you more opportunities to skill-up and learn VALORANT faster via: Tips that “listen” to your in-match actions and behaviors. Tips that level up with you as you learn the fundamentals of VALORANT gameplay, from beginner to advanced strategies. Tips can be switched On or Off in your Settings. SOCIAL UPDATES You can now block communications with other players. When you block someone, you will no longer see or hear any direct communications from them, including: Messages in text chat Voice comms Party invites and requests Friend requests CONSOLE GAMEPLAY SYSTEMS UPDATES Updates to megamap cursor sensitivity settings: Added a new setting to allow you to select an input curve for megamap cursor controls. Added Agent-specific cursor curve settings for abilities that utilize the megamap: Brimstone’s Sky Smoke and Orbital Strike. Clove’s Ruse Omen’s From the Shadows map ability controls Removed aim assist from some abilities that aren’t intended to target opposing players. MAPS UPDATES Fracture enters Unrated & Swift Play queues. This is the final legacy map being added to console mode queues. Console players now have the entire catalog of current VALORANT maps."
+  },
+  {
+    "version": "9.07",
+    "date": "2024-10-08",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-9-07",
+    "fetched_at": "2026-05-28T01:34:21.512Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "52ebf8880ea1eb23",
+    "sections": [],
+    "raw_text": ""
+  },
+  {
+    "version": "9.08",
+    "date": "2024-10-22",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-9-08",
+    "fetched_at": "2026-05-28T01:34:21.306Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "52ebf8880ea1eb23",
+    "sections": [],
+    "raw_text": ""
+  },
+  {
+    "version": "9.09",
+    "date": "2024-11-05",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-9-09",
+    "fetched_at": "2026-05-28T01:34:21.057Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "641e5730383e3b67",
+    "sections": [],
+    "raw_text": "Hi folks! It’s Ash and I’m here to talk about Patch 9.09.We fixed various bugs with Agents, such as Deadlock’s ANNIHILATION sometimes getting stuck at ledges, players being able to outrun Fade’s Prowler, and now Gekko’s Thrash won’t have as much difficulty making some small jumps.There’s more to come with these year-end patches so stay tuned!"
+  },
+  {
+    "version": "9.10",
+    "date": "2024-11-19",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-9-10",
+    "fetched_at": "2026-05-28T01:34:20.831Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "52ebf8880ea1eb23",
+    "sections": [],
+    "raw_text": ""
+  },
+  {
+    "version": "9.11",
+    "date": "2024-12-10",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-9-11",
+    "fetched_at": "2026-05-28T01:34:20.641Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "e5b795a5fa716e9d",
+    "sections": [
+      {
+        "title": "ALL PLATFORMS",
+        "items": [
+          "You can now upgrade your weapon skins in 5 seconds instead of 5 hours (lol)"
+        ]
+      },
+      {
+        "title": "ALL PLATFORMS",
+        "items": [
+          "Ping System"
+        ]
+      }
+    ],
+    "raw_text": "AGENT UPDATESALL PLATFORMSNeonWe’re reducing the power of Neon’s High Gear and Overdrive. These changes are intended to require Neon to play more intentionally as Neon’s abilities are highly reactive and impactful and should require more strategic use than they currently do.High GearWe believe Neon’s slide is correctly positioned as an aggressive combat tool, but making a call around when to cast should be more important than it is currently, and that she should pay more of a cost when she slides.Additionally, we want to sharpen the slide as a close-quarters combat tool to reward Neon for sprinting up to her opponents rather than consistently beaming opponents at long ranges.Slides 2 >>> 1Accuracy during slideFull accuracy >>> Crouch-walking accuracyOVERDRIVEWe want to increase counterplay for Overdrive—giving opponents a potential window to stall Neon out or disengage. The amount of average round impact with her ultimate also justifies an 8 point cost.Duration of ultimate: 20s >>> 10sUltimate points 7 >>> 8VyseRazorvineWe want to increase Razorvine’s ability to hold space as well as clean up some unclear gameplay situations where Razorvines that land on high objects could affect opponents with poor visual feedback.Damage per tick of moving through Razorvine: 6 >>> 10Vertical drop spawn height: 450 >>> 300This means Razorvine will no longer affect players as far under it when spawning high up on objects/level geometryNow slows enemy dashes similar to Sage’s Slowing Orb and concusses.Arc RoseArc Rose is getting some minor quality of life updates that should make aggressing off its initial placement easier.Equip speed after castNormal >>> FastCLIENT UPDATESALL PLATFORMSYou can now upgrade your weapon skins in 5 seconds instead of 5 hours (lol)Added the ability to unlock multiple available skin levels in a single transaction. Variants will require a separate unlock.GAMEPLAY SYSTEMS UPDATESALL PLATFORMSPing SystemThe in-game ping system was created with the simple goal of allowing players to communicate with one another without using their mic. Over the years, unintended use cases of the ping system have emerged that give players in-the-moment combat advantages that go beyond the intended use of the system.With that in mind, we’re making two changes to the ping system.Smokes will block your in-world pings from traveling through them and instead land on the smoke.Pings made on your map will no longer appear in the world and only display on the minimap.To help you differentiate these ping behaviors in game we’re introducing new ping visuals and new ping sound for pings made on the map.We’ll introduce a cheat function for allowing map pings to show in-world during custom games to aid labbing and lineups, but this will come in a future patch.Before Ping Update"
+  },
+  {
+    "version": "10.00",
+    "date": "2025-01-07",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-10-00",
+    "fetched_at": "2026-05-28T01:34:20.445Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "52ebf8880ea1eb23",
+    "sections": [],
+    "raw_text": ""
+  },
+  {
+    "version": "10.01",
+    "date": "2025-01-21",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-10-01",
+    "fetched_at": "2026-05-28T01:34:20.254Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "8bfda64e5269792d",
+    "sections": [],
+    "raw_text": "Hey folks! It’s Ash and I’m excited to be back at it again for another stellar year of VALORANT. One of my New Year’s resolutions is to hit Immortal for the first time…let’s see how that goes. What’s yours?Patch 10.01 is short but very sweet. Rank Shields have been added to Competitive Mode so when you’re in Tier 1 at 0 RR, you have 3 chances to win before dropping to the next rank below. There are also lots of bug fixes for our newest agent, Tejo.Happy 2025, y’all. Let’s get it."
+  },
+  {
+    "version": "10.02",
+    "date": "2025-02-04",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-10-02",
+    "fetched_at": "2026-05-28T01:34:20.037Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "52ebf8880ea1eb23",
+    "sections": [],
+    "raw_text": ""
+  },
+  {
+    "version": "10.03",
+    "date": "2025-02-18",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-10-03",
+    "fetched_at": "2026-05-28T01:34:19.821Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "e3586e3ee7d1b3f1",
+    "sections": [],
+    "raw_text": "Hey, everyone. Kenny, here.This week’s patch is another small one as we get closer to Masters Bangkok Finals. In it, you’ll find some small updates to minimap clarity, changes to Chamber, Skye, and Harbor’s slow behavior, and a couple bug fixes.GL HF!(Due to a Riot holiday and our offices being closed, Patch 10.03 will deploy one day later on 2/19)"
+  },
+  {
+    "version": "10.04",
+    "date": "2025-03-04",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-10-04",
+    "fetched_at": "2026-05-28T01:34:19.629Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "52ebf8880ea1eb23",
+    "sections": [],
+    "raw_text": ""
+  },
+  {
+    "version": "10.05",
+    "date": "2025-03-18",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-10-05",
+    "fetched_at": "2026-05-28T01:34:19.426Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "52ebf8880ea1eb23",
+    "sections": [],
+    "raw_text": ""
+  },
+  {
+    "version": "10.06",
+    "date": "2025-04-01",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-10-06",
+    "fetched_at": "2026-05-28T01:34:19.186Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "52ebf8880ea1eb23",
+    "sections": [],
+    "raw_text": ""
+  },
+  {
+    "version": "10.07",
+    "date": "2025-04-15",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/valorant-patch-notes-10-07",
+    "fetched_at": "2026-05-28T01:34:18.980Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "d1fc4d9b463a2b11",
+    "sections": [],
+    "raw_text": "Rise and shine, gamers, another patch has dropped!Lots of bug fixes for PC and console—fixes for nine Agents and some UI improvements here and there. For console, you can now see the Timeline view as part of the End of Game and Match Details screens where you can review the events of the match round by round (for Competitive, Swiftplay, and Unrated).Hope everyone has been keeping up with VCT because there’s only 1 month left before we know who’s moving on to Masters Toronto. What team are you rooting for?Have a good one!-Ash"
+  },
+  {
+    "version": "10.08",
+    "date": "2025-04-29",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-10-08",
+    "fetched_at": "2026-05-28T01:34:18.716Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "3deb152b351cefe9",
+    "sections": [],
+    "raw_text": "Hey, everyone. It’s Kenny here, wishing you a warm welcome to Act III of Season 2025 and Patch 10.08. This patch brings some Agent balance updates for Brim, Astra, and Yoru, plus the long-awaited Gifting functionality to the Featured Store, and a slew of bug fixes. Oh, and you might catch a little nostalgia if you listen to the music throughout the game. That Episode 1 menu music really takes me back… Ok, that’s all from me. GL HF, gamers!"
+  },
+  {
+    "version": "10.09",
+    "date": "2025-05-13",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-10-09",
+    "fetched_at": "2026-05-28T01:34:18.524Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "e103cd3792aa87a6",
+    "sections": [],
+    "raw_text": "Pssst. Wake up, babe. Tejo’s balance update just dropped.Hiya, friends. It’s Kenny—here to walk you through Patch 10.09. Today’s patch has some highly anticipated changes to Tejo, a minor nerf to Breach’s stun, some small updates to starting ultimate points in Swiftplay, and various bug fixes.Let’s jump into it."
+  },
+  {
+    "version": "10.10",
+    "date": "2025-05-27",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-10-10",
+    "fetched_at": "2026-05-28T01:34:18.327Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "52ebf8880ea1eb23",
+    "sections": [],
+    "raw_text": ""
+  },
+  {
+    "version": "10.11",
+    "date": "2025-06-10",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-10-11",
+    "fetched_at": "2026-05-28T01:34:18.141Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "6b1431d1719ce2eb",
+    "sections": [
+      {
+        "title": "GENERAL UPDATES",
+        "items": [
+          "Added a Finisher Cam, which will trigger for deaths by guns with finishers and function the same way the Spike Cam currently does. We hope this will help combat visual clutter and related photosensitivity concerns for those sensitive to flashing lights, as well as performance issues associated with how your view would sometimes behave during finishers in the past."
+        ]
+      },
+      {
+        "title": "CLIENT UPDATES",
+        "items": [
+          "Career page menu music has been updated to a remix of Ego by Qing Madi."
+        ]
+      },
+      {
+        "title": "SOCIAL UPDATES",
+        "items": [
+          "Adjusted the appearance of in-game voice indicators to improve clarity"
+        ]
+      },
+      {
+        "title": "BUG FIXES",
+        "items": [
+          "Agents"
+        ]
+      },
+      {
+        "title": "PREMIER UPDATES",
+        "items": [
+          "In addition to a gun buddy and title, the winners of V25A3 playoffs will receive the new player card effect at the start of V25A4!"
+        ]
+      },
+      {
+        "title": "COMPETITIVE UPDATES",
+        "items": [
+          "We’ve added the Performance view as part of the End of Game and Match Details screens where you can review how you matched up against each opponent."
+        ]
+      }
+    ],
+    "raw_text": "HAPPY 5TH ANNIVERSARY TO VALORANT! Whether you’ve been here since beta or just started recently, we hope you’ve had a fantastic time playing the game and making new memories. It’s Ash here and while my win rate is down, the vibes are up. Let’s talk patch 10.11. We’ve added a Finisher Cam that will trigger for skinline finishers to help combat visual clutter and Icebox will remain disabled in Deathmatch and Escalation to address some issues. We heard you like the new anniversary video so the career page menu music has been updated to a remix of Ego by Qing Madi. And last but certainly not least, it’s time to tell your 5-stack to start grinding again because there’s updates to Premier! In addition to the gun buddy and title, the winners will also receive a lovely new player card effect that’ll certainly instill fear in your enemies when they see it in the loading screen. Here’s to another 5 years of wins and whiffs! ALL PLATFORMS GENERAL UPDATES Added a Finisher Cam, which will trigger for deaths by guns with finishers and function the same way the Spike Cam currently does. We hope this will help combat visual clutter and related photosensitivity concerns for those sensitive to flashing lights, as well as performance issues associated with how your view would sometimes behave during finishers in the past. CLIENT UPDATES Career page menu music has been updated to a remix of Ego by Qing Madi. SOCIAL UPDATES Adjusted the appearance of in-game voice indicators to improve clarity BUG FIXES Agents Fixed an issue where the visual indicator for Nightfall wouldn’t disappear for spectators if Fade dies with the ability equips. Fixed an issue where area names on Guided Salvo ability maps were too large and overlapping due to decreased cast range. We’ve removed area names from Tejo’s Guided Salvo and Armageddon ability maps for consistency. Fixed an issue where Reyna’s Targeting visual for Leer wouldn’t properly display for spectators, allies, and observer perspectives. Fixed an issue where Waylay’s targeting indicator for Convergent Paths wouldn’t display properly for spectators, allies, and observer perspectives. Fixed an issue where Clove’s Pick-me-up audio wouldn’t play properly for all players. Fixed an issue where Chamber’s Trademark didn’t have team coloring applied on the minimap for observers. Fixed an issue where Breach’s Fault Line area of effect VFX was not matching collision volume depending on charge duration. PC ONLY PREMIER UPDATES In addition to a gun buddy and title, the winners of V25A3 playoffs will receive the new player card effect at the start of V25A4! Rewards are granted to all players on the roster at the time of the playoff win that played at least two Weekly matches or one Playoff match on the team this Stage. This means you should NOT leave the team until after playoffs complete if you want to receive your rewards. Gun buddy and title are granted the next time you log in ~24 hr after playoffs. The new player card effect will show up when Stage V25A4 starts. Check out our recent dev video for more info on what's coming in Premier next Stage! CONSOLE ONLY COMPETITIVE UPDATES We’ve added the Performance view as part of the End of Game and Match Details screens where you can review how you matched up against each opponent."
+  },
+  {
+    "version": "11.00",
+    "date": "2025-06-24",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-11-00",
+    "fetched_at": "2026-05-28T01:34:17.907Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "52ebf8880ea1eb23",
+    "sections": [],
+    "raw_text": ""
+  },
+  {
+    "version": "11.01",
+    "date": "2025-07-14",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-11-01",
+    "fetched_at": "2026-05-28T01:34:17.704Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "654a90197251ba55",
+    "sections": [],
+    "raw_text": "Hey, all. Kenny, here.Yes, today is when we’d normally put out a new patch. But in order to prepare for the upcoming UE5 upgrade, we’re skipping Patch 11.01 and making any changes scheduled for this patch with 11.02, coming July 29. Just wanted to let you all know.Soooo, that’s it. Those are the “patch notes.” See you in a couple weeks!"
+  },
+  {
+    "version": "11.02",
+    "date": "2025-07-29",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-11-02",
+    "fetched_at": "2026-05-28T01:34:17.525Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "c65c186f30ef8eee",
+    "sections": [],
+    "raw_text": "Hey, all! It’s Kenny.Today marks a significant milestone for VALORANT. We are making the upgrade to Unreal Engine 5. While you might not notice a whole lot of change right now, this upgrade will bring a whole new world of possibilities to VALORANT in the years to come.Don’t forget to check out your gun buddy collection later today and show off your “Hot New Engine” gun buddy if you’re a fan of cool new tech.Beyond that, enjoy some bug fixes! Nobody likes bugs in video games, right? Unless you’re a speedrunner or something…Anyway, that’s it. GL HF GG."
+  },
+  {
+    "version": "11.04",
+    "date": "2025-08-19",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-11-04",
+    "fetched_at": "2026-05-28T01:34:17.324Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "88efaa48e296c329",
+    "sections": [],
+    "raw_text": "HELLOOO everyone! It’s JOY and it’s my first time joining the patch notes gang. 👋 This one is short and simple, but here’s a TLDR in case you still need it. TLDR; Agents Agent abilities adjusted = Chamber, Sage Maps Abyss is BACK, Icebox is OUT Gameplay systems Ping audio made less harsh AOE ultimate indicator colors adjusted for clarity Gifting for the esports store is available"
+  },
+  {
+    "version": "11.05",
+    "date": "2025-09-02",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-11-05",
+    "fetched_at": "2026-05-28T01:34:17.113Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "7ee1e9bf4f51ae60",
+    "sections": [
+      {
+        "title": "AGENT UPDATES",
+        "items": [
+          "Harbor",
+          "Reckoning",
+          "Cove"
+        ]
+      },
+      {
+        "title": "ESPORTS FEATURES UPDATES",
+        "items": [
+          "It’s time to make a choice—Pick’ Ems have returned in time for Champions Paris! Starting on September 4th, you will have access to the Group Stage in-client and on the web. Predict the advancing teams for points, earning extra points for correctly guessing the exact placement. You’ll be able to earn rewards for participating.",
+          "This year, we’re adding something extra to up the ante—you can align yourself with your favorite creator’s Faction! Choose carefully, as you can only join one faction. Each group offers a unique in-game reward.",
+          "If you do well, the points you earn in Groups and Playoffs stage will contribute to the Faction leader’s score. See if your Faction wins it all!"
+        ]
+      },
+      {
+        "title": "PLAYER BEHAVIOR UPDATES",
+        "items": [
+          "We have adjusted our behavior system to address Remake Abuse and Gameplay Participation."
+        ]
+      },
+      {
+        "title": "BUG FIXES",
+        "items": [
+          "General",
+          "Agents"
+        ]
+      },
+      {
+        "title": "BUG FIXES",
+        "items": [
+          "Premier"
+        ]
+      },
+      {
+        "title": "CONSOLE ONLY",
+        "items": [
+          "Competitive Updates",
+          "Bug Fixes"
+        ]
+      }
+    ],
+    "raw_text": "HELLO everyone, it’s JOY! 11.05 is the patch that Champions is played on, so we’re keeping this light so our pros can be as prepared as possible. Also, our patch rollout is delayed a day due to a holiday. We’re sending out these notes so you know what’s coming soon, but be prepared for the new patch to come a day later than you’re used to (if it’s usually on Tuesdays for you, it will be Wednesday. If you usually have a new patch on Wednesday, it will be Thursday this time). TLDR; Agents Made some visual effect adjustments for clarity on Harbor. General bug fixes Esports Pick’Ems are back in time for Champs- this time with new Factions to join! Game Remake abusers beware- increased penalties are coming your way. ALL PLATFORMS AGENT UPDATES Harbor Visual effects updated for clarity. Hold your horses 🏇– these aren’t the larger updates we’ve been talking about. But you will hear more about those at Champs, so stay tuned. For the moment, we’re updating the visual clarity of his abilities. Reckoning Reduced visual noise. Updated ground indicator to more clearly show its impact range. The yellow wisp is now closer to the Agent being hit, so it’s easier to see where someone is hiding before the concuss comes down. Shortened water splash on the ground for visibility. Cove Improved visual clarity of shield health states. The health state is now more reflected in the visual water animation. ESPORTS FEATURES UPDATES It’s time to make a choice—Pick’ Ems have returned in time for Champions Paris! Starting on September 4th, you will have access to the Group Stage in-client and on the web. Predict the advancing teams for points, earning extra points for correctly guessing the exact placement. You’ll be able to earn rewards for participating. This year, we’re adding something extra to up the ante—you can align yourself with your favorite creator’s Faction! Choose carefully, as you can only join one faction. Each group offers a unique in-game reward. If you do well, the points you earn in Groups and Playoffs stage will contribute to the Faction leader’s score. See if your Faction wins it all! PLAYER BEHAVIOR UPDATES We have adjusted our behavior system to address Remake Abuse and Gameplay Participation. Penalties will increase for those who repeatedly AFK and dodge queues. This affects those who consistently abuse and disrupt our systems so don’t worry, we won’t be unfairly penalizing players who are genuinely trying to play. BUG FIXES General Improved the backend technology around detection abilities (i.e. Prowlers, Wingman, Dizzy, etc) so they can more reliably detect opponents within their field of view. Added audio cleanup logic to make sure unexpected audio events don't continue playing across round transitions. Agents Astra Fixed an issue where bullet tracers pass through Astra's Cosmic Divide. This fix does reintroduce an audio bug where there is a slight audio hitch when passing through Astra wall. Chamber Fixed an issue where Chamber's Trademark in-world icon would not change color when aimed at. Clove Fixed an issue where Clove's Pick-Me-Up cast sound was silent for enemies. Deadlock Fixed an issue where Deadlock's Sound Sensor and Cypher's Trapwire were more difficult to place than intended. Fixed a Spectator bug with Deadlock's Annihilation deafen where audio processing was not cleaning up as expected after a spectated player was impacted by the ability. Fixed issue where use of Deadlock's Annihilation on Yoru's Fakeout clone would apply audio effects to the real Yoru. Gekko Fixed a bug where \"Spike Down\" VO would play if Wingman was destroyed right after planting the Spike. Jett Fixed a bug where Jett’s Tailwind audio would continue into the next round. Sova Fixed audio issue where the “being watched” sonic feedback of Sova’s Owl Drone wouldn't trigger if the drone had line-of-sight to the player when the drone spawned. Vyse Fixed issue where Vyse’s Steel Garden audio could trigger twice after Observers swap targets. Fixed a bug where Vyse's Razorvine would leave circles on the minimap for observers when Vyse died. Waylay Fixed a bug where Waylay's Saturate could affect enemies after they left the range of the area of effect. Yoru Fixed an issue where Yoru's Gatecrash in-world icon would not change color when aimed at. We have fixed a bug where in some cases after turning invisible, Yoru and Reyna would reappear in their original location when the invisibility ends. PC ONLY BUG FIXES Premier Fixed an issue on the Awards tab where long names were not displayed correctly in some languages. CONSOLE ONLY Competitive Updates Updated leaderboards to display Immortal+ ranked rating thresholds Bug Fixes New Player Tips have been switched off while we fix an issue where they are being displayed for a much shorter time than intended to new players. We are actively investigating having the feature switched back on as soon as possible."
+  },
+  {
+    "version": "11.06",
+    "date": "2025-09-16",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-11-06",
+    "fetched_at": "2026-05-28T01:34:16.882Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "ad2d7023b1ab7948",
+    "sections": [
+      {
+        "title": "COMPETITIVE UPDATES",
+        "items": [
+          "Our last banwave hit 40,000 bots over the last 6 months!"
+        ]
+      },
+      {
+        "title": "BUG FIXES",
+        "items": [
+          "Agents"
+        ]
+      },
+      {
+        "title": "GENERAL UPDATES",
+        "items": [
+          "Replays"
+        ]
+      },
+      {
+        "title": "PERFORMANCE UPDATES",
+        "items": [
+          "The RawInputBuffer setting has been removed and is no longer configurable. The setting will be enabled at all times for players because it is more performant."
+        ]
+      },
+      {
+        "title": "KNOWN ISSUES",
+        "items": [
+          "The highlight behavior for dropped weapons and the Spike is incorrect and will highlight when players are merely nearby rather than when directly looking at them. This will be resolved in Patch 11.07!"
+        ]
+      },
+      {
+        "title": "BUG FIXES",
+        "items": [
+          "Fixed an issue with how New Player Tips were displayed on console."
+        ]
+      }
+    ],
+    "raw_text": "Hi folks, it's Ash and I have two important things to say to you. First, we banned 40,000 bots over the last 6 months so we hope you see less of them in your games! Second, yeah it’s happening. The Replay System is out for Competitive, Unrated, Swiftplay, and Premier. And we highly recommend checking out the FAQ to learn about its capabilities! ALL PLATFORMS COMPETITIVE UPDATES Our last banwave hit 40,000 bots over the last 6 months! BUG FIXES Agents We have fixed a rare bug where in a very very specific set of circumstances, Yoru and Reyna, after turning invisible, would reappear in their original location after the invisibility ended. PC ONLY GENERAL UPDATES Replays Replays are now available for your Competitive, Unrated, Swiftplay and Premier games. Jump over here for more details! PERFORMANCE UPDATES The RawInputBuffer setting has been removed and is no longer configurable. The setting will be enabled at all times for players because it is more performant. CONSOLE ONLY KNOWN ISSUES The highlight behavior for dropped weapons and the Spike is incorrect and will highlight when players are merely nearby rather than when directly looking at them. This will be resolved in Patch 11.07! BUG FIXES Fixed an issue with how New Player Tips were displayed on console."
+  },
+  {
+    "version": "11.07",
+    "date": "2025-09-30",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-11-07",
+    "fetched_at": "2026-05-28T01:34:16.692Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "0f82250ad7e75a42",
+    "sections": [],
+    "raw_text": "Wowee would you look at the time? That’s right, it’s time for Champs Finals! Who are you rooting for? It’s Ash. Let’s get down to business. TLDR; We made adjustments to Cypher’s Spycam and Waylay’s Convergent Paths for visual clarity. We’re taking steps to make sure the info provided to players is consistent across similar abilities in the world and on the minimap. There may or may not be a new mode in customs being released on October 3rd. Hmm… Fixed various bugs, including most cases of the Agents appearing invisible."
+  },
+  {
+    "version": "11.08",
+    "date": "2025-10-14",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-11-08",
+    "fetched_at": "2026-05-28T01:34:16.314Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "fb6453559adba2a8",
+    "sections": [
+      {
+        "title": "GENERAL UPDATES",
+        "items": [
+          "Our end of year balance patch is meant to adjust how our maps, weapons, and agents work together. The tuning pass in this patch is designed to reinforce what we call \"the competitive dialogue\"-the round-to-round exchange between attackers and defenders that rewards adaptation and strategy.",
+          "Over time, as player skill and ability impact have grown, uncoordinated utility has at times felt just as impactful as well-executed, strategic plays. This has reduced meaningful opportunities for counterplay and diminished the strategic depth we aim for in VALORANT. These changes are focused on striking a healthy balance between gunplay and the abilities that make VALORANT its own unique flavor of tactical shooter."
+        ]
+      },
+      {
+        "title": "General",
+        "items": [
+          "The agent updates this patch are focused around how we can support higher mastery around ability usage. We want to allow your gunplay to do the talking, while you use abilities strategically and intentionally to gain advantages. These changes should reward players who use abilities well in the right time and place. Additionally, we're also reducing the size of some of the largest ultimate abilities.",
+          "We're also aiming to create more consistency across the game's various debuffs, making it easier to build muscle memory when playing with or against effects like Nearsight, Concuss, and Stims."
+        ]
+      },
+      {
+        "title": "Initiators",
+        "items": [
+          "Breach",
+          "Fade",
+          "Gekko",
+          "KAY/O",
+          "Sova"
+        ]
+      },
+      {
+        "title": "Duelists",
+        "items": [
+          "Iso",
+          "Neon",
+          "Reyna",
+          "Waylay",
+          "Yoru",
+          "Raze"
+        ]
+      },
+      {
+        "title": "Controllers",
+        "items": [
+          "Astra",
+          "Brimstone",
+          "Omen",
+          "Viper"
+        ]
+      },
+      {
+        "title": "Sentinels",
+        "items": [
+          "Vyse",
+          "Cypher",
+          "Killjoy",
+          "Deadlock",
+          "Sage"
+        ]
+      },
+      {
+        "title": "MAP UPDATES",
+        "items": [
+          "In general, our focus for this patch was to encourage more on-site play for both teams, and to make planting for main more risky and predictable.",
+          "Pearl",
+          "Abyss",
+          "MAP POOL UPDATES"
+        ]
+      },
+      {
+        "title": "PC ONLY",
+        "items": [
+          "Rifles",
+          "Submachine guns"
+        ]
+      },
+      {
+        "title": "CONSOLE ONLY",
+        "items": [
+          "Spectre",
+          "Stinger",
+          "Bulldog",
+          "Phantom",
+          "Vandal"
+        ]
+      },
+      {
+        "title": "COMPETITIVE UPDATES",
+        "items": [
+          "Starting in 11.09, accounts detected for sharing must enable Riot Mobile multi-factor authentication (MFA) to access Competitive queue. Other modes will remain unaffected.",
+          "For now in 11.08, you can check out the banner in the Competitive lobby or this article for more information on the upcoming changes."
+        ]
+      },
+      {
+        "title": "GAMEPLAY SYSTEMS UPDATES",
+        "items": [
+          "We've improved how Placeable Abilities like Cypher's Spycam and Deadlock's Sound Sensor previews when placing in our maps. All previews will now better align to the eventual location of your ability."
+        ]
+      },
+      {
+        "title": "PLAYER BEHAVIOR UPDATES",
+        "items": [
+          "Added \"Rank Manipulation\" as a new reporting category."
+        ]
+      },
+      {
+        "title": "PREMIER UPDATES",
+        "items": [
+          "Welcome to Stage V25A6!",
+          "Contender Eligibility updates",
+          "VCT Team Tags"
+        ]
+      }
+    ],
+    "raw_text": "Hello everyone, this patch is a big one! The entire VALORANT team has been working to bring VALORANT closer to our long-term vision for the game, preserving our core identity as a tactical shooter while evolving toward a healthier balance between gunplay and abilities. TL;DR- we are making adjustments across gameplay to create a healthy dialogue in combat - one where there are clear ways to respond and adapt to what the enemy team is doing round over round. These changes aim to strike a healthier balance between sharp gunplay and the unique abilities that give VALORANT its signature tactical flavor. They span agents, weapons, and maps, all aimed at rewarding strategic decision-making in VALORANT. ALL PLATFORMS GENERAL UPDATES Our end of year balance patch is meant to adjust how our maps, weapons, and agents work together. The tuning pass in this patch is designed to reinforce what we call \"the competitive dialogue\"-the round-to-round exchange between attackers and defenders that rewards adaptation and strategy. Over time, as player skill and ability impact have grown, uncoordinated utility has at times felt just as impactful as well-executed, strategic plays. This has reduced meaningful opportunities for counterplay and diminished the strategic depth we aim for in VALORANT. These changes are focused on striking a healthy balance between gunplay and the abilities that make VALORANT its own unique flavor of tactical shooter. AGENT UPDATES General The agent updates this patch are focused around how we can support higher mastery around ability usage. We want to allow your gunplay to do the talking, while you use abilities strategically and intentionally to gain advantages. These changes should reward players who use abilities well in the right time and place. Additionally, we're also reducing the size of some of the largest ultimate abilities. We're also aiming to create more consistency across the game's various debuffs, making it easier to build muscle memory when playing with or against effects like Nearsight, Concuss, and Stims. Nearsights Fade's Prowler, Omen's Paranoia, Reyna's Leer, Skye's Seeker Nearsight radius increased from 5 >>> 7m Concuss Breach's Fault Line, Gekko's Wingman, Neon's Relay Bolt, Astra's Nova Pulse Concuss duration decreased to 2.5s Stim Unification Brimstone's Stim Beacon, KAY/O's NULL/CMD, Reyna's Empress Reload time modifier: 0.9 Firing rate modifier: 1.1 Weapon draw time modifier: 0.9 Spread recovery modifier: 1.1 Initiators Initiators are intended to be the go-to agents for breaking angles and creating openings for their team. With this update, we're adjusting how often they can use their signature abilities within a round. These abilities should remain impactful, but now demand more coordination and deliberate timing to unlock their full value. Flashes have always been a critical tool for challenging angles, and in a world with less frequent signature abilities, we want them to retain the power needed to start fights. To support that, we've increased the strength of Initiator flashes so they remain reliable tools for setting up engagements. Breach Fault Line Cooldown increased from 40s → 60s Initial windup decreased from 1.2s → 1.1s Concuss duration decreased from 3.5s → 2.5s Flash Point Flash duration increased up from 2s → 2.25s Rolling Thunder Width decreased from 23m → 18m Concuss duration decreased from 6s → 4s Ult points decreased from 9 → 8 Fade Haunt Cooldown increased from 40s → 60s Haunt active duration decreased 2s → 1.5s Prowler Visibility in Nearsight increased from 5m → 7m Nightfall Deafen and Marked duration decreased from 12s → 8s Width decreased from 24m → 20m Decay now remains a consistent 75 damage over its duration instead of decreasing over time Gekko General Cooldown upon reclaim increased from 10s → 20s Wingman Health decreased from 80 → 60 Concuss duration decreased from 3.5s → 2.5s Thrash< Health decreased from 200 → 180 KAY/O ZERO/POINT Cooldown increased from 40s → 60s FLASH/DRIVE Underhand maximum flash duration increased from 1.5s → 2.25s NULL/CMD Updated to match Stim standardization Increased fire rate reduced from 15% → 10% Added standardized weapon draw time for Stims NEW: Increased weapon draw speed by 10% Added weapon recovery speed for Stims Weapon recovery speed increase by 10% Sova Recon Bolt Cooldown increased from 40s → 60s Duelists Most Duelist gameplay is in a healthy state, so we're making minor tunings. We want stuns and slows to feel rewarding when they lead to kills, so we're making adjustments that will reward precise timing and well-coordinated ability combos. Iso Kill Contract Length decreased from 48m → 36m Neon Neon's High Gear changes allow Neon to make more significant timing breaks but will require more thoughtful resource management. High Gear Battery recharge decreased, time to recharge to full battery increased from 20s → 60s Battery drain reduced, increasing sprint time with full battery from 12s → 16s Relay Bolt Concuss duration decreased 3.5s → 2.5s Reyna Leer Health decreased from 80 → 60 Empress Updated to match stim standardization Reduced reload time decrease from 25% → 10% Reduced fire rate increase from 15% → 10% Increased weapon draw speed reduced from 25% >>> 10% Reduced weapon recovery speed increase from 25% → 10% Waylay Saturate Hindered duration decreased from 4s → 3s Convergent Paths Ultimate no longer spawns an afterimage of Waylay, and she is no longer pushed back when casting Ultimate now briefly restricts aim rotation and movement speed similar to Breach's Rolling Thunder when casting Hindered duration decreased from 7s → 6s Initial windup decreased from 2s → 1s Width decreased from 18m → 13.5m Decreased movement speed buff on ult from 15% → 10% Yoru We've seen a notable rise in Yoru mastery, but his kit has become so effective it can overshadow other Duelists, and even some Initiators. We're making changes to make his tools a bit more selfish and encourage coordinated team plays to achieve his potential. Gatecrash Health decreased from 60 → 20 Audio now plays from Yoru's location when Yoru teleports or fakes it Fakeout Flash duration decreased from 3s → 2s Blindside Flash duration decreased from 1.75s → 1.5s Flash now follows the standard flash falloff curves as other Agents. Previously, Yoru's flashes that were slightly offscreen were more effective than intended Dimensional Drift Yoru can no longer cast Blindside, or set up his fakeout during Dimensional Drift He can still cast the initial Gatecrash and reactivation, as well as reactivation of Fakeouts Raze Blast Pack Raze can now affected by Slows while midair with Blast Pack If Slowed, the force from Blast Pack will be reduced, similar to how slows affect other Dashes Controllers Controllers were largely in a healthy state and required few changes, though some abilities have been adjusted to align with recent roster-wide updates. Astra Gravity Well Fragile duration decreased from 5s → 2.5s Cooldown increased from 45s → 60s Nova Pulse Concuss duration decreased from 3.5s → 2.5s Cooldown increased from 45s → 60s Nebula Cooldown increased 25s → 35s Brimstone Stim Beacon Updated to match stim standardization Decreased fire rate increase from 15% → 10% Decreased movement speed increase from 15% → 10% Omen Dark Cover Cooldown increased from 30s → 40s Paranoia Projectile speed increased from 16 meters per second → 20 meters per second Travel distance reduced from 32.5m → 25m Viper Initial contact now inflicts less Decay, reduced from 30 → 10 health Sentinels Sentinels are premier at defending territory, but we think there can be more room for dialogue between attackers and defensive Sentinel utilities. These adjustments aim to make it easier to take advantage of intended counterplay while sharpening each Sentinel's unique identity. We're also reducing the health of some of the tankier shootables to make them sponge less of your bullets. Vyse Vyse has been great at stalling and punishing enemies that move recklessly through her space but countering her has been more difficult than intended. We're adjusting Shear and Arc Rose's counterplay rules to make them simpler and more consistent for enemies to perform. Arc Rose Arc Rose is now destructible after the flash windup starts rather than being invulnerable. When enemy players are successfully flashed, the audio cue and voiceline alerting Vyse and her allies is removed Flash duration decreased from 2.25s → 2.0s Cooldown are slightly adjusted After destruction, cooldown is increased from 45s → 60s Recalling the ability will now always incur a 20s cooldown Shear Wall Trap trigger logic has been reworked to make it easier to bait out. The wall now spawns immediately when an enemy enters and then leaves its trigger zone. Enemies will also hear an audio cue, audible only to them, when they enter the trigger zone Razorvine Health decreased from 40 → 20 Steel Garden Initial windup increased from 3.4s → 4.4s Radius decreased from 32.5m → 26m Cypher We're asking Cypher players to be craftier with their camera placements and focus on his role as a surveillance network master. Enemies will now see and hear a Spycam when it is nearby, similar to Vyse's Arc Rose. Trapwire has been adjusted to be less lethal, though Cypher can still convert to a kill when they are disrespected. Spycam Added stealthing functionality Inactive camera will be revealed to enemies when you are within 8 meter radius of the camera, and will also have an accompanying audio tell When the camera is active, there will be a louder persistent camera audio for enemies with a 12m range Cooldown when destroyed is increased from 45s → 60s Trapwire Windup decreased PC: 1.5s → 0.9s Console: 2.5 → 1.9s Players are no longer revealed after 0.5 seconds of the tripwire winding up Players are tagged + slowed by 50% when chained If you move more than 4m outwards from the wire it will now immediately zap you instead of pulling you back Trapwire zap no longer concusses its target. Instead, it will slow + reveal its target for 1 second. Killjoy We're increasing the counterplay around Killjoy's range restricted utilities, giving enemies more tells to maneuver around unattended utilities and asking KJ to make a sharper call on when to keep her utility active and when to reposition away from them. Turret Cooldown when destroyed increased from 45s → 60s Reactivation time for turret increased from 0.5s → 2s Turret movement tagging per bullet increased 29.5% >>> 50% NEW: Added a \"windup\" effect when Killjoy first re-enters the activation range Alarmbot Health decreased from 50 to 20 Reactivation time increased from 1s → 2s NEW: Added a \"windup\" effect when Killjoy first re-enters the activation range Deadlock GravNet Cooldown increased from 40s >>> 60s Barrier Mesh Cost reduced from 400 to 300 Health of smaller nodes decreased from 570 to 480 Sonic Sensor Concuss duration reduced 3.5s to 2.5s Sage Barrier Orb Cost reduced from 400 to 300 Fortification delay reduced from 3.3 seconds to 2 seconds Health of Barrier segments decreased from 800 to 600 MAP UPDATES In general, our focus for this patch was to encourage more on-site play for both teams, and to make planting for main more risky and predictable. Pearl Defending post-plant positions from B Main should remain a viable strategy, but it's become overly difficult for defenders to retake the site, particularly when utility is in play. To address this, we're making the following changes: B-Site Removed the deep sightline from B Long - This angle provided too much control over the site from a safe distance Adjusted cover positioning on and around the site - These changes will encourage more direct engagements on the site itself Abyss Seeing the map evolve over the last year, we've observed many prominent strategies emerge and identified areas that could be improved, mainly focused on strengthening defensibility and improving pathing B-Site Site Changes - Currently both teams are having a tough time playing on-site-Defenders struggle with the initial site hold, while Attackers have difficulty holding the spike during post-plant and feel forced to plant for main. We want to take a pass at improving on-site play for both teams while also making post-plants for main more risky. Mid Mid Hallway Changes - We want to help open up quicker macro pathing options for both teams. We're adjusting the hallway in Mid that leads towards B Main to allow for improved flow through the map for both teams. MAP POOL UPDATES PEARL and SPLIT are IN the COMPETITIVE and DEATHMATCH queues. LOTUS and ASCENT are OUT of the COMPETITIVE and DEATHMATCH queues. WEAPONS UPDATES Our goal is for VALORANT's gunplay to feel rewarding to master with exciting weapon choices, allowing for players to express their playstyles in how they take fights. Each weapon in our arsenal should feel they have a unique identity with their own strengths and weaknesses and though the arsenal has felt like it's overall pretty healthy, we want to make sure we continue to push on making weapons feel like competitive choices for different scenarios and round economy states. PC ONLY Rifles We've noticed that tap strafing has been generally the most viable shooting style. We want the decision between tapping, bursting, and spraying to feel more balanced and a more meaningful optimization. We are making some minor adjustments to spraying rifles to make them more of a viable option for fights at the close and mid ranges. A quick definition for those of you who may not know- % chance of yaw switch: % chance the gun will swap horizontal recoil from one side to the other (left vs right from your crosshair) Yaw switch time: how quickly the gun swaps horizontal recoil from one side to the other. When yaw switch time increases, this means you have more time to counteract the recoil Protected bullet counts: how many bullets in a spray you can use before your gun has a chance of yaw switch Bulldog Horizontal (Yaw) switch time increased from 0.37s → 0.6s< Chance for horizontal (Yaw) to switch increased from 6% → 10% Phantom Horizontal (Yaw) switch time increased from 0.37s → 0.6s Chance for horizontal (Yaw) to switch increased from 6% → 10% Protected bullet count increased from 6 → 8 bullets Vandal Horizontal (Yaw) switch time increased from 0.37s → 0.6s Chance for horizontal (Yaw) to switch increased from 6% → 10% Protected bullet count increased from 4 → 6 bullets Submachine guns We're making some changes to SMGs to make the Spectre a more appealing purchase over the Stinger in some scenarios, while also increasing the mastery needed to control the weapon when trying to punch up in eco rounds. Spectre Total spread reduced from 1.5 → 1.3 Tap Efficiency increased from 2 → 3 Tap Efficiency determines the rate that inaccuracy is accrued when re-firing prior to waiting for the complete duration of a weapon's respective Gun Recovery Time. The higher the Tap Efficiency, the lower the rate of inaccuracy accrual Horizontal (Yaw) switch time increased from 0.18s → 0.28s Protected bullet count increased from 4 → 5 bullets Stinger Full Auto Total spread increased from 1.3 → 1.5 Total spread accrued faster from 7 bullets → 6 bullets Vertical (Pitch) recoil curve increases more aggressively Total recoil is unchanged CONSOLE ONLY Spectre Horizontal (Yaw) switch time increased from 0.20s → 0.28s Stinger Full Auto Vertical (Pitch) recoil curve increases more aggressively Total recoil is unchanged Bulldog Horizontal (Yaw) switch time increased from 0.50s → 0.60s Phantom Horizontal (Yaw) switch time increased from 0.50s → 0.6s Protected bullet count from yaw (horizontal) switching while spraying, increased from 5 → 8 bullets Vandal Horizontal (Yaw) switch time increased from 0.50s >>> 0.6s Protected bullet count from yaw (horizontal) switching while spraying, increased from 5 → 6 bullets COMPETITIVE UPDATES Starting in 11.09, accounts detected for sharing must enable Riot Mobile multi-factor authentication (MFA) to access Competitive queue. Other modes will remain unaffected. For now in 11.08, you can check out the banner in the Competitive lobby or this article for more information on the upcoming changes. GAMEPLAY SYSTEMS UPDATES We've improved how Placeable Abilities like Cypher's Spycam and Deadlock's Sound Sensor previews when placing in our maps. All previews will now better align to the eventual location of your ability. We have not added or removed any placement options, we have only made our previews more accurate. This is especially so for Deadlock's Sound Sensor, which will see the biggest preview change, moving away from the current snappy behavior, to a more smooth preview. PLAYER BEHAVIOR UPDATES Added \"Rank Manipulation\" as a new reporting category. Please use 'Rank Manipulation' instead of 'Cheating' to report players who abuse matchmaking. This encompasses behaviors we commonly know as smurfing, wintrading, and boosting. PC ONLY PREMIER UPDATES Welcome to Stage V25A6! At the end of this Stage, the top 16 teams in Invite will remain in Invite. All other Invite teams will be demoted at the start of the next Stage. These rules are listed on the Standings tab. Demoted teams will seed into the zone they originally promoted from. Next Stage, Team Owners can change their zone in the Team Settings dropdown anytime before the team plays a match. If your team cannot be placed into a zone at the start of the next Stage, your Team Owner will be prompted to select a zone. Divisions other than Invite will not have demotion, and teams will still be promoted or be seeded into a division as normal at the start of next Stage. Contender Eligibility updates Contender Eligibility for 2025 expires at the end of Stage V25A6. To be Contender Eligible in 2026, you must perform a qualifying action in Stage V25A6 or at any point in 2026. Qualifying actions include: Play a Weekly or Playoff match on a team in Contender or Invite Division. Reach Immortal 3 or higher peak rank in Competitive. Play in a Playoff match in Elite 5. Contender Eligibility for 2026 expires at the end of 2026. VCT Team Tags Starting this patch, we're expanding the Team Tag feature to include tags for VCT teams! Pros will now have their team's tag shown before their name throughout the client - in the social panel, in lobby, in game (like the killfeed), and on the Competitive Leaderboards! VCT team names and tags are reserved ONLY for VCT partnered teams. Current Premier teams that have a team name and/or tag of a VCT partnered team will receive a prompt in-game for their Team Owner to change their team name."
+  },
+  {
+    "version": "11.09",
+    "date": "2025-10-28",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-11-09",
+    "fetched_at": "2026-05-28T01:34:16.095Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "d76660649591aa74",
+    "sections": [],
+    "raw_text": "Hey folks, it's Ash! We've got a few important implementations to improve your gameplay experience, addressing smurfing and new QOL updates with interactive objects, so focus up! TLDR; MFA required for accounts we've flagged as shared accounts to play Competitive queue Quality of life updates for interactive objects and abilities Many map and Agent bug fixes As always, we're regularly evaluating and improving our detection systems for botting and are happy to share that we've banned a significant number of accounts. Farewell botters, you will not be missed! Separately, we've started penalizing some of the most egregious offenders of smurfing-purchased accounts that have been detected for boosting will be banned starting this patch."
+  },
+  {
+    "version": "11.10",
+    "date": "2025-11-11",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-11-10",
+    "fetched_at": "2026-05-28T01:34:15.885Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "f1798e8e453f7457",
+    "sections": [],
+    "raw_text": "Sup, gamers? Kenny, here.Soooo…who’s ready for that Raja Rework?That’s right THE HARBOR REWORK IS HERE!Read below for full details on the Harbor rework as well as a bunch of other stuff including:The Team HUD is getting some Healing visibility ImprovementsNew UI layouts are in the Collections pagesBalance updates to ClovePick’Ems is coming to GameChangers on November 13!The Replay System is ready for Consoles!And a bunch of bug fixes.Check these notes, then hop in-game and make some waves! GL HF GGs."
+  },
+  {
+    "version": "11.11",
+    "date": "2025-12-02",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-11-11",
+    "fetched_at": "2026-05-28T01:34:15.563Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "f432301395dc2c39",
+    "sections": [],
+    "raw_text": "Hey, everyone! Kenny, here. If this patch looks tiny to you, well, that’s because it is. Or is it…? There might just be a lil’ festive surprise around the corner that we’re not listing here quite yet. Hehe. Other than that, we’ve got: UI improvements to the Agents page A way to gift VP to your friends. Just in time for the holidays. More bug fixes. And a small Ranked Gun Buddy issue for you to be aware of. This will be the last patch of 2025! Riot will be on Holiday break when our next patch would normally come out, so we’ll see you all back here next year with…a few more surprises up our sleeve. Until then, Happy New Year and GL HF GGs in 2026!"
+  },
+  {
+    "version": "12.00",
+    "date": "2026-01-06",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-12-00",
+    "fetched_at": "2026-05-28T01:34:15.329Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "19685067fe88a8b8",
+    "sections": [],
+    "raw_text": "Hello and welcome to Season 2026, everyone! Kenny, here.We’ve got a ton of stuff to share with you today, so let’s jump right into it.TL;DR: Replays are now available for Custom games.The hidden MMR system has been updated to improve match quality.Breach, Brim, Harbor, Tejo, Sage, and Vyse are all getting some nice updates.Breeze is back, completely reworked. And RR losses on Breeze are reduced by 50% for two weeks.Haven and Corrode got some updates to wall pen.Introducing All Random, One Site—a new limited-time game mode.We’re making a bunch of updates to our player behavior systems and penalty ladder.An all-new sidearm, the Bandit, is here and ready to hit the battlefield.There’s new Home Screen, Lobby, and Social Panel UI for PC players.Plus, a bunch of Bug Fixes. Sheesh. Does that TL;DR need a TL;DR? Ok, basically, WE ARE SO BACK!Season 2026 is going to be a great one, and we’re super excited to officially get the year started with you all.Take care, and GL HF on your climbs!"
+  },
+  {
+    "version": "12.01",
+    "date": "2026-01-20",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-12-01",
+    "fetched_at": "2026-05-28T01:34:15.133Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "56361bfa881745c3",
+    "sections": [
+      {
+        "title": "COMPETITIVE UPDATES",
+        "items": [
+          "Starting in 12.01 in EU, accounts detected for sharing and all Ascendant+ players must enable Riot Mobile multi-factor authentication (MFA) to access Competitive queue. Other modes will remain unaffected."
+        ]
+      },
+      {
+        "title": "ESPORTS FEATURES",
+        "items": [
+          "The Esports Hub is back for VCT 2026!\n\t\t\n\t\tMeet the teams on the Path to Champions and follow their journey through the International League Kickoffs."
+        ]
+      },
+      {
+        "title": "BUG FIXES",
+        "items": [
+          "Agents",
+          "Modes",
+          "Gameplay Systems"
+        ]
+      },
+      {
+        "title": "BUG FIXES",
+        "items": [
+          "Premier"
+        ]
+      }
+    ],
+    "raw_text": "Happy 2026, everyone! It’s Ash and we got a short and sweet one for you in patch 12.01. TLDR; For those in EU, Ascendant+ players and those detected for account sharing will need to enable MFA to play in Comp. The Esports hub is back for VCT26. If you haven’t heard already, we did a lore panel in the VALORANT Lore Discord where we chatted through the Why We Fight Back music video and may or may not have elaborated on Viper and Chamber’s relationship. 👀Check out their Discord to see the recording! ALL PLATFORMS COMPETITIVE UPDATES Starting in 12.01 in EU, accounts detected for sharing and all Ascendant+ players must enable Riot Mobile multi-factor authentication (MFA) to access Competitive queue. Other modes will remain unaffected. You can check out this article for more information on why we're making this change, or get yourself set up with MFA now using this how-to guide . ESPORTS FEATURES The Esports Hub is back for VCT 2026! Meet the teams on the Path to Champions and follow their journey through the International League Kickoffs. BUG FIXES Agents General Fixed a bug where ability icons would not update if a player was debuffed repeatedly with the same type of debuff by the same agent. Harbor Fixed a bug where Harbor’s Reckoning overworld range indicator was not lining up with the actual ability. Fixed a bug where Harbor’s Cove was missing an ability icon when viewing it on the placement minimap. Fade Fixed a bug where Fade’s Prowler was missing a VFX asset when viewed in Left Handed Mode. Gekko Fixed a rare bug where Gekko's Dizzy would sometimes aim at detected players incorrectly (and miss). Fixed a bug where Gekko’s globules were sometimes visible on the enemy minimap even when out of sight. Viper Fixed a bug where Viper’s Viper’s Pit was only showing inconsistent VFX when an observer was on freecam within it. Chamber / Veto Fixed a bug where Chamber’s Rendezvous and Veto’s Crosscut indicators would overlap on agents and make them difficult to see. Killjoy Fixed a bug where Killjoy’s neck and hair clip would shift inconsistently while moving with an Odin equipped. Sage Fixed a bug where Sage’s Healing Orb targeting UI was still visible on allies who broke Sage’s line of sight. Phoenix Fixed a bug where Phoenix would remain nearsighted from certain abilities after respawning from Run It Back . Fixed a bug where Phoenix’s Hot Hands VFX trail would sometimes emerge from an inaccurate location when thrown from B Window on Bind. Yoru Fixed a rare bug where Yoru could use and instantly cancel Dimensional Drift by casting Gatecrash right as the buy phase barrier dropped. Fixed a bug where Yoru’s Fakeout clone could be pushed away by Veto’s Chokehold if Chokehold was on an elevated surface. Modes All Random One Site Fixed an issue where Agents with continuous Ultimates (e.g. Reyna) drop an Ultimate Orb on death. Fixed a text overrun that could occur in certain localizations on console within the Next Random Agent widget. Fixed a glass breaking audio event on Ascent when A site is out of bounds. Fixed an issue where Loadouts would occasionally reset to default selections. Gameplay Systems Fixed an issue where bullet tracers sometimes wouldn't appear after shooting through a wall. PC ONLY BUG FIXES Premier Fixed an issue where Premier team tags were sometimes not displayed in the custom game lobby and other social modals. Fixed an issue where long Premier team names and tags were sometimes overlapping."
+  },
+  {
+    "version": "12.02",
+    "date": "2026-02-03",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-12-02",
+    "fetched_at": "2026-05-28T01:34:14.934Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "7e21e02fdadbf216",
+    "sections": [
+      {
+        "title": "AGENT UPDATES",
+        "items": [
+          "Certain Agent ability deployables can now be concussed.",
+          "Harbor",
+          "Reyna"
+        ]
+      },
+      {
+        "title": "GENERAL UPDATES",
+        "items": [
+          "Adjusted the appearance of the Social Panel"
+        ]
+      },
+      {
+        "title": "PLAYER BEHAVIOR UPDATES",
+        "items": [
+          "Behavior Standing"
+        ]
+      },
+      {
+        "title": "BUG FIXES",
+        "items": [
+          "Cosmetics",
+          "Gameplay Systems",
+          "Modes"
+        ]
+      },
+      {
+        "title": "BUG FIXES",
+        "items": [
+          "Agent"
+        ]
+      },
+      {
+        "title": "BUG FIXES",
+        "items": [
+          "Agent"
+        ]
+      }
+    ],
+    "raw_text": "Hey folks! It’s Ash and here’s the TLDR; for patch 12.02.Harbor ability adjustmentsReyna ability adjustmentsCertain Agent ability deployables can now be concussedThere are new UI damage indicators that display for objects that take damage while controlled by a playerAdjusted the appearance of the Social PanelYou’ll no longer see an XP/AP Denial under Active Interventions when you leave a Deathmatch.Loads of bug fixesALL PLATFORMSAGENT UPDATESCertain Agent ability deployables can now be concussed.Gekko’s WingmanSkye’s SeekersRaze’s Boom BotHarborHarbor could use a little bit more power compared to other Controllers. We’re looking to increase the baseline power of his abilities as well as increase the amount of options Harbor has whether that is in Cove uptime, High Tide coverage, or Reckoning placement. We want players to feel confident about the strategies Harbor can offer through his abilities.CoveCooldown decreased 40s >> 30sSmoke duration increased from 15s >>> 19.25sHealth increased from 500 to 680Harbor now re-equips his gun faster after activating CoveStorm SurgeStorm Surge now plays audio in world if enemies are hitHigh TideWall height increases 6m >> 8mMax wall length increased from 50m to 60mReckoningWave speed increased by 25%Can now re-use the ultimate to stop it in place for 7s.ReynaReyna has been ever present and dominating pickrates in ranked for a long time. We’re looking to increase proactive requirements on Reyna after she gets a kill to encourage continued aggression. Soul Orbs (Passive)Duration in world decreased from 4s >> 3s*The ability description had incorrectly listed the duration at 3s while they were lasting 4s. The duration now accurately matches the description.DevourOverheal applied by Devour is now temporary and lasts 10sHealing applied while in Empress is still permanentEmpressUlt points increased 6 >> 7GENERAL UPDATESAdjusted the appearance of the Social PanelPLAYER BEHAVIOR UPDATESBehavior StandingWe made some tweaks to what shows up and when to make things more clear. You’ll no longer see an XP/AP Denial under Active Interventions when you leave a Deathmatch.BUG FIXESCosmeticsA visual bug with the gold VFX trail on the Champions 2021 Karambit is now fixed! Gameplay SystemsFixed an issue where player names were misaligned in the Combat ReportModesAll Random One SiteHot Fixed a bug where players selected loadouts would reset in certain disconnect scenarios. Fixed a bug where certain Agents would drop Ult Orbs when they shouldn’t.Fixed an issue where glass breaking audio would play in an out of bounds area on Ascent.Fixed a bug where text would overrun on the Next Random Agent UI in certain localizations.PC ONLYBUG FIXESAgentFixed bugs where ability HUDs were missing in replays for Brimstone, Clove, Omen, and Tejo.Fixed a bug where Vyse’s Shear was sometimes destroying Gekko’s Thrash, Skye’s Trailblazer, Sova’s Owl Drone, and Tejo’s Stealth Drone instead of pushing them aside.Fixed a bug where Cypher's Spycam dart could hit players in unexpected locations when going through the Bind teleportersFixed a bug where Harbor’s Reckoning VFX indicator lines were not lined up with the hit box.Fixed a bug where Harbor’s Reckoning SFX would persist between roundsFixed a bug where in Team Deathmatch, Clove’s Pick-Me-Up overheal would sometimes not give health when Clove died previously with the buff active.Fixed a bug where Tejo’s Stealth Drone could ride on various projectiles.Fixed a bug for Coaches and Observers where Tejo’s Armageddon targeting cursor could go outside of the ability map UI.Fixed a bug for Coaches and Observers where Brimstone’s Sky Smoke and Orbital Strike map UI would not render when swapping to Brimstone’s perspective.Fixed a bug for Coaches and Observers where equipping Omen’s From The Shadows would cause the ability map UI to linger into the next round.Fixed a bug for Coaches and Observers where Agents with an ability map UI would repeatedly play their equip animation when switching to their POV.CONSOLE ONLYBUG FIXESAgentFixed a bug where the ascender highlights could become permanently visible on a player if they tried to use both ascenders at once on Split."
+  },
+  {
+    "version": "12.03",
+    "date": "2026-02-17",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-12-03",
+    "fetched_at": "2026-05-28T01:34:14.668Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "a026453d532a108d",
+    "sections": [],
+    "raw_text": "HELLO everyone! It’s Joy, bringing you the latest with patch 12.03. This is a short one, but if you need a TL;DR: Skirmish arrives as a queuable 2v2 mode Pick’Ems are ready for Masters Santiago! MFA is rolling out in APAC We’ve changed up Loadouts in All Random One Site"
+  },
+  {
+    "version": "12.04",
+    "date": "2026-03-03",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-12-04",
+    "fetched_at": "2026-05-28T01:34:14.392Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "bf4ed04259f8e82d",
+    "sections": [],
+    "raw_text": "GOOD DAY everyone! Joy here, bringing you the latest with patch 12.04!It’s a short one this time, but if you need a TL;DR:Quality of life updates for KJ’s TurretUpdates to the Progression Hub, End of Game, and Career pagesA handful of Agent and Map bug fixes"
+  },
+  {
+    "version": "12.05",
+    "date": "2026-03-17",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-12-05",
+    "fetched_at": "2026-05-28T01:34:14.068Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "3c2762865f36876b",
+    "sections": [],
+    "raw_text": "Hi, friends! Kenny, here. We’ve got a bunch of pretty sweet updates to share today with the start of Act 2, including welcoming VALORANT’s newest Agent from Croatia, Miks! Also, the Live Balance team wanted to drop a bit of extra context around some of the changes, so be sure to read the italicized sections for more info from the Dev team! Here’s what’s changing: TL;DR: Assist Banners have been added to the HUD to celebrate when you get an assist. Your Killfeed has also been updated to more clearly illustrate assists and assisting abilities. Status Effect Tags on the HUD have been updated for clarity. Bok, Miks! Say hello VALORANT’s newest Controller! Ally targeting UX/UI has been updated on Sage to match Miks’s targeting experience. Sage also got a model update to reflect her current state in VALORANT’s story. Yoru, Clove, and Skye have all received balance updates. Breach got new voice lines. The Competitive Map Pool has been updated, and Lotus received some changes to A-site. Knockout is the new Limited Time Mode. AROS and Skirmish: 2v2 are leaving the queue. GL HF GGs, gamers."
+  },
+  {
+    "version": "12.06",
+    "date": "2026-03-31",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-12-06",
+    "fetched_at": "2026-05-28T01:34:13.879Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "f842798ac557dcfc",
+    "sections": [],
+    "raw_text": "Well, hello there! Welcome to Patch 12.06. I’m Kenny and I’ll be your guide through what is sure to be a preeeeetty spicy 🌶️ patch. So let’s jump right into it. TL;DR: VALORANT will no longer be a first-person shooter as we have switched to third-person POV. To better support this playstyle, we have added the ability to go into a prone stance and filled most of our maps with tall grass and shrubs. New Weapon: Introducing the Hackerator, a powerful new sniper rifle that will automatically cause enemies who are hit with a headshot to disconnect from the game. Lol, diffed New Agent: Welcome, Brainrot, our newest Initiator. Brainrot uses his abilities through voice commands in team chat. The more vocal you are, the more likely you are to apply stacks of Cringe. New Debuff: Cringe. After being affected by more than three stacks of Cringe, enemies die instantly. But be careful, if you miss more than three of his abilities, YOU die instantly of self-inflicted Cringe. Tejo Rework: With the recently discovered Tejo exploit, we decided to take another look at his kit. Ultimately, we loved the skill expression that comes with an endless barrage of artillery. So we’ve given him unlimited charges of Guided Salvo and removed the max cast distance. Have fun! Ok, so obviously those changes aren’t real. HAPPY EARLY APRIL FOOLS! For the real changes, read below! Updated End-of Game screens Waylay’s Saturate changed from INSTANT to EQUIP Backend tech improvements to Viper’s ultimate Additional UX/UI bug fixes And more! GL HF GGs, gamers."
+  },
+  {
+    "version": "12.07",
+    "date": "2026-04-14",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-12-07",
+    "fetched_at": "2026-05-28T01:34:13.686Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "789445e514aee650",
+    "sections": [
+      {
+        "title": "BUG FIXES",
+        "items": [
+          "Cosmetics",
+          "Store"
+        ]
+      },
+      {
+        "title": "GENERAL UPDATES",
+        "items": [
+          "The settings screens have been revamped to improve functionality and visual clarity",
+          "We understand some of you quickly adjust settings during games, and we didn’t want to jeopardize that experience. The experience should largely feel the same but with improved QOL."
+        ]
+      },
+      {
+        "title": "SOCIAL UPDATES",
+        "items": [
+          "Discord 🤝Riot"
+        ]
+      }
+    ],
+    "raw_text": "Hey folks! It’s Ash here. Got a small update for ya and here’s the TLDR;VALORANT is partnering with Discord so you can link accounts and invite friends in Discord directly from the game.[PC only] Updated Settings screens to improve functionality and visual clarityLots of bug fixesALL PLATFORMSBUG FIXESCosmeticsWe’ve made some updates to several scope reticles to make them more consistent in the center range of view with the base scope reticle. Here is the list of updated skins: Kuronami Marshal, EX.O Marshal, Nocturnum Marshal, Araxys Outlaw and Operator. Thanks to Grimm for the feedback!StoreGifting ineligibility screen now extends the full width of the screen.Fixed various clipping issues when at the purchase confirm step while purchasing a gun buddy.Fixed header text coloring on purchase confirm screen.Fixed various inconsistencies with bundle detail buttons.Fixed issue that caused sprays to appear darkened when previewing in the purchase flow.Bundle carousels are now a consistent height across all points of the purchase flow.Removed icon from feared bundle tile while bundle is owned.Resolved discoloration of offer tile while gifting a flex.Resolved performance issue where having a large friends list was causing slight lag.PC ONLYGENERAL UPDATESThe settings screens have been revamped to improve functionality and visual clarityAdded parent-child association for related settingsAdded hover tooltipsSettings previously under General - Other are broken into 3 sections: User Interface, Content Filtering, NetworkVisual refreshWe understand some of you quickly adjust settings during games, and we didn’t want to jeopardize that experience. The experience should largely feel the same but with improved QOL.SOCIAL UPDATESDiscord 🤝RiotVALORANT is partnering with Discord to make getting into your next game with your friends easier. You can now link your accounts to unlock new social features!Invite friends in Discord straight to your party from within VALORANT. No alt-tabbing needed!Copy a lobby link and share it directly on your server or anywhere your friends are.See which of your Discord friends play VALORANT and jump into parties faster.This will roll out as a beta in Brazil first, followed by the US & Canada on April 21, PT time. It will exit beta and launch globally with patch 12.08 on April 29, PT time."
+  },
+  {
+    "version": "12.08",
+    "date": "2026-04-28",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-12-08",
+    "fetched_at": "2026-05-28T01:34:13.486Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "0d3d859c9aebace9",
+    "sections": [
+      {
+        "title": "MAP UPDATES",
+        "items": [
+          "Map Pool Updates"
+        ]
+      },
+      {
+        "title": "MODES UPDATES",
+        "items": [
+          "NEW LIMITED TIME MODE",
+          "LEAVING LIMITED TIME MODES",
+          "Knockout is heading out. Thanks for playing!"
+        ]
+      },
+      {
+        "title": "BUG FIXES",
+        "items": [
+          "Agent"
+        ]
+      },
+      {
+        "title": "PREMIER UPDATES UPDATES",
+        "items": [
+          "Welcome to Stage V26A3! Matches start on May 6."
+        ]
+      },
+      {
+        "title": "BUG FIXES",
+        "items": [
+          "General"
+        ]
+      },
+      {
+        "title": "KNOWN ISSUES",
+        "items": [
+          "Modes"
+        ]
+      }
+    ],
+    "raw_text": "It’s Ash again! Patch 12.08 is bringing you an exciting new update to Skirmish called Skirmish: Ascension as well as another map rotation. Here’s the TLDR;Skirmish: Ascension - a new, experimental ranked experience with its own competitive leaderboard on our FTW siteAscent is in, Bind is out[PC only] Premier is back!More bug fixesALL PLATFORMSMAP UPDATESMap Pool UpdatesASCENT is IN the Competitive and Deathmatch queues.BIND is OUT of the Competitive and Deathmatch queues.MODES UPDATESNEW LIMITED TIME MODEIntroducing Skirmish: Ascension, a new limited ranked experience for Skirmish. We designed this mode as a fast, skill-forward competitive experience where gunplay stays primary, but selected abilities create more tactical decisions and replayable duels. Pick from a curated roster of Agents, each equipped with a single ability, and fight through staged weapon rounds in 1v1 or 2v2. Compete on the FTW ranked ladder to earn rewards and prove you are better. Available for Act 3.Mode DetailsAgents & AbilitiesChoose from 14 Agents, each with one ability from their kitJett (Tailwind)Waylay (Refract)Chamber (Rendezvous)Cypher (Cyber Cage)Omen (Shrouded Step)Phoenix (Curve Ball)Yoru (Clone)Iso (Contingency)Sage (Barrier Orb)Raze (Blast Pack)Vyse (Arc Rose)KAY/O (Flash/Drive)Breach (Flashpoint)Veto (Crosscut)Staged WeaponsNo economy. Weapons escalate through stages as the match progressesRounds 1-4: Pistols (Bandit, Sheriff)Rounds 5-8: Low-tier rifles (Guardian, Bulldog)Round 9+: Vandal and PhantomQueues1v1 and 2v2 with separate matchmakingRound StructureFirst to 10 rounds winsFTW Ranked LadderCompetitive leaderboard segmented by server, region, and platformSeparate leaderboards for 1v1 and 2v2, tracked independentlyRank TiersIron: 0 Bronze: 700Silver: 1100Gold: 1500Platinum: 1800Diamond: 2100Ascendant: 2400Immortal: 2700Radiant: Top 100RewardsCombat Ready player card: Complete 3 Skirmish: Ascension matchesTrade Me player card: Complete 15 Skirmish: Ascension matchesTitles awarded by highest rank achieved on either ladder Skirmish Competitor: Gold to PlatinumSkirmish Expert: Diamond to ImmortalSkirmish Legend: RadiantLEAVING LIMITED TIME MODESKnockout is heading out. Thanks for playing!BUG FIXESAgentThese were fixed in Patch 12.07 but missed the notes.Fixed a bug where using Miks’ Bassquake would cause the minimap cone to blink on use.Fixed a bug where Veto’s Chokehold could detect enemies behind rotating doors on Lotus.Fixed a bug where KAY/O’s ability VFX were not appearing if used right after KAY/O casts NULL/cmd.Fixed a bug where Neon’s High Gear slide was not playing SFX for moving across different surface types.Fixed a bug where Tejo’s agent select animation would sometimes cut off the smoke from the explosion.Fixed a bug where Gekko’s Dizzy would only target an enemy if their head was visible.Fixed a bug where during Dimensional Drift Yoru could not see invisible abilities like Vyse’s Shear or Cypher’s Trapwire even if he was close enough to them.These are new fixes in Patch 12.08.Fixed a bug where Viper's Toxic Screen SFX would activate repeatedly when Veto walked into it with Evolution activeFixed a bug where players resurrected by Sage inside of Viper’s Decaying abilities would not gain Decay.Fixed a bug where Tejo’s Armageddon would sometimes cast targeting spawn instead of the intended location.PC ONLYPREMIER UPDATES UPDATESWelcome to Stage V26A3! Matches start on May 6.Contender and Invite Division schedule changes:There are only 6 weeks of matches this stage – the matches are still each Saturday from May 9 - June 13.Playoffs now take place across multiple days.The first round of playoffs takes place on June 20.Teams that advance from the first round return on June 21 for their next matchup.Make sure to check the schedule in the client for round start times for your zone!BUG FIXESGeneralFixed an issue in settings where audio sliders weren’t moving correctlyFixed an issue where trying to exit the client while a replay was paused wasn’t workingCONSOLE ONLYKNOWN ISSUESModesSkirmish 2v2: Ascension and Skirmish 1v1: Ascension - Timer is stuck at 00.50 sec when during Overtime phase.Skirmish 2v2: Ascension and Skirmish 1v1: Ascension - Agent abilities do not show up on the Combat Report in the following round after affecting enemies"
+  },
+  {
+    "version": "12.09",
+    "date": "2026-05-12",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-12-09",
+    "fetched_at": "2026-05-28T01:34:13.130Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "16a10e1f0c2e2f83",
+    "sections": [
+      {
+        "title": "AGENT UPDATES",
+        "items": [
+          "High GearJumping with High Gear active no longer provides any speed bonus while Neon is airborne. Instead, Neon’s air speed while sprinting will match melee speed.Fuel will only regenerate with a kill when Neon's ultimate is activeImproved VFX to more clearly communicate the direction and origin of her slide"
+        ]
+      },
+      {
+        "title": "COMPETITIVE UPDATES",
+        "items": [
+          "We’re testing MMR changes for modes other than Competitive, Unrated, and Swiftplay. These changes should result in better, more consistent matches. We’ll use what we learn to improve Competitive, Unrated, and Swiftplay in the future."
+        ]
+      },
+      {
+        "title": "BUG FIXES",
+        "items": [
+          "Agents"
+        ]
+      },
+      {
+        "title": "WEAPONS UPDATES",
+        "items": [
+          "All shotguns are now less accurate when moving",
+          "Shotguns are now much less accurate while using ropes",
+          "Standing still: Accuracy reduced (spread increased from 0.075 >>> 0.75)",
+          "Walking: Accuracy reduced (spread increased from 0.09 >>> 1.5)",
+          "Running: Accuracy reduced (spread increased from 0.1 >>> 3.0)",
+          "Bucky pellet damage in the 0-8m range decreased",
+          "Minimum spread increased from 2.6 >>> 3.0",
+          "Walking spread increased from 0.075 >>> 1",
+          "Running spread increased from .1 >>> 2",
+          "Crouch-walk spread increased from .05 >>> .5",
+          "Jump spread increased from 1.25 >>> 4",
+          "Minimum spread increased from 2.25 >>> 2.5",
+          "Walking spread increased from .075 >>> 1",
+          "Running spread increased from 0.75 >>> 2",
+          "Crouch-walk spread increased from .05 >>> .5",
+          "Jump spread increased from 2.25 >>> 4",
+          "Fire rate decreased from 3.33 >>> 3.0",
+          "Walking spread increased from .075 >>> 1",
+          "Running spread increased from 0.1 >>> 2",
+          "Crouch-walk spread increased from .05 >>> .5",
+          "Jump spread increased from 1.25 >>> 4"
+        ]
+      },
+      {
+        "title": "PERFORMANCE UPDATES",
+        "items": [
+          "Added support for AMD Anti-Lag 2, which reduces input latency in certain GPU-bound scenarios. In order to use AMD Anti-Lag 2, you need compatible hardware, with updated drivers from March 9th, 2026 or later."
+        ]
+      },
+      {
+        "title": "BUG FIXES",
+        "items": [
+          "Agents",
+          "Progression"
+        ]
+      },
+      {
+        "title": "BUG FIXES",
+        "items": [
+          "Agents"
+        ]
+      },
+      {
+        "title": "KNOWN ISSUES.",
+        "items": [
+          "Modes"
+        ]
+      }
+    ],
+    "raw_text": "HELLO ALL! Drum roll please…🥁🥁🥁 it’s the moment you’ve been waiting for. Neon and shotgun nerfs have arrived. We’re making changes to her mobility in the air and giving her a greater resource tradeoff on High Gear. We’ve also made all shotguns less accurate while moving and shooting. Read on below for more!ALL PLATFORMSAGENT UPDATESNeon has been on our radar for a while now, and we’ve been working through changes to address the amount of impact she can have in games. This is related to a more complex pacing and strategy problem with multiple elements to solve (strong Duelists and shotguns, weak Sentinels, higher Initiator signature cooldowns), but for the time being we are going to release Neon and shotgun changes first to more quickly correct the balance of combat. Her current role in breaking timings and creating pressure is correct, but her movement and evasiveness are pushing too far into combat space. We want to encourage Neon players to be intentional and make more meaningful decisions while playing her, so we’re making changes to her mobility in the air and giving her a greater resource tradeoff on High Gear. This should also allow opponents to have more opportunities for counterplay, as well as shave some additionally generously-tuned snowballing potential. For a deeper dive on all the upcoming changes and why, you can read more about it <here>. NeonHigh GearJumping with High Gear active no longer provides any speed bonus while Neon is airborne. Instead, Neon’s air speed while sprinting will match melee speed.Fuel will only regenerate with a kill when Neon's ultimate is activeFuel will still regenerate passivelyImproved VFX to more clearly communicate the direction and origin of her slideCOMPETITIVE UPDATESWe’re testing MMR changes for modes other than Competitive, Unrated, and Swiftplay. These changes should result in better, more consistent matches. We’ll use what we learn to improve Competitive, Unrated, and Swiftplay in the future.BUG FIXESAgentsChamberFixed a bug where ADS-ing while firing Chamber’s Headhunter created an animation that covers too much of the screenJettFixed a visual bug where Jett's Tailwind was not playing the intended first-person animations when left-handed setting is enabledFixed a bug where using Jett's Drift caused performance dropsMiksUpdated tooltip description of Harmonize.Fixed bug where the preview cone for his ultimate would not show unless the ability was fully equippedSageFixed an issue where a full health Sage could use Healing Orb on herself while affected by Decay, because she is not actually losing any health. This would consume the ability needlessly, since her health returns to normal once Decay wears off. TejoFixed issue where the Guided Salvo’s equip idle sound kept playing long after cast.ViperFixed a bug where Sova's Recon Bolt and Chamber's Trademark were not affected by nearsightedness in Viper's PitVyseFixed a bug where possessable drones (Sova's Owl Drone, Skye's Trailblazer, Tejo's Stealth Drone) would trigger the arming audio of Vyse's wallPLAYER BEHAVIOR UPDATESWe've improved our Riot Text Evaluation system to better detect and apply penalties for text comms abuse in the following languages: Arabic, German, English, Spanish, French, Italian, Japanese, Polish, Portuguese, Russian, Turkish, Chinese.WEAPONS UPDATESAlongside the Neon changes above, we are also changing the effectiveness of shotguns when moving and jumping to encourage players to use them defensively. Shotguns are intended to be most effective for holding tight angles and clearing close range spaces, but right now they’re a bit too effective in high-mobility situations. To reinforce their ideal usage, we are reducing shotgun accuracy while moving. This should make them more impactful when used deliberately and defensively, versus being aggressive on the move. All shotguns:All shotguns are now less accurate when movingRun, walk, crouch-walk, and jump accuracy has been standardized across all shotgunsCrouching now provides a 15% accuracy multiplier for shotguns, matching riflesBucky: crouch accuracy modifier increased from 10 >>> 15%Judge/Shorty: crouch accuracy modifier decreased from 25 >>> 15%Shotguns are now much less accurate while using ropesYour shotgun spread will increase significantly when you're on a rope, especially if you're moving:Standing still: Accuracy reduced (spread increased from 0.075 >>> 0.75)Walking: Accuracy reduced (spread increased from 0.09 >>> 1.5)Running: Accuracy reduced (spread increased from 0.1 >>> 3.0)Bucky: Bucky pellet damage in the 0-8m range decreasedHead 40 >>> 34Body 20 >>> 17Legs 17 >>> 14Minimum spread increased from 2.6 >>> 3.0Walking spread increased from 0.075 >>> 1Running spread increased from .1 >>> 2Crouch-walk spread increased from .05 >>> .5Jump spread increased from 1.25 >>> 4Judge: Minimum spread increased from 2.25 >>> 2.5Note: this will only apply to PC for now- this spread change will apply to console in Patch 12.11Walking spread increased from .075 >>> 1Running spread increased from 0.75 >>> 2Crouch-walk spread increased from .05 >>> .5Jump spread increased from 2.25 >>> 4Shorty: Fire rate decreased from 3.33 >>> 3.0Walking spread increased from .075 >>> 1Running spread increased from 0.1 >>> 2Crouch-walk spread increased from .05 >>> .5Jump spread increased from 1.25 >>> 4PC ONLYPERFORMANCE UPDATESAdded support for AMD Anti-Lag 2, which reduces input latency in certain GPU-bound scenarios. In order to use AMD Anti-Lag 2, you need compatible hardware, with updated drivers from March 9th, 2026 or later.BUG FIXESAgentsNeonFixed an exploit with her Fast Lane where using specific NVIDIA graphics settings impacted competitive integrity. Neon has returned to the game. ProgressionFixed issue where dailies shown while hovering over the icon did not match the dailies in the End of Game screen.CONSOLE ONLYBUG FIXESAgentsPhoenixUpdated tooltip description of CurveballKNOWN ISSUES.ModesSkirmish 2v2: Ascension and Skirmish 1v1: Ascension - Timer is stuck at 00.50 sec in Overtime phaseSkirmish 2v2: Ascension and Skirmish 1v1: Ascension - Agent abilities do not show up on the Combat Report in the following round after affecting enemies"
+  },
+  {
+    "version": "12.10",
+    "date": "2026-05-27",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-12-10",
+    "fetched_at": "2026-05-28T01:34:12.953Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "a78ccc43897acc2b",
+    "sections": [
+      {
+        "title": "GENERAL UPDATES",
+        "items": [
+          "Replay Friend Sharing: You can now access and watch your friends’ replays for all eligible modes (Competitive, Unrated, Swiftplay, Premier, Custom) directly from their Career page."
+        ]
+      },
+      {
+        "title": "ESPORTS FEATURES",
+        "items": [
+          "Masters London Pick’Ems"
+        ]
+      },
+      {
+        "title": "MODES UPDATES",
+        "items": [
+          "SKIRMISH: ASCENSION - All selectable Agents are available for both 1v1 and 2v2 modes even if you do not have them unlocked",
+          "NEW SKIRMISH MAPS"
+        ]
+      },
+      {
+        "title": "BUG FIXES",
+        "items": [
+          "Agents",
+          "Gameplay",
+          "Modes",
+          "Store"
+        ]
+      },
+      {
+        "title": "PREMIER UPDATES",
+        "items": [
+          "V26A3 Contender and Invite Division schedule changes:"
+        ]
+      },
+      {
+        "title": "BUG FIXES",
+        "items": [
+          "Store"
+        ]
+      }
+    ],
+    "raw_text": "Hi folks, it’s a light patch this time around, but notably, Replays are now accessible through your friends’ list!ALL PLATFORMSGENERAL UPDATESReplay Friend Sharing: You can now access and watch your friends’ replays for all eligible modes (Competitive, Unrated, Swiftplay, Premier, Custom) directly from their Career page. Replays for Custom games are only available when the lobby owner enables recording in the Custom options menu before the game starts. Recording must be enabled again for each new game.ESPORTS FEATURESMasters London Pick’EmsPick'Ems are back for Masters London! Starting May 27 (PT), you can make your picks for the Swiss Stage in-client and on the web.For the Swiss Stage, you’ll be tasked with trying to predict who will advance from the 8-team Swiss Groups. For extra bonus points, try to predict a team who will make it out flawlessly with a 2-0 record.You can earn an exclusive title just for playing, but win additional prizes depending on how you fare against other players.MODES UPDATESSKIRMISH: ASCENSION - All selectable Agents are available for both 1v1 and 2v2 modes even if you do not have them unlockedNEW SKIRMISH MAPSAdded Skirmish Maps D and EAvailable in all queues and customs.Both feature ramps for more peek angle varietySkirmish DSkirmish EBUG FIXESAgentsMiksFixed a bug where Miks's M-Pulse healing would persist briefly on enemies after they exit its range.Fixed a bug where Miks's M-Pulse could cancel other ability and weapon equip animationsFixed a bug where spamming alt-fire with Miks's M-Pulse could cause it to be used in the wrong form.HarborFixed a bug where Harbor's Reckoning could disappear early if the player spammed the cast buttonGameplayFixed a bug that allowed players to inadvertently kill enemies from spawn during the buy phase. This fix was rolled out with a patch redeploy during 12.09.ModesSkirmish 2v2: Fixed a bug where the timer was stuck at 0.5 seconds in overtimeStoreFixed an issue where bundle details were not displayed on the confirmation page when purchasing VCT bundles.PC ONLYPREMIER UPDATESV26A3 Contender and Invite Division schedule changes:Playoffs now take place across multiple days.The first round of playoffs will be on June 20Teams that advance from the first round return on June 21 for their next matchupMake sure to check the schedule in client for round start times for your zone!CONSOLE ONLYBUG FIXESStoreFixed a clipping issue when confirming a gun buddy purchase from the battlepass."
+  }
+]
