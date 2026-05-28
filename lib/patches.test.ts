@@ -24,21 +24,21 @@ const patches: Patch[] = [
 
 describe("resolveDateToRange", () => {
   it("returns patches strictly after the given date", () => {
-    const range = resolveDateToRange(patches, new Date("2025-03-15"));
+    const range = resolveDateToRange(patches, new Date(2025, 2, 15));
     expect(range.patches.map((p) => p.version)).toEqual(["10.06", "10.07", "10.08"]);
     expect(range.fromVersion).toBe("10.06");
     expect(range.toVersion).toBe("10.08");
   });
 
   it("returns all patches when date is before earliest", () => {
-    const range = resolveDateToRange(patches, new Date("2020-01-01"));
+    const range = resolveDateToRange(patches, new Date(2020, 0, 1));
     expect(range.patches).toHaveLength(5);
     expect(range.fromVersion).toBe("10.04");
     expect(range.toVersion).toBe("10.08");
   });
 
   it("returns empty range when date is after latest", () => {
-    const range = resolveDateToRange(patches, new Date("2026-01-01"));
+    const range = resolveDateToRange(patches, new Date(2026, 0, 1));
     expect(range.patches).toHaveLength(0);
     expect(range.fromVersion).toBe("");
     expect(range.toVersion).toBe("");
