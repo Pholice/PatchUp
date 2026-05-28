@@ -1,4 +1,4 @@
-import { readFileSync, writeFileSync } from "node:fs";
+import { readFileSync, writeFileSync, renameSync } from "node:fs";
 import { join } from "node:path";
 import type { Patch, Game } from "@/lib/types";
 import type { PatchParser } from "./parsers/types";
@@ -32,18 +32,26 @@ const REFRESH_EXISTING_COUNT = 10;
 async function fetchText(url: string): Promise<string> {
   const res = await fetch(url, {
     headers: { "User-Agent": "PatchUp/0.1 (+https://github.com/Pholice/PatchUp)" },
+    signal: AbortSignal.timeout(30_000),
   });
   if (!res.ok) throw new Error(`Fetch ${url} failed: ${res.status}`);
   return res.text();
 }
 
 function loadExisting(dataPath: string): Patch[] {
-  return JSON.parse(readFileSync(dataPath, "utf-8")) as Patch[];
+  try {
+    return JSON.parse(readFileSync(dataPath, "utf-8")) as Patch[];
+  } catch (err: unknown) {
+    if ((err as NodeJS.ErrnoException).code === "ENOENT") return [];
+    throw err;
+  }
 }
 
 function save(dataPath: string, patches: Patch[]): void {
   const sorted = [...patches].sort((a, b) => (a.date < b.date ? -1 : a.date > b.date ? 1 : 0));
-  writeFileSync(dataPath, JSON.stringify(sorted, null, 2) + "\n");
+  const tmp = `${dataPath}.tmp`;
+  writeFileSync(tmp, JSON.stringify(sorted, null, 2) + "\n");
+  renameSync(tmp, dataPath);
 }
 
 async function ingest(cfg: GameConfig): Promise<{ game: Game; added: string[]; changed: string[] }> {
@@ -68,7 +76,13 @@ async function ingest(cfg: GameConfig): Promise<{ game: Game; added: string[]; c
     const shouldFetch = !existingPatch || recentExistingVersions.has(entry.version);
     if (!shouldFetch) continue;
 
-    const patchHtml = await fetchText(entry.url);
+    let patchHtml: string;
+    try {
+      patchHtml = await fetchText(entry.url);
+    } catch (err) {
+      console.warn(`[${cfg.game}] skipping ${entry.version}: ${(err as Error).message}`);
+      continue;
+    }
     const parsed = cfg.parser.parsePatch(entry, patchHtml);
 
     if (!existingPatch) {
@@ -96,8 +110,8 @@ async function ingest(cfg: GameConfig): Promise<{ game: Game; added: string[]; c
 }
 
 async function main() {
-  for (const cfg of GAMES) {
-    const result = await ingest(cfg);
+  const results = await Promise.all(GAMES.map(ingest));
+  for (const result of results) {
     if (result.added.length === 0 && result.changed.length === 0) {
       console.log(`[${result.game}] no new patches`);
     } else {
