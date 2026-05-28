@@ -1,3 +1,4 @@
+import type { ReactNode } from "react";
 import "./globals.css";
 
 export const metadata = {
@@ -5,7 +6,7 @@ export const metadata = {
   description: "Catch up on what changed while you were away",
 };
 
-export default function RootLayout({ children }: { children: React.ReactNode }) {
+export default function RootLayout({ children }: { children: ReactNode }) {
   return (
     <html lang="en">
       <body className="min-h-screen bg-neutral-950 text-neutral-100 antialiased">
