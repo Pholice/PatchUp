@@ -63,8 +63,10 @@ function listPatches(indexHtml: string): PatchListEntry[] {
     const href: string = a.action?.payload?.url ?? "";
     const dateRaw: string = a.publishedAt ?? "";
 
-    // Filter to patch notes only (must contain "patch" in title)
-    if (!title.toLowerCase().includes("patch")) continue;
+    // Filter to patch notes only: title must contain both "patch" and "notes"
+    // LoL format is "League of Legends Patch X.XX Notes" (not "Patch Notes X.XX")
+    const lowerTitle = title.toLowerCase();
+    if (!lowerTitle.includes("patch") || !lowerTitle.includes("notes")) continue;
 
     const version = parseVersion(title);
     if (!version || !href || !dateRaw) continue;
