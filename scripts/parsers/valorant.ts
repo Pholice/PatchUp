@@ -8,7 +8,12 @@ const PARSER_VERSION = "valorant-v1";
 function extractNextData(html: string): Record<string, unknown> {
   const $ = cheerio.load(html);
   const scriptText = $("script#__NEXT_DATA__").text();
-  return JSON.parse(scriptText) as Record<string, unknown>;
+  if (!scriptText) throw new Error("__NEXT_DATA__ script not found in page HTML");
+  try {
+    return JSON.parse(scriptText) as Record<string, unknown>;
+  } catch {
+    throw new Error("Failed to parse __NEXT_DATA__ JSON");
+  }
 }
 
 function parseVersion(title: string): string | null {
@@ -104,7 +109,7 @@ function parsePatch(entry: PatchListEntry, patchHtml: string): Patch {
   let current: { title: string; items: string[] } | null = null;
 
   // Process top-level elements in document order
-  $("h2, h3, h4, ul, li").each((_, el) => {
+  $("h2, h3, h4, li").each((_, el) => {
     const tag = el.tagName.toLowerCase();
     const text = $(el).text().trim();
     if (!text) return;
@@ -174,10 +179,13 @@ function buildPatch(
 ): Patch {
   const rawText = $.root().text().replace(/\s+/g, " ").trim();
 
+  const localeMatch = entry.url.match(/playvalorant\.com\/([a-z]{2}-[a-z]{2})\//);
+  const locale = localeMatch?.[1] ?? "en-us";
+
   return {
     version: entry.version,
     date: entry.date,
-    locale: "en-us",
+    locale,
     url: entry.url,
     fetched_at: new Date().toISOString(),
     parser_version: PARSER_VERSION,
