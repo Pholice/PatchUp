@@ -4,7 +4,7 @@ import { describe, expect, it, vi } from "vitest";
 import { SummaryView } from "./SummaryView";
 
 describe("SummaryView", () => {
-  it("renders raw streamed text while streaming", () => {
+  it("renders markdown headings and bullets as HTML while streaming", () => {
     const html = renderToStaticMarkup(
       <SummaryView
         game="lol"
@@ -16,9 +16,12 @@ describe("SummaryView", () => {
       />
     );
 
-    expect(html).toContain("<pre");
-    expect(html).toContain("## Meta Snapshot");
-    expect(html).not.toContain("<h2");
+    expect(html).not.toContain("<pre");
+    expect(html).toContain("<h2");
+    expect(html).toContain("Meta Snapshot");
+    expect(html).toContain("<li");
+    expect(html).toContain("Tanks are stronger.");
+    expect(html).toContain("▍");
   });
 
   it("renders markdown headings and bullets as HTML after streaming completes", () => {

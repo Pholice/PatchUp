@@ -52,4 +52,16 @@ describe("valorantParser.parsePatch", () => {
     expect(patch.sections.length).toBeGreaterThan(0);
     expect(patch.sections[0].items.length).toBeGreaterThan(0);
   });
+
+  it("falls back to rendered article HTML when __NEXT_DATA__ lacks rich text", () => {
+    const htmlWithoutNextData = patchHtml.replace(
+      /<script id="__NEXT_DATA__" type="application\/json">[\s\S]*?<\/script>/,
+      ""
+    );
+
+    const patch = valorantParser.parsePatch(entry, htmlWithoutNextData);
+
+    expect(patch.raw_text.length).toBeGreaterThan(100);
+    expect(patch.sections.length).toBeGreaterThan(0);
+  });
 });

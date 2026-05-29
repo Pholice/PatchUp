@@ -54,6 +54,12 @@ function save(dataPath: string, patches: Patch[]): void {
   renameSync(tmp, dataPath);
 }
 
+export function shouldRefreshPatch(existingPatch: Patch | undefined, isRecent: boolean): boolean {
+  if (!existingPatch) return true;
+  if (isRecent) return true;
+  return existingPatch.sections.length === 0 || existingPatch.raw_text.trim().length === 0;
+}
+
 async function ingest(cfg: GameConfig): Promise<{ game: Game; added: string[]; changed: string[] }> {
   const existing = loadExisting(cfg.dataPath);
   const existingByVersion = new Map(existing.map((p) => [p.version, p]));
@@ -73,8 +79,7 @@ async function ingest(cfg: GameConfig): Promise<{ game: Game; added: string[]; c
 
   for (const entry of entries) {
     const existingPatch = existingByVersion.get(entry.version);
-    const shouldFetch = !existingPatch || recentExistingVersions.has(entry.version);
-    if (!shouldFetch) continue;
+    if (!shouldRefreshPatch(existingPatch, recentExistingVersions.has(entry.version))) continue;
 
     let patchHtml: string;
     try {
@@ -121,7 +126,9 @@ async function main() {
   }
 }
 
-main().catch((err) => {
-  console.error(err);
-  process.exit(1);
-});
+if (import.meta.url === `file://${process.argv[1]}`) {
+  main().catch((err) => {
+    console.error(err);
+    process.exit(1);
+  });
+}

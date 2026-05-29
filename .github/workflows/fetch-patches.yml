@@ -24,18 +24,35 @@ jobs:
       - name: Run fetch-patches
         run: npm run fetch-patches
 
+      - name: Commit and push patch data if changed
+        run: |
+          if [[ -n "$(git status --porcelain data/*/patches.json)" ]]; then
+            git config user.name "patchup-bot"
+            git config user.email "patchup-bot@users.noreply.github.com"
+            git add data/*/patches.json
+            git commit -m "chore: update patch data"
+            git push
+          else
+            echo "No patch data changes to commit."
+          fi
+
       - name: Run generate-digests
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-        run: npm run generate-digests
+        run: |
+          if [[ -z "$ANTHROPIC_API_KEY" ]]; then
+            echo "ANTHROPIC_API_KEY is not configured; skipping digest generation."
+            exit 0
+          fi
+          npm run generate-digests
 
-      - name: Commit and push if changed
+      - name: Commit and push digest data if changed
         run: |
           if [[ -n "$(git status --porcelain data/)" ]]; then
             git config user.name "patchup-bot"
             git config user.email "patchup-bot@users.noreply.github.com"
             git add data/
-            git commit -m "chore: update patch data"
+            git commit -m "chore: update patch digests"
             git push
           else
             echo "No changes to commit."

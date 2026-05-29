@@ -64,19 +64,42 @@ function selectedGames(): GameConfig[] {
   return GAMES.filter((config) => config.game === game);
 }
 
+const sleep = (ms: number) => new Promise((resolve) => setTimeout(resolve, ms));
+
+async function generateWithRetry(game: Game, patch: Patch, maxRetries = 5): Promise<PatchDigest> {
+  for (let attempt = 0; attempt <= maxRetries; attempt++) {
+    try {
+      return await generatePatchDigest(game, patch);
+    } catch (err: unknown) {
+      const status = (err as { status?: number }).status;
+      if (status === 429 && attempt < maxRetries) {
+        const delay = Math.min(15_000 * (attempt + 1), 60_000);
+        console.log(`  rate limited — waiting ${delay / 1000}s before retry ${attempt + 1}/${maxRetries}...`);
+        await sleep(delay);
+        continue;
+      }
+      throw err;
+    }
+  }
+  throw new Error("unreachable");
+}
+
 async function generateForGame(config: GameConfig): Promise<{ game: Game; generated: string[] }> {
   const patches = readJson<Patch[]>(config.patchesPath, []);
   let digests = readJson<PatchDigest[]>(config.digestsPath, []);
   const digestsByVersion = new Map(digests.map((digest) => [digest.version, digest]));
   const generated: string[] = [];
+  const needed = patches.filter((p) => needsDigest(p, digestsByVersion.get(p.version)));
 
-  for (const patch of patches) {
-    if (!needsDigest(patch, digestsByVersion.get(patch.version))) continue;
-    const next = await generatePatchDigest(config.game, patch);
+  for (let i = 0; i < needed.length; i++) {
+    const patch = needed[i];
+    console.log(`[${config.game}] ${i + 1}/${needed.length} — patch ${patch.version}`);
+    const next = await generateWithRetry(config.game, patch);
     digests = mergeDigest(digests, next);
     digestsByVersion.set(next.version, next);
     generated.push(next.version);
     writeJson(config.digestsPath, digests);
+    if (i < needed.length - 1) await sleep(13_000);
   }
 
   return { game: config.game, generated };

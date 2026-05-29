@@ -19,7 +19,8 @@ interface Preview {
 type View =
   | { mode: "input" }
   | { mode: "summary"; game: Game; fromVersion: string; toVersion: string; text: string; streaming: boolean; coverageNote: string | null }
-  | { mode: "up-to-date" };
+  | { mode: "up-to-date" }
+  | { mode: "error"; message: string };
 
 function daysSince(iso: string): number {
   const ms = Date.now() - new Date(iso).getTime();
@@ -40,7 +41,10 @@ export default function Page() {
     }
     const controller = new AbortController();
     fetch(`/api/summarize?game=${game}&date=${date}`, { signal: controller.signal })
-      .then((r) => r.json())
+      .then((r) => {
+        if (!r.ok) throw new Error("Preview failed");
+        return r.json();
+      })
       .then((p) => setPreview(p))
       .catch(() => {});
     return () => controller.abort();
@@ -50,67 +54,87 @@ export default function Page() {
     if (!date || !preview) return;
     setSubmitting(true);
 
-    if (preview.patchCount === 0) {
-      setView({ mode: "up-to-date" });
-      setSubmitting(false);
-      return;
-    }
+    try {
+      if (preview.patchCount === 0) {
+        setView({ mode: "up-to-date" });
+        return;
+      }
 
-    const coverageNote =
-      preview.earliestPatchDate && date < preview.earliestPatchDate
-        ? `We only have patches back to ${preview.earliestVersion}. Summary starts from there.`
-        : null;
+      const coverageNote =
+        preview.earliestPatchDate && date < preview.earliestPatchDate
+          ? `We only have patches back to ${preview.earliestVersion}. Summary starts from there.`
+          : null;
 
-    setView({
-      mode: "summary",
-      game,
-      fromVersion: preview.fromVersion,
-      toVersion: preview.toVersion,
-      text: "",
-      streaming: true,
-      coverageNote,
-    });
+      setView({
+        mode: "summary",
+        game,
+        fromVersion: preview.fromVersion,
+        toVersion: preview.toVersion,
+        text: "",
+        streaming: true,
+        coverageNote,
+      });
 
-    const res = await fetch("/api/summarize", {
-      method: "POST",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ game, lastPlayedDate: date }),
-    });
+      const res = await fetch("/api/summarize", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ game, lastPlayedDate: date }),
+      });
 
-    if (!res.body) {
-      setSubmitting(false);
-      return;
-    }
+      if (!res.ok) {
+        let message = "Could not generate the summary. Try again in a bit.";
+        try {
+          const error = (await res.json()) as { error?: string; retryAfterSeconds?: number };
+          if (error.error === "rate limit exceeded" && error.retryAfterSeconds) {
+            message = `Too many fresh summaries. Try again in ${error.retryAfterSeconds} seconds.`;
+          } else if (error.error) {
+            message = error.error;
+          }
+        } catch {
+          message = res.statusText || message;
+        }
+        setView({ mode: "error", message });
+        return;
+      }
 
-    const reader = res.body.getReader();
-    const decoder = new TextDecoder();
-    let text = "";
+      if (!res.body) {
+        setView({ mode: "error", message: "The summary response was empty." });
+        return;
+      }
 
-    while (true) {
-      const { value, done } = await reader.read();
-      if (done) break;
-      text += decoder.decode(value, { stream: true });
+      const reader = res.body.getReader();
+      const decoder = new TextDecoder();
+      let text = "";
+
+      while (true) {
+        const { value, done } = await reader.read();
+        if (done) break;
+        text += decoder.decode(value, { stream: true });
+        setView({
+          mode: "summary",
+          game,
+          fromVersion: preview.fromVersion,
+          toVersion: preview.toVersion,
+          text,
+          streaming: true,
+          coverageNote,
+        });
+      }
+
       setView({
         mode: "summary",
         game,
         fromVersion: preview.fromVersion,
         toVersion: preview.toVersion,
         text,
-        streaming: true,
+        streaming: false,
         coverageNote,
       });
+    } catch {
+      setView({ mode: "error", message: "The summary stream failed. Try again." });
+    } finally {
+      setSubmitting(false);
     }
-
-    setView({
-      mode: "summary",
-      game,
-      fromVersion: preview.fromVersion,
-      toVersion: preview.toVersion,
-      text,
-      streaming: false,
-      coverageNote,
-    });
-    setSubmitting(false);
   }
 
   function reset() {
@@ -191,6 +215,20 @@ export default function Page() {
       )}
 
       {view.mode === "up-to-date" && <EmptyState onReset={reset} />}
+
+      {view.mode === "error" && (
+        <div className="rounded-md border border-red-800 bg-red-950/40 p-6 text-center">
+          <div className="text-sm font-semibold text-red-300">Summary failed</div>
+          <div className="mt-1 text-xs text-red-100/80">{view.message}</div>
+          <button
+            type="button"
+            onClick={reset}
+            className="mt-4 text-xs text-neutral-400 hover:text-neutral-200"
+          >
+            ← new search
+          </button>
+        </div>
+      )}
     </main>
   );
 }

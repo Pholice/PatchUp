@@ -8,8 +8,10 @@ export default defineConfig({
   test: {
     environment: "node",
     include: ["**/*.test.ts", "**/*.test.tsx"],
-    deps: {
-      inline: ["react-markdown", "remark-gfm"],
+    server: {
+      deps: {
+        inline: ["react-markdown", "remark-gfm"],
+      },
     },
   },
 });

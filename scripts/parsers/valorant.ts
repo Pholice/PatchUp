@@ -16,6 +16,14 @@ function extractNextData(html: string): Record<string, unknown> {
   }
 }
 
+function tryExtractNextData(html: string): Record<string, unknown> | null {
+  try {
+    return extractNextData(html);
+  } catch {
+    return null;
+  }
+}
+
 function parseVersion(title: string): string | null {
   const match = title.match(/(\d+\.\d+)/);
   return match ? match[1] : null;
@@ -84,9 +92,9 @@ function listPatches(indexHtml: string): PatchListEntry[] {
 }
 
 function parsePatch(entry: PatchListEntry, patchHtml: string): Patch {
-  const data = extractNextData(patchHtml);
+  const data = tryExtractNextData(patchHtml);
   // eslint-disable-next-line @typescript-eslint/no-explicit-any
-  const blades = (data as any).props?.pageProps?.page?.blades as any[];
+  const blades = (data as any)?.props?.pageProps?.page?.blades as any[] | undefined;
 
   let bodyHtml = "";
   if (blades) {
@@ -101,6 +109,14 @@ function parsePatch(entry: PatchListEntry, patchHtml: string): Patch {
         break;
       }
     }
+  }
+
+  if (!bodyHtml) {
+    const $page = cheerio.load(patchHtml);
+    bodyHtml =
+      $page('[data-testid="ArticleRichTextBlade"] [data-testid="rich-text-html"]').first().html() ??
+      $page('[data-testid="rich-text-html"]').first().html() ??
+      "";
   }
 
   // Parse the body HTML to extract sections
@@ -178,9 +194,14 @@ function buildPatch(
   $: ReturnType<typeof cheerio.load>
 ): Patch {
   const rawText = $.root().text().replace(/\s+/g, " ").trim();
+  if (!rawText) {
+    throw new Error(`No article text extracted for Valorant patch ${entry.version}`);
+  }
 
   const localeMatch = entry.url.match(/playvalorant\.com\/([a-z]{2}-[a-z]{2})\//);
   const locale = localeMatch?.[1] ?? "en-us";
+  const normalizedSections =
+    sections.length > 0 ? sections : [{ title: "Patch Notes", items: [rawText] }];
 
   return {
     version: entry.version,
@@ -189,8 +210,8 @@ function buildPatch(
     url: entry.url,
     fetched_at: new Date().toISOString(),
     parser_version: PARSER_VERSION,
-    content_hash: contentHash(sections, rawText),
-    sections,
+    content_hash: contentHash(normalizedSections, rawText),
+    sections: normalizedSections,
     raw_text: rawText,
   };
 }
