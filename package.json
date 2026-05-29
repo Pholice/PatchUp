@@ -8,7 +8,8 @@
     "start": "next start",
     "test": "vitest run",
     "test:watch": "vitest",
-    "fetch-patches": "tsx scripts/fetch-patches.ts"
+    "fetch-patches": "tsx scripts/fetch-patches.ts",
+    "generate-digests": "tsx scripts/generate-digests.ts"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.30.0",
