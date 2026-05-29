@@ -1,11 +1,17 @@
 import { NextResponse } from "next/server";
-import { loadPatches, resolveDateToRange } from "@/lib/patches";
+import { loadDigests, loadPatches, resolveDateToRange, resolveDigestsForRange } from "@/lib/patches";
 import { cacheKey, readSummary, summaryFingerprint, writeSummary } from "@/lib/cache";
 import { MODEL, PROMPT_VERSION, streamSummary } from "@/lib/claude";
+import { clientIdFromRequest, createRateLimiter } from "@/lib/rate-limit";
 import type { Game } from "@/lib/types";
 
 export const runtime = "nodejs";
 export const maxDuration = 60;
+
+const summaryGenerationLimiter = createRateLimiter({
+  limit: Number(process.env.SUMMARY_GENERATION_RATE_LIMIT ?? 10),
+  windowMs: 60 * 60 * 1000,
+});
 
 interface Body {
   game: Game;
@@ -34,10 +40,20 @@ export async function POST(req: Request) {
     return NextResponse.json({ status: "up-to-date", patchCount: 0 });
   }
 
+  let digests;
+  try {
+    digests = resolveDigestsForRange(range, loadDigests(body.game));
+  } catch {
+    return NextResponse.json(
+      { error: "patch digests are not ready for this range" },
+      { status: 503 }
+    );
+  }
+
   const fingerprint = summaryFingerprint({
     model: MODEL,
     promptVersion: PROMPT_VERSION,
-    patches: range.patches,
+    digests,
   });
   const key = cacheKey(body.game, range.fromVersion, range.toVersion, fingerprint);
   const cached = await readSummary(key);
@@ -48,13 +64,29 @@ export async function POST(req: Request) {
     });
   }
 
+  const rateLimit = summaryGenerationLimiter.check(clientIdFromRequest(req));
+  if (!rateLimit.allowed) {
+    return NextResponse.json(
+      { error: "rate limit exceeded", retryAfterSeconds: rateLimit.retryAfterSeconds },
+      {
+        status: 429,
+        headers: {
+          "Retry-After": String(rateLimit.retryAfterSeconds),
+          "X-RateLimit-Limit": String(rateLimit.limit),
+          "X-RateLimit-Remaining": String(rateLimit.remaining),
+          "X-RateLimit-Reset": String(Math.ceil(rateLimit.resetAt / 1000)),
+        },
+      }
+    );
+  }
+
   const encoder = new TextEncoder();
   let buffer = "";
 
   const stream = new ReadableStream({
     async start(controller) {
       try {
-        for await (const chunk of streamSummary(body.game, range.patches)) {
+        for await (const chunk of streamSummary(body.game, digests)) {
           buffer += chunk;
           controller.enqueue(encoder.encode(chunk));
         }

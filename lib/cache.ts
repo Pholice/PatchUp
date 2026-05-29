@@ -1,13 +1,13 @@
 import { createHash } from "node:crypto";
-import { list, put } from "@vercel/blob";
-import type { Game, Patch } from "./types";
+import { head, put } from "@vercel/blob";
+import type { Game, PatchDigest } from "./types";
 
 export const SUMMARY_VERSION = "v1";
 
 export function summaryFingerprint(params: {
   model: string;
   promptVersion: string;
-  patches: Patch[];
+  digests: PatchDigest[];
 }): string {
   return createHash("sha256")
     .update(
@@ -15,11 +15,13 @@ export function summaryFingerprint(params: {
         summaryVersion: SUMMARY_VERSION,
         model: params.model,
         promptVersion: params.promptVersion,
-        patches: params.patches.map((p) => ({
-          version: p.version,
-          date: p.date,
-          parser_version: p.parser_version,
-          content_hash: p.content_hash,
+        digests: params.digests.map((digest) => ({
+          version: digest.version,
+          date: digest.date,
+          digest_version: digest.digest_version,
+          model: digest.model,
+          source_content_hash: digest.source_content_hash,
+          text_hash: createHash("sha256").update(digest.text).digest("hex").slice(0, 16),
         })),
       })
     )
@@ -38,9 +40,8 @@ export function cacheKey(
 
 export async function readSummary(key: string): Promise<string | null> {
   try {
-    const { blobs } = await list({ prefix: key, limit: 1 });
-    if (!blobs.length || blobs[0].pathname !== key) return null;
-    const res = await fetch(blobs[0].url);
+    const info = await head(key);
+    const res = await fetch(info.url);
     if (!res.ok) return null;
     return await res.text();
   } catch {

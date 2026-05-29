@@ -1,41 +1,47 @@
 import Anthropic from "@anthropic-ai/sdk";
-import type { Patch } from "./types";
+import type { Game, PatchDigest } from "./types";
 
 export const MODEL = "claude-sonnet-4-6";
-export const PROMPT_VERSION = "returning-player-v1";
+export const PROMPT_VERSION = "returning-player-v3";
 
 const SYSTEM_PROMPT = `You are PatchUp, a returning-player briefing assistant.
-You receive a list of patch notes the player missed since their last session.
-Write a single unified summary, NOT a per-patch changelog.
-Group changes by category (e.g., "Agent Changes", "Weapon Tuning", "Map Updates").
-Focus on what meaningfully affects gameplay; skip minor bug fixes and quality-of-life tweaks.
-Format each category as a markdown heading (## Category) followed by short bullet points.
-Be concise; the player wants to be caught up quickly, not read every line.`;
+You receive compact digests of game patches the player missed.
+Write a single unified briefing, NOT a per-patch changelog.
+Merge related changes across patches. Collapse changes that were later reverted or made irrelevant.
+Skip cosmetics, esports, and minor bug fixes.
+Write polished Markdown with ## section headings and concise bullets.`;
 
-function buildUserMessage(game: string, patches: Patch[]): string {
-  const intro = `Game: ${game}
-Patches missed (${patches.length}): ${patches.map((p) => p.version).join(", ")}
-
-Patch notes:
-`;
-  const body = patches
-    .map((p) => {
-      const sections = p.sections
-        .map((s) => `### ${s.title}\n${s.items.map((i) => `- ${i}`).join("\n")}`)
-        .join("\n\n");
-      return `--- Patch ${p.version} (${p.date}) ---\n${sections}`;
-    })
+export function buildUserMessage(game: Game, digests: PatchDigest[]): string {
+  const body = digests
+    .map((digest) => `--- Patch ${digest.version} (${digest.date}) ---\n${digest.text}`)
     .join("\n\n");
-  return intro + body;
+
+  return `Game: ${game}
+Patch digests missed (${digests.length}): ${digests.map((digest) => digest.version).join(", ")}
+
+You are writing for a player returning after these patches.
+Focus on practical differences they will notice now.
+Prioritize:
+- Meta Snapshot
+- Champions / Agents
+- Items, Runes, Weapons, Economy, and Systems
+- Map, Jungle, Objectives, Modes, and Queue changes
+- Quick Re-entry Tips
+
+Merge related changes across patches. Collapse changes that were later reverted or made irrelevant. Skip cosmetics, esports, and minor bug fixes.
+Write polished Markdown with ## section headings and concise bullets.
+
+Patch digests:
+${body}`;
 }
 
-export async function* streamSummary(game: string, patches: Patch[]): AsyncGenerator<string> {
+export async function* streamSummary(game: Game, digests: PatchDigest[]): AsyncGenerator<string> {
   const client = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY });
-  const stream = await client.messages.stream({
+  const stream = client.messages.stream({
     model: MODEL,
     max_tokens: 2000,
     system: SYSTEM_PROMPT,
-    messages: [{ role: "user", content: buildUserMessage(game, patches) }],
+    messages: [{ role: "user", content: buildUserMessage(game, digests) }],
   });
 
   for await (const event of stream) {
