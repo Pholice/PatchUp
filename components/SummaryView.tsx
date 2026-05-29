@@ -36,6 +36,9 @@ export function SummaryView({ game, fromVersion, toVersion, text, isStreaming, o
         <ReactMarkdown
           remarkPlugins={[remarkGfm]}
           components={{
+            h1: ({ children }) => (
+              <h1 className="text-xl font-bold leading-7 text-neutral-50">{children}</h1>
+            ),
             h2: ({ children }) => (
               <h2 className="mt-7 border-b border-neutral-800 pb-2 text-base font-semibold text-neutral-100 first:mt-0">
                 {children}
@@ -48,11 +51,12 @@ export function SummaryView({ game, fromVersion, toVersion, text, isStreaming, o
               <p className="text-sm leading-6 text-neutral-300">{children}</p>
             ),
             ul: ({ children }) => (
-              <ul className="space-y-2 pl-4 text-sm leading-6 text-neutral-300">{children}</ul>
+              <ul className="my-3 space-y-2 pl-5 text-sm leading-6 text-neutral-300">{children}</ul>
             ),
             li: ({ children }) => (
               <li className="list-disc marker:text-blue-400">{children}</li>
             ),
+            hr: () => <hr className="my-6 border-neutral-800" />,
             strong: ({ children }) => (
               <strong className="font-semibold text-neutral-100">{children}</strong>
             ),
