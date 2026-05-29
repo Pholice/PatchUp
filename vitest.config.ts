@@ -5,6 +5,11 @@ export default defineConfig({
   resolve: {
     alias: { "@": path.resolve(__dirname, ".") },
   },
+  server: {
+    deps: {
+      inline: ["react-markdown", "remark-gfm"],
+    },
+  },
   test: {
     environment: "node",
     include: ["**/*.test.ts", "**/*.test.tsx"],
