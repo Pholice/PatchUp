@@ -24,6 +24,11 @@ jobs:
       - name: Run fetch-patches
         run: npm run fetch-patches
 
+      - name: Run generate-digests
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: npm run generate-digests
+
       - name: Commit and push if changed
         run: |
           if [[ -n "$(git status --porcelain data/)" ]]; then
