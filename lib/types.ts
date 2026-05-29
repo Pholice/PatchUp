@@ -17,6 +17,17 @@ export interface Patch {
   raw_text: string;
 }
 
+export interface PatchDigest {
+  game: Game;
+  version: string;
+  date: string;
+  source_content_hash: string;
+  digest_version: string;
+  model: string;
+  generated_at: string;
+  text: string;
+}
+
 export interface PatchRange {
   game: Game;
   fromVersion: string;
