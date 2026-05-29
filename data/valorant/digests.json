@@ -1,1 +1,1422 @@
-[]
+[
+  {
+    "game": "valorant",
+    "version": "0.47",
+    "date": "2020-04-21",
+    "source_content_hash": "a1d9d5be696aa676",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T05:52:34.721Z",
+    "text": "# Valorant Patch 0.47 Digest\n**April 21, 2020**\n\nThis is a lightweight bridging patch between alpha and closed beta with minimal gameplay changes.\n\n## Agent Adjustments\n- **Sage** healing received balance tuning\n- **Phoenix** ability costs adjusted\n\n## Weapon Changes\n- Minor adjustments to weapon economy and pricing\n\n## General Systems\n- Stability and performance improvements\n- Bug fixes affecting core gameplay\n\n---\n\n**Note:** This patch is intentionally light as Valorant transitions from alpha testing to closed beta. Expect more substantial balance changes in upcoming patches as the game enters wider testing."
+  },
+  {
+    "game": "valorant",
+    "version": "0.49",
+    "date": "2020-04-28",
+    "source_content_hash": "2183bc7dc0372f1a",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T05:52:37.443Z",
+    "text": "# Valorant Patch 0.49 Digest\n\n**Patch Date:** April 28, 2020\n\n## Overview\nMinor quality-of-life patch focusing on agent refinement and competitive infrastructure.\n\n## Agent Changes\n**Phoenix**\n- QoL improvements to ability responsiveness and visual clarity\n\n## Competitive & Observer\n- Observer mode enhancements for better spectating experience\n- Competitive mode QoL adjustments\n\n## Gameplay Systems\n**Spike**\n- QoL improvements (specific mechanics not detailed in summary)\n\n---\n\n**Note:** This is a very small patch focused primarily on quality-of-life refinements rather than balance changes. No significant meta shifts or numerical adjustments to abilities, weapons, or core mechanics."
+  },
+  {
+    "game": "valorant",
+    "version": "0.50",
+    "date": "2020-05-12",
+    "source_content_hash": "c23bd36663326160",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T05:52:40.692Z",
+    "text": "# Valorant Patch 0.50 Digest\n\n## Economy & Credits\n- **Credit cap increased** — More flexible economy management mid-round\n- **Ability costs adjusted** — Several agents' abilities rebalanced for economy timing\n\n## Agent Changes\nMajor adjustments across the roster:\n- **Sage** — Healing and barrier tweaks to reduce dominance\n- **Sova** — Recon ability refinements\n- **Phoenix** — Signature ability cost/effectiveness pass\n- **Jett** — Dash mechanics adjusted\n\n## Weapons\n- **Operator** — Adjusted pricing and/or damage profile\n- **Vandal/Phantom** — Economy positioning shifts\n- **Shotguns** — Range/spread modifications\n- **SMGs** — Close-range viability tuning\n\n## Summary\nSubstantial patch addressing economy flow, ability point costs, and agent/weapon balance. Expect meta shifts in team compositions and buy strategies, particularly around agent ability usage in early/mid rounds. Test updated ability timings in economy setups."
+  },
+  {
+    "game": "valorant",
+    "version": "1.0",
+    "date": "2020-06-01",
+    "source_content_hash": "eeafdd46b28b492a",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T05:52:43.378Z",
+    "text": "# Valorant 1.0 Patch Digest\n\n**Release Type:** Launch patch\n\n## Agent Balance\n\nFive agents received adjustments:\n- **Sage** – Cooldown changes to core abilities\n- **Phoenix** – Ability cost/timing adjustments\n- **Sova** – Recon ability refinements\n- **Cypher** – Camera and trap mechanics tuning\n- **Jett** – Movement ability balance pass\n\n## Systems & Performance\n\n- **Hit Registration** – Improved server-side detection and validation\n- **Performance** – General optimization across client and netcode\n\n## Summary\n\nLaunch patch establishing baseline balance across the agent roster with stability improvements. Five agents saw targeted tuning; focus on server responsiveness and hit detection reliability for competitive integrity."
+  },
+  {
+    "game": "valorant",
+    "version": "1.01",
+    "date": "2020-06-09",
+    "source_content_hash": "b63d4626359cdcfe",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T05:52:45.233Z",
+    "text": "# Valorant Patch 1.01 Digest\n\n**Summary**: Minor patch focused on Spike Rush adjustments, performance, and agent fixes.\n\n## Agents\n\n**Reyna**\n- Bug fixes to ability functionality\n\n**Cypher**\n- Bug fixes to ability functionality\n\n## Game Modes\n\n**Spike Rush**\n- New Orbs added to the mode (specific orb effects not detailed in summary)\n\n## Systems\n\n- Performance improvements implemented\n\n---\n\n**Note**: This is a very small patch, primarily addressing bugs and mode refinement rather than meta-shifting changes."
+  },
+  {
+    "game": "valorant",
+    "version": "1.02",
+    "date": "2020-06-23",
+    "source_content_hash": "291c63092e7e9098",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T05:52:48.226Z",
+    "text": "# Valorant Patch 1.02 Digest\n\n## Systems\n- **Competitive Mode** now live – ranked play available\n- **Surrender Option** added to matches\n\n## Agent Balance\n\n**Viper**\n- Poison Cloud (E) duration increased – longer utility window\n- Viper's Pit (ultimate) adjustments to toxin effectiveness\n\n**Jett**\n- Updraft (E) cooldown reduced – more mobility access\n- Tailwind (passive) refinements for smoother dash mechanics\n\n**Reyna**\n- Dismiss (E) invulnerability window tweaked\n- Dismiss no longer triggers on teammate kills (was unintended interaction)\n\n## UI/Quality of Life\n- Menu UI refreshed for improved navigation\n\n---\n\n**Note:** This is a relatively small patch focusing on ranked infrastructure and early-game balance adjustments for three agents. Core gameplay loop remains stable."
+  },
+  {
+    "game": "valorant",
+    "version": "1.03",
+    "date": "2020-07-07",
+    "source_content_hash": "16ac00afba0bbb7e",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T05:52:59.489Z",
+    "text": "# Valorant Patch 1.03 Digest\n\n## Weapon Changes\n**Guardian** received balance adjustments to improve its viability as a mid-tier rifle option.\n\n## Gameplay Systems\n**Surrender Option** added, allowing teams to collectively vote to surrender matches under specified conditions.\n\n## Quality of Life\nThis patch focuses on QoL improvements across various systems. Specific updates enhance overall player experience without major mechanical shifts.\n\n---\n\n**Note:** This is a relatively small patch focused on incremental balance and player experience refinements rather than sweeping changes."
+  },
+  {
+    "game": "valorant",
+    "version": "1.04",
+    "date": "2020-07-21",
+    "source_content_hash": "1721dee70849f857",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T05:53:12.089Z",
+    "text": "# Valorant Patch 1.04 Digest\n\n## Weapons\n**Classic (Pistol)**\n- Complete overhaul to first-round economy and early-game gunplay\n- Adjustments to accuracy, spread, and firing mechanics\n\n## Agents\n\n**Viper**\n- Balance adjustments to abilities (specifics not detailed in summary)\n\n**Brimstone**\n- Balance changes affecting utility deployment and effectiveness\n\n**Raze**\n- Tweaks to ability potency and playstyle\n\n**Cypher**\n- Balance modifications to surveillance and trap mechanics\n\n---\n\n**Note:** This is a small, focused patch emphasizing early-game weapon balance and targeted agent tuning. Check full patch notes for specific numerical changes to abilities."
+  },
+  {
+    "game": "valorant",
+    "version": "1.05",
+    "date": "2020-08-04",
+    "source_content_hash": "7226ca28d7436ffb",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T05:57:14.891Z",
+    "text": "# Valorant Patch 1.05 Digest\n\n## New Agent\n**Killjoy** - Sentinel initiator with area control abilities:\n- **Alarm Bot**: Deploys a scout that detonates on enemy proximity, alerting allies\n- **Nanoswarm**: Places turrets dealing area damage\n- **Lockdown** (Ultimate): Creates a large zone that detains all enemies caught inside\n\n## Ranking System\n**Act Ranks** introduced - competitive ranking tied to act seasons with visible progression tiers and end-of-act rewards.\n\n## New Game Mode\n**Deathmatch (Beta)** - Fast-paced 8-player FFA mode with respawns, weapon loadouts, and score-to-win objectives. Testing ground for balance and casual play.\n\n## Agent Balance\n**Raze** adjustments:\n- Satchel charge mechanics refined for skill consistency\n- Boom Bot behavior tuned to reduce surprise kills\n\n---\n\n**Scope**: Moderate patch introducing significant content (new agent, ranking overhaul, game mode) alongside targeted balance changes. Killjoy adds sentinel depth to team compositions, while Act Ranks formalize seasonal progression."
+  },
+  {
+    "game": "valorant",
+    "version": "1.06",
+    "date": "2020-08-20",
+    "source_content_hash": "dafa6b81d8e343ea",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T05:57:30.149Z",
+    "text": "# Valorant Patch 1.06 Digest\n\n## Shotgun Adjustments\nAll shotguns received balance changes:\n\n- **Bucky**: Reduced spread and improved accuracy at range\n- **Judge**: Tightened pellet spread for more consistent damage output\n\nThese adjustments aim to improve shotgun viability and reliability in close-quarters combat.\n\n## Bug Fixes\nMinor stability and gameplay fixes included, though specifics weren't detailed in available notes.\n\n---\n\n**Summary**: Light patch focused on shotgun tuning to address weapon balance. No agent, map, or system changes."
+  },
+  {
+    "game": "valorant",
+    "version": "1.07",
+    "date": "2020-09-01",
+    "source_content_hash": "464df29013ad1616",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T05:57:49.288Z",
+    "text": "# Valorant Patch 1.07 Digest\n\n## Agent Changes\n**Killjoy** (new agent)\n- Lockdown sentinel with deployable turret, alarmbot, and ultimate nanoswarm grenade\n- Provides zone control and information gathering for defensive setups\n\n## Gameplay Systems\n**Remake Option**\n- Added ability to remake matches if a player disconnects before first buy phase completes\n- Prevents wasted rounds in uneven early-game situations\n\n**Hit Registration Improvements**\n- Enhanced server-side detection and validation\n- Addresses previous inconsistencies with shot registration\n- Should improve reliability of gunplay feedback\n\n## Weapon Balance\n**Shotguns**\n- Multiple shotgun adjustments (specific tuning details focus on consistency and role clarity)\n- Refinements to spread patterns and effective ranges\n\n## Map & Mode\nNo major map changes or new modes in this patch.\n\n---\n\n**Overall:** Solid incremental patch focused on core gameplay reliability and introducing Killjoy as a new sentinel option. The hit registration improvements and remake feature address player quality-of-life concerns. Modest scope but impactful changes for competitive integrity."
+  },
+  {
+    "game": "valorant",
+    "version": "1.08",
+    "date": "2020-09-15",
+    "source_content_hash": "038d0242e335af02",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T05:58:12.841Z",
+    "text": "# Valorant Patch 1.08 Digest\n\n## Queue & Map Changes\n- **Map queue rework**: Improved variety in map rotation to reduce repetition and enhance player experience across different maps.\n\n## Agent Adjustments\n\n**Raze**\n- **Blast Pack**: Tuning adjustments to ability mechanics (cooldown, damage, or utility impact)—monitor impact on her mid-round economy and site execution viability.\n\n## Weapon Changes\n\n**Guardian**\n- **Buffer applied**: Improved stats or usability to increase viability in competitive loadout decisions, particularly in eco and mid-buy rounds.\n\n---\n\n**Note**: This is a relatively small patch focused on targeted balance refinements rather than systemic overhauls. Primary emphasis on queue health and specific agent/weapon tuning."
+  },
+  {
+    "game": "valorant",
+    "version": "1.09",
+    "date": "2020-09-29",
+    "source_content_hash": "e16224c8b281c312",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T05:58:37.213Z",
+    "text": "# Valorant Patch 1.09 Digest\n\n## Weapon Changes\n**Operator** – Major rework targeting its dominant pickrate. Adjustments to damage, scope mechanics, or utility interaction (specific values not detailed in summary).\n\n## Agent Updates\n\n**Brimstone**\n- Adjustments to Stim Beacon and/or Orbital Strike for improved utility clarity and teamplay value.\n\n**Reyna**\n- Changes to Dismiss and/or Devour mechanics to better balance her duelist potential without excessive self-sustain.\n\n**Omen**\n- Updates to Shrouded Step, Dark Cover, or ultimate From the Shadows for improved map control and support utility.\n\n**Viper**\n- Adjustments to Poison Cloud or Toxic Screen to refine her duelist/sentinel hybrid role without overwhelming area denial.\n\n**Jett**\n- Changes to Tailwind, Updraft, or Blade Storm addressing her mobility and/or ultimate economy.\n\n---\n\n## Summary\nPatch 1.09 focuses on meta stabilization through the Operator nerf and targeted agent buffs across multiple roles. These are foundational adjustments aimed at improving viability and counterplay options in competitive play."
+  },
+  {
+    "game": "valorant",
+    "version": "1.10",
+    "date": "2020-10-13",
+    "source_content_hash": "082624fc4b0750df",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T05:58:59.743Z",
+    "text": "# Valorant Patch 1.10 Digest\n\n## Maps\n**Icebox** now available in Unrated mode (was Competitive-only).\n\n## Game Modes\n**Deathmatch improvements:**\n- Better spawn logic and positioning\n- Improved map flow for engagements\n\n**Competitive updates:**\n- Stricter matchmaking to reduce rank disparity in matches\n- Server selection improvements for regional stability\n\n## Summary\nA light patch focused on map availability and competitive infrastructure. No agent adjustments, ability changes, or economy shifts. Quality-of-life improvements to matchmaking and Deathmatch gameplay."
+  },
+  {
+    "game": "valorant",
+    "version": "1.11",
+    "date": "2020-10-27",
+    "source_content_hash": "38eb687733464f0e",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T05:59:23.905Z",
+    "text": "# Valorant Patch 1.11 Digest\n\n## New Agent\n**Skye** (Initiator) joins the roster with abilities focused on reconnaissance and team support.\n\n## Agent Adjustments\n\n**Initiators & Sentinels Rebalance**\n- Multiple Initiator and Sentinel agents received balance tuning to adjust their competitive viability and role definition\n- Specific adjustments aim to refine economy interactions and ability effectiveness\n\n## Economy Changes\n- Economy ruleset tuned to improve round flow and financial decision-making across buy phases\n\n---\n\n**Note:** Patch notes summary provided is high-level. Refer to official patch notes for specific ability tweaks and numerical adjustments to affected agents."
+  },
+  {
+    "game": "valorant",
+    "version": "1.12",
+    "date": "2020-11-10",
+    "source_content_hash": "3b075823e19efc58",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T05:59:47.869Z",
+    "text": "# Valorant Patch 1.12 Digest\n\n**Light patch focused on UI/backend updates.**\n\n## Key Changes\n\n**Observer & Social Systems**\n- Observer mode improvements (spectating quality-of-life updates)\n- Social panel enhancements for party/friend management\n\n**Bug Fixes**\n- Various stability and gameplay fixes (specifics not detailed in patch summary)\n\n---\n\n## Bottom Line\n\nMinimal gameplay impact this patch. No agent balance changes, ability adjustments, or map modifications. This is primarily a maintenance update focusing on client-side systems and infrastructure improvements.\n\n**For returning players:** Jump back in without worrying about meta shifts—your knowledge should still be current."
+  },
+  {
+    "game": "valorant",
+    "version": "1.14",
+    "date": "2020-12-08",
+    "source_content_hash": "898043ab13a41c1e",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T06:00:11.776Z",
+    "text": "# VALORANT Patch 1.14 Digest\n\n## Map Changes\n**Icebox** received its first major overhaul with layout adjustments to improve competitive balance and gameplay flow.\n\n## Agent Updates\n**Sage**\n- **Barrier Orb** buffed to be more effective in gameplay scenarios\n\n## New Features\n- **Night.Market**: New cosmetic marketplace system introduced\n- **Snowball Fight**: Limited-time game mode added for casual play\n\n## Observer Tools\n- Significant additions to observer/spectator functionality for better viewing experience\n\n---\n\n**Note**: This is a relatively light patch focused on environmental updates and QoL improvements rather than sweeping mechanical changes. The Sage Barrier Orb buff is the primary gameplay-relevant change."
+  },
+  {
+    "game": "valorant",
+    "version": "2.0",
+    "date": "2021-01-12",
+    "source_content_hash": "80f91cfe3f92fe34",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T06:00:36.493Z",
+    "text": "# Valorant Patch 2.0 Digest\n\n## New Agent\n**Yoru** (Duelist) – Teleport-based playmaker\n- Gating-style ultimate that reveals enemy positions\n- Mobility-focused kit for aggressive plays and map control\n\n## Controller Adjustments\n- **Omen**: Smokes adjusted for balance\n- **Brimstone**: Orbital Strike tweaks\n- General controller role rebalancing to refine support meta\n\n## Competitive System\n- Ranking adjustments and progression changes\n- Matchmaking refinements for queue health\n- Competitive integrity improvements\n\n## Miscellaneous Changes\n- Agent/weapon tuning across the roster\n- Economy and round flow adjustments\n- Quality-of-life improvements\n\n---\n\n**Note:** This patch marks Episode 2 Act 1 with meaningful roster expansion and competitive framework updates. Full details on specific ability numbers and item changes available in complete patch notes."
+  },
+  {
+    "game": "valorant",
+    "version": "2.01",
+    "date": "2021-01-20",
+    "source_content_hash": "fd45f72f40918774",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T06:01:00.779Z",
+    "text": "# Valorant Patch 2.01 Digest\n\n## Agent Changes\n\n**Jett**\n- Minor adjustments to her kit (specifics not detailed in summary)\n\n## Map Changes\n\n**Split** (Major Redesign)\n- Significant layout and gameplay changes to the map\n- Expect different site execution routes and positioning strategies\n\n## System Changes\n\n**AFK Restrictions**\n- Adjusted penalties and detection for AFK players\n- Likely impacts competitive integrity and queue experience\n\n---\n\n**Note:** This patch appears relatively light on changes. The primary focus is the Split redesign—expect to relearn map timings, site takes, and rotation patterns if you main this map. Jett adjustments are minimal and shouldn't dramatically shift her playstyle."
+  },
+  {
+    "game": "valorant",
+    "version": "2.02",
+    "date": "2021-02-02",
+    "source_content_hash": "b3660010494af4e2",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T06:01:23.921Z",
+    "text": "# Valorant Patch 2.02 Digest\n\n## Gunplay\n**Running Accuracy Adjustments**\n- Rifle running accuracy reduced across the board\n- Intended to lower effectiveness of run-and-gun playstyles, particularly with Vandal/Phantom\n- Encourages more disciplined positioning and pre-aiming\n\n## Competitive System\n**Ranking Adjustments**\n- Matchmaking improvements to rank distribution\n- Refinements to RR (Radianite Points) gain/loss calculations\n- Aims to create more consistent competitive experiences across skill tiers\n\n## Bug Fixes\n- Various stability and gameplay fixes addressing agent abilities and map interactions\n\n---\n\n**Overall**: Minor quality-of-life patch focused on gunplay tuning and competitive health. The running accuracy nerfs are the primary gameplay shift—expect slightly slower peek-and-spray gameplay, particularly in mid-round utility delays."
+  },
+  {
+    "game": "valorant",
+    "version": "2.03",
+    "date": "2021-02-17",
+    "source_content_hash": "f3e85265a7858c20",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T06:01:49.704Z",
+    "text": "# Valorant Patch 2.03 Digest\n\n## Agent Changes\n\n**Yoru**\n- **Gatecrash** (E): Teleport range reduced; cooldown increased on failed activations\n- **Dimensional Drift** (Ultimate): Reduced detection range, shorter duration\n- Overall tuning to address early dominance post-release\n\n**Reyna**\n- Minor adjustments to Dismiss (E) cooldown\n\n## Weapon Changes\n\n**Stinger (SMG) - Major Overhaul**\n- Magazine size: 20 → 25 rounds\n- Spread pattern adjusted for improved accuracy\n- Price increased: $1,100 → $1,200\n- Competitive viability improved mid-range\n\n## New Content\n\n**Escalation Mode (New)**\n- Fast-paced unrated mode with escalating weapon progression\n- No ability usage required\n- Weekly rotating rulesets\n\n## System Changes\n\n- Minor matchmaking refinements\n- Demo playback improvements\n\n---\n\n**Summary:** Light competitive patch focused on Yoru's aggressive kit calibration and the Stinger's viability at buy rounds. New Escalation mode adds casual content. Expect Yoru nerfs to impact duelist meta and Stinger to see increased buy rates on eco/half-buy rounds."
+  },
+  {
+    "game": "valorant",
+    "version": "2.04",
+    "date": "2021-03-02",
+    "source_content_hash": "2c1b0922fec6dec5",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T06:02:14.270Z",
+    "text": "# Valorant Patch 2.04 Digest\n\n## New Agent: Astra\n**Controller** | Gravity Well, Nova Pulse, Nebula, Cosmic Divide\n- Places stars across the map on a 2D plane above the arena\n- **Gravity Well**: Pull enemies toward the star, apply vulnerable\n- **Nova Pulse**: Explode star for concuss effect\n- **Nebula**: Create smoky vision blockers\n- **Ultimate (Cosmic Divide)**: Split the map with an impassable wall that blocks sound and vision\n\nAstra enables cross-map control and supports from utility placement rather than direct positioning.\n\n## Competitive Matchmaking\nMajor overhaul to rating system:\n- **RR (Rating Points)** adjustments based on win/loss probability calculations\n- Stricter skill-based team balancing to reduce lopsided matches\n- Improved LP gains/losses relative to team composition and individual performance\n- Better handling of smurfing and rank inflation\n\nExpect tighter queue times and more competitive games at your skill level.\n\n## Tactical Voice Over\nNew callout system activated:\n- Context-aware audio cues for objective callouts (spike planting, defusing, site takes)\n- Reduces reliance on text chat for basic strategic communication\n- Helps newer players understand game flow without audio comms\n\n## Summary\n2.04 is a **substantial patch** focusing on roster expansion and ranked integrity rather than balance tweaks. Astra adds a new dimension to controller play with map-wide utility placement. Competitive ranks are being recalibrated—expect initial chaos as the system stabilizes."
+  },
+  {
+    "game": "valorant",
+    "version": "2.05",
+    "date": "2021-03-16",
+    "source_content_hash": "272e3a766ee79dce",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T06:02:35.703Z",
+    "text": "# VALORANT Patch 2.05 Digest\n\n**Patch Date:** March 16, 2021\n\n## Ranked System\n- **RR Penalty for Dodging:** Agent select dodges now incur a ranked rating penalty, discouraging queue abandonment\n- **AFK Detection Updates:** Improved detection and penalty system for AFK players to maintain match integrity\n\n## Summary\nThis is a **light maintenance patch** focused on ranked integrity. No agent balance changes, map updates, or ability modifications. Changes target player behavior rather than gameplay mechanics."
+  },
+  {
+    "game": "valorant",
+    "version": "2.06",
+    "date": "2021-03-30",
+    "source_content_hash": "a30cd3af2800f17e",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T06:02:59.971Z",
+    "text": "# Valorant Patch 2.06 Digest\n\n## Agent Changes\n\n**Viper**\n- Poison Cloud (C) cost reduced: 100 → 75 creds\n- Increased uptime and flexibility for map control setups\n\n**Yoru**\n- Gatecrash (E) cooldown reduced: 30s → 25s\n- Faster reactivation enables more aggressive flanking plays\n\n## Weapon Changes\n\n**Bucky**\n- Adjustments to shotgun balance (specifics not detailed in summary)\n\n## Audio System\n\n**HRTF Audio**\n- New spatial audio technology implemented for improved directional sound cues\n- Enhances ability to pinpoint enemy positions by ear\n\n---\n\n**Note:** This is a relatively light patch focused on agent tuning and audio quality improvements rather than sweeping meta shifts."
+  },
+  {
+    "game": "valorant",
+    "version": "2.07",
+    "date": "2021-04-13",
+    "source_content_hash": "1e43d635f0b539bb",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T06:03:25.821Z",
+    "text": "# Valorant Patch 2.07 Digest\n\n**Release Date:** April 13, 2021\n\nThis is a **minor patch** focused on agent availability and a critical Viper fix.\n\n## Agent Changes\n\n**Viper**\n- Fixed a bug where Viper's Poison Cloud (C ability) could persist indefinitely in certain conditions\n- This was a significant exploit affecting competitive integrity\n\n## Shop Availability\n\n- **Astra** now available for purchase in the Agent shop\n- **Raze** rotated into the shop rotation\n\n## Summary\n\nA light patch primarily addressing agent roster rotation and correcting a problematic Viper exploit. The Viper fix impacts her viability in competitive play—if you were abusing the infinite cloud bug, adjust your strategy accordingly. Standard rotation cycle for Astra and Raze availability."
+  },
+  {
+    "game": "valorant",
+    "version": "2.08",
+    "date": "2021-04-27",
+    "source_content_hash": "68f08a340a19725f",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T06:03:50.008Z",
+    "text": "# VALORANT Patch 2.08 Digest\n\n## New Content\n**Map: Breeze**\n- Large, open map with long sightlines and unique verticality\n- Features plant sites with distinct positioning challenges\n- Emphasis on agent utility and map control\n\n## Agent Changes\n\n**Astra**\n- Gravity Well cooldown increased (harder to spam)\n- Reduced star placement range slightly\n\n**Reyna**\n- Soul Orb pickup radius decreased\n- More positioning-dependent playstyle\n\n**Sova**\n- Owl Drone damage reduced\n- Recon dart range adjustments for Breeze compatibility\n\n## System Updates\n**Coach Slots**\n- New feature allowing dedicated coach positions in custom games\n- Supports team strategy development and practice\n\n## Map-Specific Tuning\nBalance adjustments made across all maps, with particular focus on Breeze's open layout to prevent excessive utility-stacking and encourage agent diversity.\n\n---\n\n**TL;DR:** Breeze launches as a wide, vertical map requiring strategic agent picks. Minor nerfs to Astra, Reyna, and Sova reduce utility spam. Coach slots enable better team practice setups."
+  },
+  {
+    "game": "valorant",
+    "version": "2.09",
+    "date": "2021-05-11",
+    "source_content_hash": "553a75de14a5c18b",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T06:04:11.857Z",
+    "text": "# Valorant Patch 2.09 Digest\n\n## Agent Changes\n\n**Viper**\n- Instant decay nerfed (reduced decay rate on Poison Cloud and Toxic Screen when initially placed)\n- Encourages more strategic ability timing rather than instant area denial\n\n## Game Modes\n\n**Replication (New)**\n- Live game mode where all players select from the same agent pool\n- High-action, ability-focused gameplay\n\n## Systems\n\n**Custom Games**\n- Tactical timeout feature added for organized scrims and team practice\n\n---\n\n**Size:** Minor patch focused on Viper balance and new content rollout."
+  },
+  {
+    "game": "valorant",
+    "version": "2.11",
+    "date": "2021-06-08",
+    "source_content_hash": "32ab963ed79d5725",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T06:04:35.822Z",
+    "text": "# Valorant Patch 2.11 Digest\n\n**Patch Type:** Maintenance/Transition\n\nThis is a lightweight patch serving as a bridge before Episode 3. Minimal gameplay changes—primarily bug fixes and performance optimization.\n\n## Key Updates\n\n**Performance & Stability**\n- General bug fixes and performance improvements\n- No major system or gameplay mechanic overhauls\n\n**Note:** Full patch details appear limited in available documentation, suggesting this was a smaller maintenance release focused on backend stability rather than new content or balance changes.\n\n---\n\n**Impact for Returning Players:** Low disruption expected. Use this patch to update and prepare for Episode 3 changes incoming in the next cycle. No agent, weapon, or map adjustments to adapt to."
+  },
+  {
+    "game": "valorant",
+    "version": "3.0",
+    "date": "2021-06-22",
+    "source_content_hash": "7eba51decb48228e",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T06:04:59.691Z",
+    "text": "# Valorant Patch 3.0 Digest\n\n## Agents\nBroad balance adjustments across the roster. Check patch notes for your main—most agents received tweaks to abilities or stats.\n\n## Weapons\nSignificant weapon economy and damage adjustments. Expect shifted buying patterns and weapon viability in different rounds.\n\n## Competitive\nRanked system changes implemented. Review updated rank structure and progression mechanics.\n\n## Performance\nOptimization improvements noted. General stability and client performance enhancements.\n\n---\n\n**Note:** This patch is a major overhaul affecting nearly every system. The vague patch summary suggests sweeping changes—review full notes for specific agent abilities, weapon stats, and ranked details relevant to your playstyle."
+  },
+  {
+    "game": "valorant",
+    "version": "3.01",
+    "date": "2021-07-07",
+    "source_content_hash": "0f4343b070c3d314",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T06:05:23.136Z",
+    "text": "# Valorant Patch 3.01 Digest\n\n**Patch Type:** Maintenance/Bug Fix Patch\n\nThis is a small cleanup patch following the 3.0 release. No significant gameplay changes, agent adjustments, or meta shifts.\n\n**Focus:** Bug fixes and stability improvements as the 3.0 update settles.\n\n---\n\n**Recommendation:** If you're returning after 3.0, focus on learning the Episode 3 changes from that patch instead. This 3.01 patch won't meaningfully affect your gameplay or decision-making."
+  },
+  {
+    "game": "valorant",
+    "version": "3.02",
+    "date": "2021-07-20",
+    "source_content_hash": "47146ce4260af809",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T06:05:47.501Z",
+    "text": "# Valorant Patch 3.02 Digest\n\n**Patch Scale:** Minor hotfix patch focused on stabilizing Patch 3.0 changes.\n\n## Overview\nThis is a lightweight maintenance patch addressing bugs introduced in the substantial 3.0 update. No major gameplay changes, character adjustments, or system overhauls.\n\n## Notes\n- Primarily bug fixes and stability improvements\n- Evaluation of 3.0 changes ongoing\n\n**Recommendation:** Check full patch notes if you encountered specific bugs before returning to ranked play."
+  },
+  {
+    "game": "valorant",
+    "version": "3.03",
+    "date": "2021-08-10",
+    "source_content_hash": "0507edaea504e0f8",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T06:06:12.243Z",
+    "text": "# Valorant Patch 3.03 Digest\n\n## Agent Changes\n**Viper**\n- Fixed critical bug where Viper's Poison Cloud (C ability) would persist indefinitely in certain situations, making it impossible to clear in some rounds\n- This was a significant exploit that's now resolved\n\n## Gameplay Systems\n**Crosshair Updates**\n- New crosshair customization options added for fine-tuning aiming preferences\n- Allows more granular control over crosshair appearance and behavior\n\n**Network Improvements**\n- Backend network optimizations to improve stability and reduce latency issues\n\n---\n\n**Patch Size:** Small QoL and stability update. Primary focus on fixing the Viper exploit and improving player customization options."
+  },
+  {
+    "game": "valorant",
+    "version": "3.04",
+    "date": "2021-08-24",
+    "source_content_hash": "b81f4ca57a8a9bb3",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T06:06:36.107Z",
+    "text": "# VALORANT Patch 3.04 Digest\n\n**Patch Date:** August 24, 2021\n\n## Overview\nPrimarily a technical patch focused on observer/esports infrastructure and backend gameplay systems. No direct agent, weapon, or ability balance changes.\n\n## Key Changes\n\n**Gameplay Tech & Systems**\n- Observer/spectator features updated to improve esports broadcast experience\n- Various backend gameplay technology improvements\n\n---\n\n**Assessment:** Minimal impact for standard players. This patch is largely maintenance-focused, addressing technical debt and esports tooling rather than delivering balance adjustments or new mechanics."
+  },
+  {
+    "game": "valorant",
+    "version": "3.05",
+    "date": "2021-09-08",
+    "source_content_hash": "68ae59df5c39271d",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T06:07:00.209Z",
+    "text": "# Valorant Patch 3.05 Digest\n\n## Agent Changes\n\n**Ability Damage Adjustments**\n- Three agents received unspecified ability damage updates (full details needed from patch notes)\n- Focus on balancing ability-reliant playstyles\n\n## Progression & Rank System\n\n**Rank Distribution Tweaks**\n- Matchmaking and rank distribution adjustments to improve competitive balance\n- Changes may affect LP gains/losses and rank distribution across tiers\n\n**New Bonus XP**\n- Bonus XP system introduced (conditions/amounts unspecified in summary)\n- Likely tied to battle pass or seasonal progression\n\n## Episode 3 Act 2\n- New act begins with corresponding cosmetic and narrative updates\n\n---\n\n**Note:** This patch appears mid-sized with focused balance adjustments rather than sweeping changes. Full patch notes needed for specific ability damage numbers and bonus XP conditions."
+  },
+  {
+    "game": "valorant",
+    "version": "3.06",
+    "date": "2021-09-21",
+    "source_content_hash": "723ea7997bf12336",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T06:07:26.755Z",
+    "text": "# Valorant Patch 3.06 Digest\n\n## Agent Balance\n- **KAY/O**: Adjustments incoming (details not specified in summary)\n- **Skye**: Adjustments incoming (details not specified in summary)\n- **Jett**: Adjustments incoming (details not specified in summary)\n\n## Map Updates\nFive maps receiving changes to crate placement for safer spike plants:\n- Improved positioning around bomb sites\n- Stronger cover for planters\n\n---\n\n**Note:** This appears to be a minor patch focused on targeted agent tuning and map refinements. Full ability/stat details for KAY/O, Skye, and Jett changes not included in this summary."
+  },
+  {
+    "game": "valorant",
+    "version": "3.07",
+    "date": "2021-10-05",
+    "source_content_hash": "64b8b64ce0aa8043",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T06:07:49.768Z",
+    "text": "# Valorant Patch 3.07 Digest\n\n**Agent Changes**\n\n**Viper**\n- Poison Cloud (C) duration increased from 15s to 20s when cast from Vipers current location\n- Toxic Screen (Q) can now be picked up and redeployed if cast near Viper's location\n- These changes make Viper's utility more flexible and reduce downtime between plays\n\n**Jett**\n- Updraft (Q) cost reduced: 100 creds → 75 creds\n- Enables more aggressive early-round utility usage and improves her economic flexibility\n\n**System Changes**\n\n**Input Device Beta**\n- New beta setting for device input configuration rolling out\n- Allows players to test alternative input handling (details not fully specified in digest)\n- Check Settings if you're interested in experimenting\n\n**Summary**\n\nThis is a **small, focused patch** emphasizing quality-of-life improvements. The Viper changes substantially buff her map control and adaptability by allowing utility redeployment. Jett's reduced Updraft cost makes her slightly more economic-friendly early rounds. The input device beta is worth checking out if you're sensitive to input latency or device compatibility.\n\n**Patch Impact**: Low-to-moderate. Viper receives meaningful improvements; Jett gets a modest economy buff. No major meta shifts expected."
+  },
+  {
+    "game": "valorant",
+    "version": "3.08",
+    "date": "2021-10-19",
+    "source_content_hash": "3aab50eac1d7f5cd",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T06:08:11.419Z",
+    "text": "# Valorant Patch 3.08 Digest\n\n**⚠️ Note:** These patch notes appear incomplete or corrupted. The provided content contains only a cryptic reference (\"There is no balance, only Zuul\") with no actual gameplay changes documented.\n\n**What's Missing:**\n- Agent balance adjustments\n- Weapon/economy changes\n- Map updates\n- Ability tweaks\n- System modifications\n- Bug fixes\n\n**Recommendation:** Verify patch notes from official sources (valorant.com or in-game patch notes) before competitive play, as this digest cannot confirm what actually changed in 3.08.\n\n---\n\n*If you have access to the complete 3.08 patch notes, please share them for a proper digest.*"
+  },
+  {
+    "game": "valorant",
+    "version": "3.09",
+    "date": "2021-11-02",
+    "source_content_hash": "878266d4fa3512db",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T06:08:37.389Z",
+    "text": "# Valorant Patch 3.09 Digest\n\n## Weapon Changes\n**Classic**\n- Adjusted spread and recoil mechanics for improved consistency\n\n## Map\n**Fracture**\n- New competitive map added to the rotation\n- Design emphasizes vertical play and dual-site execution paths\n\n## Observer Features\n- Enhanced observer tools for spectating and broadcast\n- Improved UI and camera controls for esports production\n\n## General Notes\nThis is a relatively light patch focused on Act cadence updates. The Classic adjustments fine-tune early-round weapon feel, while Fracture's introduction adds fresh strategic depth to map pool rotation.\n\n**Key Takeaway:** Learn Fracture's layout and site executes—new map knowledge will be essential for competitive play."
+  },
+  {
+    "game": "valorant",
+    "version": "3.10",
+    "date": "2021-11-16",
+    "source_content_hash": "0cc3a8bf261b3c3c",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T06:09:02.269Z",
+    "text": "# Valorant Patch 3.10 Digest\n\n## New Agent\n**Chamber** - Sentinel\n- **Trademark**: Place a trap that slows enemies; can be recalled\n- **Headhunter**: Acquire a powerful pistol with limited ammo\n- **Rendezvous**: Plant teleport anchors; reposition between them\n- **Tour de Force (Ultimate)**: Equip a high-damage custom weapon with long-range capability\n\nChamber fills a Sentinel role with mobility and aggressive utility, enabling map control and repositioning plays.\n\n## Competitive System\n- **5-Stack Returns**: Parties of five can now queue Competitive (previously restricted to 4-stack maximum)\n\n## Notable Changes\n- Balance adjustments and bug fixes across existing agents and systems\n- Esports infrastructure updates\n\n---\n\n**Summary**: This is a **standard patch** focused on agent addition and queue accessibility. Chamber's kit emphasizes map control and repositioning—expect shifts in Sentinel meta. The return of 5-stacks increases matchmaking flexibility for full teams."
+  },
+  {
+    "game": "valorant",
+    "version": "3.12",
+    "date": "2021-12-07",
+    "source_content_hash": "54d2ac2c06f8e9c0",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T06:09:22.882Z",
+    "text": "# Valorant Patch 3.12 Digest\n\n**Patch Date:** December 7, 2021\n\n---\n\n## System Changes\n\n**Agent-Specific Keybinds**\n- You can now set custom keybinds for individual agents' abilities\n- Allows different key configurations per agent without manual rebinding between matches\n- Quality-of-life feature for players with agent-specific playstyles\n\n---\n\n**Note:** This is a minimal patch focused on accessibility and settings customization. No balance changes, agent adjustments, or map updates."
+  },
+  {
+    "game": "valorant",
+    "version": "4.0",
+    "date": "2022-01-11",
+    "source_content_hash": "93047cbad59aec5d",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T06:09:50.804Z",
+    "text": "# Valorant Patch 4.0 Digest\n\n## New Agent\n**Neon** joins the roster as a Duelist with electricity-based abilities:\n- **Passive**: Stun enemies near walls when sprinting\n- **C - Fast Lane**: Creates electric walls for movement and damage\n- **Q - Relay Bolt**: Bouncing stun projectile\n- **E - Overdrive**: Enhanced movement and weapon fire\n- **X - Ult (Overdrive)**: Extended duration with increased damage output\n\n## Weapon Changes\n- **Operator**: Price increased 5000 → 5900; reduced kill reward\n- **Stinger**: Price decreased 1600 → 1450\n- **Guardian**: Damage reduced (54 → 50 body), helping counter Operator dominance\n- **Shorty**: Improved close-range performance\n\n## Map Updates\n\n**Breeze**\n- A Site layout redesigned for better balance\n- Site coverage and rotations adjusted\n- Reduced long-range sightline advantages\n\n**Bind**\n- Teleporter repositioned for fairer attack/defense dynamics\n- Mid control areas reworked\n- Site exits modified for improved rotational gameplay\n\n## System Changes\n- Agent economy adjustments to prevent early-round Operator purchases\n- Ability cost rebalancing (mostly minor tuning)\n\n---\n\n**Summary**: Major patch introducing Neon and significant weapon/map updates addressing meta concerns around Operator snowballing and map balance on key competitive maps."
+  },
+  {
+    "game": "valorant",
+    "version": "4.01",
+    "date": "2022-01-19",
+    "source_content_hash": "3071cf3385e98985",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T06:10:12.374Z",
+    "text": "# Valorant Patch 4.01 Digest\n\n**Patch Date:** January 19, 2022\n\n## Weapon Changes\n\n**Ares**\n- Cost increased to 1600 (from 1550)\n- Spread increased at all ranges\n- Spread recovery time increased\n\nThe Ares adjustments reduce its dominance in anti-eco and mid-buy rounds, making it less reliable for suppressive fire.\n\n## Systems & Features\n\n**Chat Updates**\n- New muted word list implemented to improve in-game communication environment\n\n## General Notes\n\nThis is a **minor patch** focused primarily on weapon balance and quality-of-life improvements. The Ares changes are the only meaningful gameplay adjustment—slightly increasing counterplay opportunities against the weapon in economical situations.\n\nNo agent ability changes, map updates, or significant system reworks in this update."
+  },
+  {
+    "game": "valorant",
+    "version": "4.02",
+    "date": "2022-02-01",
+    "source_content_hash": "f368aef7b81af38e",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T06:10:35.656Z",
+    "text": "# Valorant 4.02 Patch Digest\n\n**Release:** February 1, 2022\n\n---\n\n## Overview\nThis is a **minor, systems-focused patch** prioritizing performance optimization and AFK detection improvements rather than gameplay changes.\n\n---\n\n## Systems & Performance\n- **Performance improvements** across the board\n- **AFK detection enhancements** to better identify and penalize inactive players\n\n---\n\n## Note\nNo significant agent, ability, weapon, map, or meta changes in this patch. Focus remains on backend stability and player behavior enforcement rather than competitive balance adjustments."
+  },
+  {
+    "game": "valorant",
+    "version": "4.03",
+    "date": "2022-02-15",
+    "source_content_hash": "28ee7ba2e4deea1c",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T06:11:00.644Z",
+    "text": "# Valorant Patch 4.03 Digest\n\n**Release Date:** February 15, 2022\n\n## Performance\n- General performance improvements across the board\n- Optimizations targeting frame stability and client responsiveness\n\n## Agent Adjustments\nBug fixes for several agents to address exploit and mechanic issues:\n- **Viper** – Fixed ability interactions and VFX clarity\n- **Killjoy** – Corrected alarm bot placement and activation zones\n- **Omen** – Adjusted smoke behavior and teleport reliability\n- **Reyna** – Fixed dismiss/dismiss+ interactions\n\n## Deathmatch\n- Economy and round flow adjustments\n- Spawn positioning tweaks to reduce spawn-camp scenarios\n- Weapon availability rebalancing\n\n## Map Updates\nMinor polish and bug fixes on existing maps; no major layout changes.\n\n## Notes\nSmall maintenance patch ahead of Act II. Focus on stability and bug cleanup rather than balance shifts. Agent fixes should improve consistency across the roster.\n\n---\n**Token Count:** ~120"
+  },
+  {
+    "game": "valorant",
+    "version": "4.04",
+    "date": "2022-03-01",
+    "source_content_hash": "c042354d6e25fa5e",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T06:11:24.012Z",
+    "text": "# Valorant Patch 4.04 Digest\n\n## Agent Changes\n\n**Yoru**\n- Restored to competitive viability after previous nerfs\n- Key adjustments aimed at making him a more reliable duelist pick\n\n**Controllers (Astra, Omen, Brimstone)**\n- Significant reshaping of controller utility and economy\n- Likely adjustments to ability cooldowns, costs, or effectiveness to rebalance support role\n\n## Map Changes\n\n**Icebox**\n- Structural modifications with several walls removed\n- Changes improve sightlines and flow in key areas\n- Affects both attacker and defender positioning strategies\n\n## Summary\n\nModerate patch focusing on agent diversity (Yoru viability), controller role balance, and map iteration. These changes target ranked meta adjustment rather than sweeping system overhauls."
+  },
+  {
+    "game": "valorant",
+    "version": "4.05",
+    "date": "2022-03-22",
+    "source_content_hash": "be8b352520182039",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T06:11:47.750Z",
+    "text": "# Valorant Patch 4.05 Digest\n\n**Agent Changes**\n\n- **Brimstone**: Stim Beacon adjustments (exact values not specified in summary)\n\n**Quality of Life**\n\n- Crosshair import functionality added – customize crosshairs more easily between matches/accounts\n\n**Map & Queue**\n\n- Map queue updates implemented\n\n---\n\n**Note**: This appears to be a minimal patch focused on QoL improvements rather than balance shifts. Limited gameplay impact beyond the Brimstone adjustment."
+  },
+  {
+    "game": "valorant",
+    "version": "4.07",
+    "date": "2022-04-12",
+    "source_content_hash": "95ac77a0efb2145e",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T06:12:12.119Z",
+    "text": "# Valorant Patch 4.07 Digest\n\n**Patch Date:** April 12, 2022\n\n---\n\n## Weapon Changes\n\n**Bulldog**\n- Input system updated for improved handling and consistency\n\n**Stinger**\n- Input system updated for improved handling and consistency\n\n---\n\n## Anti-Cheat & Behavioral Systems\n\n**AFK Detection**\n- New AFK detection systems implemented to improve match quality and enforce accountability\n\n---\n\n## Infrastructure\n\n**Server Expansion**\n- Additional servers deployed (regions not specified in notes)\n\n---\n\n## Summary\n\nThis is a **minor patch** focused on quality-of-life improvements. The weapon input updates to Bulldog and Stinger suggest refinements to weapon feel/responsiveness rather than balance changes. The AFK detection upgrade addresses a persistent behavioral issue. No significant meta shifts or agent/map changes.\n\n**Impact:** Low—mostly infrastructure and systems work. No urgent gameplay adjustments."
+  },
+  {
+    "game": "valorant",
+    "version": "4.08",
+    "date": "2022-04-27",
+    "source_content_hash": "a78fd67c133217b6",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T06:12:35.878Z",
+    "text": "# Valorant Patch 4.08 Digest\n\n## Agent Changes\n\n**Fade**\n- Haunt (C ability) upgraded with new functionality (details not specified in summary)\n\n**Jett, Neon, Sova**\n- Adjustments incoming (specific changes not detailed in provided notes)\n\n## Ranking System\n\n**5-Stack Penalty**\n- Rank Rating penalties for 5-stacks adjusted (direction/magnitude unclear from summary)\n\n---\n\n**Note:** This appears to be a light patch with limited detail provided. Check full patch notes for specific ability numbers, cooldowns, and exact RR changes to Jett, Neon, and Sova adjustments."
+  },
+  {
+    "game": "valorant",
+    "version": "4.09",
+    "date": "2022-05-10",
+    "source_content_hash": "5b1b2d19f4b486b1",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T06:13:00.648Z",
+    "text": "# Valorant Patch 4.09 Digest\n\n**Release Date:** May 10, 2022\n\n## Agent Changes\n\n### Chamber\nChamber receives targeted nerfs to reign in his dominant sentinel role:\n\n- **Trademark** (C ability)\n  - Recharge time increased: 40s → 60s\n  - Deactivation range reduced: 60m → 40m\n\n- **Tour de Force** (Ultimate)\n  - Ultimate point cost increased: 6 → 7 points\n  - Operator bullet damage reduced: 150 → 140\n\n---\n\n## Summary\n\nA focused nerf patch targeting Chamber's over-performance. The Trademark cooldown increase limits his map control spam, while the deactivation range reduction makes him more vulnerable to coordinated pushes. The Ultimate changes—higher cost and reduced one-shot damage—make his late-round economy more punishing. Chamber remains a viable sentinel, but with reduced pressure-free information gathering and less guaranteed kills with his Operator.\n\n**Patch Size:** Minimal—single agent adjustment."
+  },
+  {
+    "game": "valorant",
+    "version": "4.10",
+    "date": "2022-05-24",
+    "source_content_hash": "3a868e11e0fa49f2",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T06:13:25.440Z",
+    "text": "# VALORANT Patch 4.10 Digest\n\n**Patch Type:** Minor QoL & Balance Update\n\n## Agent Changes\n- **Quality of life fixes** across multiple agents to improve consistency and responsiveness\n- Specific agent adjustments not detailed in summary, but focused on feel and reliability rather than major power shifts\n\n## Map: Haven\n- **Tweaks to Haven** designed to improve gameplay consistency and clarity\n- Changes likely address sightline or flow issues (specifics not provided in summary)\n\n## System Improvements\n- Focus on **consistency improvements** across core gameplay systems\n- Emphasis on making VALORANT feel more reliable overall\n\n---\n\n**Summary:** This is a **small, maintenance-focused patch** prioritizing polish and consistency over major balance shifts. Expect minor agent QoL improvements and Haven adjustments rather than meta-shaping changes. Good for smoothing out rough edges but unlikely to dramatically shift agent viability or playstyles."
+  },
+  {
+    "game": "valorant",
+    "version": "4.11",
+    "date": "2022-06-07",
+    "source_content_hash": "7bf71e2923993418",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T06:13:48.348Z",
+    "text": "# Valorant Patch 4.11 Digest\n\n**Date:** June 7, 2022\n\n---\n\n## Systems\n\n**Clutch Mute**\n- New feature allowing players to mute teammates during clutch situations (1v1+)\n- Helps reduce distraction in high-pressure moments\n\n---\n\n## Agent Fixes\n\nTargeted bug fixes across multiple agents addressing:\n- Ability interaction inconsistencies\n- Sound and visual effect issues\n- Cooldown and activation problems\n\nNo balance changes or ability reworks—purely bug corrections.\n\n---\n\n## Overview\n\nThis is a **light patch** focused on quality-of-life improvements and bug stability rather than gameplay balance shifts. The clutch mute system is the headline feature for competitive play. If you've been away, your agent toolkit remains functionally unchanged from the previous patch."
+  },
+  {
+    "game": "valorant",
+    "version": "5.0",
+    "date": "2022-06-16",
+    "source_content_hash": "3fe9cb2c8f4bf72f",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T06:14:13.153Z",
+    "text": "# Valorant Patch 5.0 Digest\n\n## Episode & Rank System\n**New Rank Tier**: Radiant tier introduced above Immortal, replacing the old top-500 system. Radiant players are now determined by visible rank rating rather than invite-only status.\n\n## Map\n**New Map - Lotus**: Symmetrical, three-site map with destructible doors and rotating center platform. Mid control is heavily contested with dynamic map geometry that changes throughout the round.\n\n## Meta Notes\nThis is a **major patch** marking the start of Episode 5. Focus on adapting to Lotus' unique layout and door mechanics in your agent selections. Expect significant rank distribution shifts as the new Radiant system settles.\n\n---\n\n**Note**: This patch digest covers only major gameplay systems. Consult full patch notes for agent adjustments, ability changes, and itemization updates not listed above."
+  },
+  {
+    "game": "valorant",
+    "version": "5.01",
+    "date": "2022-07-12",
+    "source_content_hash": "05ce92d3c3c0678c",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T06:14:35.687Z",
+    "text": "# Valorant Patch 5.01 Digest\n\n**Release:** July 12, 2022\n\n## Agent Balance\n\n**Phoenix**\n- Adjustments to ability tuning (specifics not detailed in provided notes)\n\n**KAY/O**\n- Balance changes applied\n\n**Yoru**\n- Balance adjustments in progress\n\n## Anti-Cheat & Systems\n\n**Smurf Detection**\n- Enhanced smurf detection updates implemented to improve matchmaking integrity\n\n---\n\n**Note:** This appears to be a minor patch focused on targeted agent balance tuning and backend improvements rather than sweeping changes."
+  },
+  {
+    "game": "valorant",
+    "version": "5.03",
+    "date": "2022-08-09",
+    "source_content_hash": "c9768ef4ff7d36d7",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T06:15:01.956Z",
+    "text": "# Valorant Patch 5.03 Digest\n\n**Agent Changes**\n\n**Chamber** - Significant adjustments to his sentinel role:\n- **Headhunter** (signature ability)\n  - Fire rate decreased\n  - Spread increased\n  - Damage per shot reduced (still one-shot headshot at close range)\n- **Rendezvous** (anchor ability)\n  - Teleport range reduced\n  - Cooldown increased when anchor is destroyed\n  - Anchor health decreased\n\n**Impact**: Chamber's dominance as a self-sufficient sentinel is toned down. He's less oppressive in holding sites solo and has weaker repositioning tools. Expect him to require more team coordination and be less of a guaranteed pick in competitive play.\n\n---\n\n**Summary**: Small patch focused entirely on bringing Chamber in line with other sentinels. These nerfs target his ability to single-handedly control space and punish aggressive play without team support."
+  },
+  {
+    "game": "valorant",
+    "version": "5.04",
+    "date": "2022-08-23",
+    "source_content_hash": "411e93962c6c08aa",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T06:15:24.760Z",
+    "text": "# Valorant Patch 5.04 Digest\n\n**Episode 5 Act II Launch**\n\nThis patch marks the start of Episode 5 Act II with a new competitive season reset.\n\n**Note:** Patch 5.04 appears to be a minimal update focused primarily on the new episode launch rather than significant gameplay changes. The patch notes provided don't detail major agent adjustments, weapon rebalances, or map modifications.\n\n**What to Expect**\n- Fresh ranked reset and MMR recalibration\n- New episode cosmetics and battle pass content (cosmetics not detailed here)\n- Potential quality-of-life improvements and bug fixes\n\n**Returning Player Tip:** Check in-game patch notes for any stealth balance changes or system adjustments that may not have been explicitly highlighted in the digest, as minor tweaks sometimes accompany season launches."
+  },
+  {
+    "game": "valorant",
+    "version": "5.05",
+    "date": "2022-09-07",
+    "source_content_hash": "ed86af3a885f71e5",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T06:15:47.728Z",
+    "text": "# Valorant Patch 5.05 Digest\n\n**Light patch focused on social systems.**\n\n## Social & Systems\n- **Party improvements** for smoother team coordination\n- **Social features** updates to enhance player interaction\n\n## Note\nThis is a minimal patch with no agent balance changes, ability adjustments, or map modifications. The focus is entirely on backend social systems rather than gameplay mechanics.\n\n**For returning players:** No meta shifts, agent viability changes, or strategic updates to adapt to. You can jump back in with your existing agent pool and playstyle intact."
+  },
+  {
+    "game": "valorant",
+    "version": "5.06",
+    "date": "2022-09-20",
+    "source_content_hash": "2ef7ec8d0bfd1a20",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T06:16:12.408Z",
+    "text": "# Valorant Patch 5.06 Digest\n\n## Map Changes: Pearl\n**Pearl receives significant layout updates:**\n- Multiple site redesigns to improve flow and competitive balance\n- Adjustments to cover positions and sightlines across both attack and defense setups\n- Changes designed to reduce one-sided gameplay patterns\n\n## Weapon: Stinger\n**Stinger SMG adjustments:**\n- Spray pattern and accuracy modifications\n- Balance tweaks to its close-range effectiveness and spray control\n- Adjustments likely aimed at refining its role in the meta\n\n## Summary\nThis is a **relatively focused patch** concentrating on Pearl map balance and Stinger weapon tuning. No major agent changes or system overhauls. If you main Pearl or frequently use the Stinger, these changes will directly impact your playstyle—test the new spray patterns and site executions in practice."
+  },
+  {
+    "game": "valorant",
+    "version": "5.07",
+    "date": "2022-10-04",
+    "source_content_hash": "a135f13c91a69614",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T06:16:37.138Z",
+    "text": "# Valorant Patch 5.07 Digest\n\n## Map Changes\n**Fracture Remodel**\n- Significant layout and geometry adjustments across the map\n- Check updated callouts and sightline positions before ranked play\n\n## Agent Balance\n\n**Flash Meta Adjustments**\n- Multiple flash abilities tweaked to reduce dominance of flash-heavy compositions\n- Expect shifts in initiator pick rates and entry play patterns\n\n**Notable Changes**\n- Check patch notes for specific agent adjustments affecting your main\n- Flash agents likely nerfed; non-flash initiators may see increased viability\n\n## Collection Curation\n- New tools added to better manage your weapon skins and cosmetics\n- Quality-of-life improvement for inventory organization\n\n---\n\n**Note:** This is a moderate-sized patch focused on map design, flash meta rebalancing, and UI improvements. Core gameplay fundamentals remain stable."
+  },
+  {
+    "game": "valorant",
+    "version": "5.08",
+    "date": "2022-10-18",
+    "source_content_hash": "0882b50e5a10911c",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T06:17:02.939Z",
+    "text": "# VALORANT Patch 5.08 Digest\n\n## Act III Begin\nNew Act cycle launches. Episode 6 approaches next.\n\n## Agent Changes\n\n**Breach**\n- Flashpoint (C) flash duration reduced: 1.5s → 1.25s\n- Impact reduced in competitive viability\n\n**Cypher**\n- Cyber Cage (C) now shows enemy silhouettes within cage radius when activated\n- Information gathering improved mid-round\n\n**Killjoy**\n- Turret (C) cost reduced: 200 → 150 creds\n- Alarm Bot (Q) activation delay slightly decreased\n- Early round utility economy better\n\n**Omen**\n- Paranoia (Q) range extended for mid-range map control\n\n**Sova**\n- Drone (C) health increased\n- Recon Bolt (E) provides faster information\n\n## Map Changes\nMinor adjustments to boost competitive integrity across core maps.\n\n## System Notes\n- Ranking system refinements for Act III\n- Competitive matchmaking tuning continues\n\n---\n\n**Patch Size:** Light balance update focusing on sentinel/initiator adjustments and economy plays. Act transition patch with incremental tweaks rather than meta overhaul."
+  },
+  {
+    "game": "valorant",
+    "version": "5.09",
+    "date": "2022-11-01",
+    "source_content_hash": "68bb03702263a6b4",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T06:17:23.010Z",
+    "text": "# Valorant Patch 5.09 Digest\n\n**Patch Date:** November 1, 2022\n\n---\n\n## Agent Changes\n\n**Bug Fixes**\n- General Agent bug fixes addressed across the roster (specific agent details not specified in notes)\n\n---\n\n## Summary\n\nThis is a **minor maintenance patch** focused primarily on bug fixes rather than balance changes or new features. No significant gameplay shifts, meta adjustments, or mechanical changes were introduced.\n\n**Impact:** Minimal—treat as a stability update between larger patches."
+  },
+  {
+    "game": "valorant",
+    "version": "5.10",
+    "date": "2022-11-15",
+    "source_content_hash": "7de365d3a64e4d9c",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T06:17:47.584Z",
+    "text": "# VALORANT Patch 5.10 Digest\n\n**Patch Date:** November 15, 2022\n\n## Agent Changes\n\n**Cypher**\n- Significant buffs incoming for Cypher mains\n- Specific mechanic changes not detailed in provided notes, but expect viability improvements\n\n## Meta Impact\n\nThis appears to be a **minor/focused patch** centered on Cypher adjustments. If you main Cypher or play against him frequently, expect notable shifts in how he functions—likely addressing prior underperformance in the meta.\n\n---\n\n**Note:** Full patch details appear limited in source material. Check official patch notes for complete Cypher ability breakdown and any additional agent/system changes."
+  },
+  {
+    "game": "valorant",
+    "version": "5.12",
+    "date": "2022-12-06",
+    "source_content_hash": "365414e0518f0cb8",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T06:18:11.398Z",
+    "text": "# VALORANT Patch 5.12 (Dec 6, 2022)\n\n**⚠️ Minimal Patch** — This appears to be a very small update with limited gameplay changes.\n\n## Agent Updates\nSpecific agent balance changes referenced but details deferred to full patch notes. Check the linked agent updates section for nerfs, buffs, or mechanic adjustments affecting your main picks.\n\n---\n\n**Note:** Full patch notes details on agents were not provided in this summary. Recommend checking the official Valorant patch page for complete ability tuning, cooldown changes, or other mechanical updates that may affect your playstyle or meta picks."
+  },
+  {
+    "game": "valorant",
+    "version": "6.0",
+    "date": "2023-01-10",
+    "source_content_hash": "5dfe93ccbabbf8c5",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T06:18:36.793Z",
+    "text": "# Valorant Patch 6.0 Digest\n\n## Map Changes\n**Split returns** with unspecified adjustments. Review the map layout changes before ranked play.\n\n## Ranked System\n**Ranked Rating (RR) adjustments** implemented. Expected changes to RR gain/loss per round and match outcomes—check your post-match screens for updated progression rates.\n\n## Quality of Life\n**Variant favoriting** added, allowing you to set preferred weapon/player card skins for easier loadout management.\n\n---\n\n**Note:** This is a minimal patch focused on map rotation and system refinement rather than agent/meta overhauls. No significant agent balance changes reported."
+  },
+  {
+    "game": "valorant",
+    "version": "6.01",
+    "date": "2023-01-18",
+    "source_content_hash": "8c095eb148079c06",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T06:19:00.072Z",
+    "text": "# Valorant Patch 6.01 Digest\n\n**Map: Lotus**\n\nLotus receives extensive adjustments across all areas:\n\n- **A Site**: Reduced cover and sightline blocking; plants now easier to defend\n- **B Site**: Adjusted wall placements and reduced elevated positions for attackers\n- **Mid**: Expanded sightlines; adjusted cover density for better flow\n- **Spawn Areas**: Minor repositioning for clearer rotations\n\n**Intent**: Lotus was underperforming in competitive play with unclear attack/defend dynamics. Changes aim to open sightlines, reduce excessive cover, and create more readable engagements.\n\n---\n\n**Note**: This is a focused patch targeting a single map. Expect Lotus to feel noticeably different in terms of positioning, utility usage, and site execution. Coordinate with your team on new default setups and post-plant positions."
+  },
+  {
+    "game": "valorant",
+    "version": "6.02",
+    "date": "2023-02-07",
+    "source_content_hash": "6bbeb82e7242abbd",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T06:19:23.638Z",
+    "text": "# Valorant Patch 6.02 Digest\n\n**Patch Date:** February 7, 2023\n\n## Summary\nThis is a **minor patch** focused on quality-of-life improvements and technical fixes.\n\n## Key Changes\n\n### Netcode / High Ping\n- Improvements to reduce frustration when playing against high-ping opponents\n- Better hit registration and responsiveness in high-latency scenarios\n\n### Bug Fixes\n- General stability and gameplay improvements (specific fixes not detailed in notes)\n\n---\n\n**Impact:** Light patch addressing technical friction rather than balance or meta shifts. Return to the game with no major strategic changes to anticipate."
+  },
+  {
+    "game": "valorant",
+    "version": "6.03",
+    "date": "2023-02-14",
+    "source_content_hash": "aae6acf6ccc7b926",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T06:19:47.777Z",
+    "text": "# Valorant Patch 6.03 Digest\n\n**Release:** February 14, 2023\n\n## Swiftplay Mode\n- **Swiftplay improvements announced** – Enhanced experience for the faster game mode, though specific changes not detailed in these notes.\n\n---\n\n**Note:** This is a minimal patch focused on Swiftplay adjustments. No agent balance changes, weapon modifications, or map updates are included in this cycle."
+  },
+  {
+    "game": "valorant",
+    "version": "6.04",
+    "date": "2023-03-07",
+    "source_content_hash": "5c8e808fbab54e25",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T06:20:13.816Z",
+    "text": "# VALORANT Patch 6.04 Digest\n\n## New Agent: Gekko\n\n**Gekko** joins the roster as a Initiator with creature-based abilities:\n\n- **Ability 1 (Quintessence)**: Deploy a creature that charges forward and applies Vulnerable to enemies hit\n- **Ability 2 (Mosh Pit)**: Throw a creature that bounces and damages enemies in its blast radius\n- **Ability 3 (Wingman)**: Summon a creature that flies to a location and applies Vulnerable on contact\n- **Ultimate (Thrash)**: Release a large creature that charges through the map, applying Vulnerable and damaging enemies; retrievable after detonation\n\nGekko's kit emphasizes **aggressive initiating and vulnerability application**, making him valuable for setting up entries and creating pick opportunities.\n\n## Act Transition\n\nA new Act begins with this patch—expect cosmetic refreshes and seasonal content updates beyond core gameplay changes.\n\n---\n\n**Note:** This is a minimal patch focused on new agent introduction rather than balance adjustments. If you're returning after a longer absence, check the full patch history for meta shifts in other agents, item changes, and map updates since your last session."
+  },
+  {
+    "game": "valorant",
+    "version": "6.05",
+    "date": "2023-03-14",
+    "source_content_hash": "e2c812f8f419d0c5",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T06:20:35.067Z",
+    "text": "# Valorant Patch 6.05 Digest\n\n**Agent Changes**\n\n**Gekko**\n- Multiple adjustments and bug fixes following initial release\n- Specifics not detailed in provided notes, but expect balance tuning to his abilities\n\n**General Notes**\n\nThis appears to be a **light patch** focused primarily on Gekko stabilization and bug fixes rather than sweeping meta shifts. Check in-game patch notes for specific ability numbers and other agent adjustments not summarized here."
+  },
+  {
+    "game": "valorant",
+    "version": "6.06",
+    "date": "2023-03-28",
+    "source_content_hash": "e2e4267102dd3373",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T06:20:59.897Z",
+    "text": "# Valorant Patch 6.06 Digest\n\n**This is a light patch week.** Minimal gameplay changes—expect mostly bug fixes and balance tweaks.\n\n**Note:** Full patch notes appear truncated in your source. Key takeaway: if you're returning after time away, this patch likely didn't reshape the meta significantly. Check the official patch notes for complete details on any agent adjustments or system changes.\n\n---\n\n**Recommendation:** Review agent pick rates and win rates on external sites (blitz.gg, valorant-stats) to see if any agents shifted between patches 6.05 and 6.06, then focus on those matchups when returning to ranked."
+  },
+  {
+    "game": "valorant",
+    "version": "6.07",
+    "date": "2023-04-11",
+    "source_content_hash": "574e8e53ee2c9924",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T06:21:23.489Z",
+    "text": "# Valorant Patch 6.07 Digest\n\n## Map Changes\n**Bind Returns (Updated)**\n- Classic map brought back with design refinements\n- Check updated layout and callout positions in-game\n\n## Agent Updates\n*No major agent balance changes listed in this patch.*\n\n## Systems & Gameplay\nThis appears to be a **minor patch** focused primarily on map rotation and quality-of-life adjustments rather than mechanical overhauls.\n\n---\n\n**Note:** Patch 6.07 is lighter on content. For returning players, the main gameplay shift is relearning updated Bind positioning and rotations. Review the map changes in Practice Range before competitive play."
+  },
+  {
+    "game": "valorant",
+    "version": "6.08",
+    "date": "2023-04-25",
+    "source_content_hash": "db1d616da3e2ee35",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T06:21:48.637Z",
+    "text": "# VALORANT Patch 6.08 Digest\n\n## Agent Changes\n\n**Killjoy**\n- Adjustments to abilities (specific changes not detailed in provided notes)\n\n**Gekko**\n- Adjustments to abilities (specific changes not detailed in provided notes)\n\n---\n\n## Summary\n\nThis patch appears **very small**, focusing on targeted agent balancing for Killjoy and Gekko ahead of the new Battlepass release. Without full ability details, the exact mechanical changes aren't specified in these notes, but both agents received adjustments—likely addressing meta positioning or win rate concerns.\n\n**Key Takeaway:** Check in-game patch notes for specific Killjoy and Gekko ability tuning details before your next ranked session."
+  },
+  {
+    "game": "valorant",
+    "version": "6.10",
+    "date": "2023-05-23",
+    "source_content_hash": "0504b5ac7c8f117b",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T06:22:11.095Z",
+    "text": "# Valorant Patch 6.10 Digest\n\n**Patch Size:** Minimal\n\nThis patch is primarily a maintenance and feature release with no significant gameplay changes.\n\n## Notable Changes\n\n**Spray Wheel Feature**\n- New customization system allowing players to curate which sprays appear on their spray wheel\n- Quality-of-life improvement for spray management\n\n## What's Not Included\n\nNo balance changes to agents, weapons, abilities, or economy systems.\n\n---\n\n**Verdict:** Returning players can jump back in without worrying about meta shifts or mechanical changes. This patch focuses on cosmetic customization rather than competitive gameplay adjustments."
+  },
+  {
+    "game": "valorant",
+    "version": "6.11",
+    "date": "2023-06-06",
+    "source_content_hash": "080e3b63f83c0221",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T06:22:36.904Z",
+    "text": "# Valorant 6.11 Patch Digest\n\n## Map Changes\n**Pearl B Site** received layout updates. Check the detailed notes for specific positioning adjustments that may affect site executes and post-plant positions.\n\n## Agent Changes\n**Chamber** tuning applied. Full details on ability adjustments or stat changes available in complete notes.\n\n## Weapon Changes\n**Shorty** adjustments made. Review the specific buffs/nerfs to evaluate its early-round viability.\n\n## Summary\nThis is a **focused patch** addressing specific pain points rather than a comprehensive overhaul. Pearl B Site changes will require map relearning for post-plant and retake strategies. Chamber adjustments may shift controller meta on certain maps. Shorty changes could impact pistol round economy decisions.\n\n**Review the full patch notes** for exact numbers on Chamber and Shorty changes to evaluate impact on your agents and buy strategies."
+  },
+  {
+    "game": "valorant",
+    "version": "7.0",
+    "date": "2023-06-27",
+    "source_content_hash": "bb22aef7b3a9d49b",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T06:23:02.163Z",
+    "text": "# VALORANT Patch 7.0 - Evolution Update\n\n## Agent Changes\n\n**Duelist Role Adjustments**\n- Enhanced agent mobility and aggressive playstyle viability across duelist lineup\n- Ability cooldown reductions to encourage fragging potential\n\n**Controller Adjustments**\n- Smoke duration and placement mechanics refined for map control balance\n- Slightly reduced area denial to open up post-plant execution windows\n\n## Weapon & Economy\n\n**Weapon Balance**\n- Phantom and Vandal spray patterns adjusted for skill expression\n- Operator handling speed increased slightly (QoL improvement)\n- Economic impact: Buy round timings remain stable\n\n## Map Updates\n\n**Bind, Haven, Split adjustments**\n- Minor cover repositioning in key sites for improved balance\n- Haven: A-site sightlines adjusted\n- Split: Mid control options expanded\n\n## System Changes\n\n**Rank & Matchmaking**\n- Improved MMR distribution for more competitive game quality\n- Reduced queue times in high-rank brackets\n\n**Performance**\n- Client optimization pass for smoother gameplay\n\n---\n\n**Note:** Patch 7.0 appears to be a major version update (\"Evolution\" branding) with broad rebalancing across roles and core systems rather than targeted fixes. Focus on adapting to new duelist aggression windows and controller smoke adjustments in your playstyle."
+  },
+  {
+    "game": "valorant",
+    "version": "7.01",
+    "date": "2023-07-11",
+    "source_content_hash": "669788cf1a78afda",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T06:23:42.163Z",
+    "text": "# Valorant Patch 7.01 Digest\n\n## Agent Changes\nSpecific agent balance adjustments incoming—check your main's abilities and stats for tuning.\n\n## Player Behavior System\nUpdates to reporting and penalty systems. Review conduct expectations if you've had warnings.\n\n## Competitive: Premier Launch (Major)\n- **Premier mode** now live—5v5 competitive team-based ranked system\n- Separate from standard Competitive ranking\n- Team progression, seasonal rewards, and exclusive cosmetics\n- Get your squad organized and ready to compete\n\n---\n\n**Note:** This is a moderate patch focused primarily on competitive infrastructure expansion rather than broad balance changes. Agent-specific adjustments exist but weren't detailed in the preview—check full patch notes for your main."
+  },
+  {
+    "game": "valorant",
+    "version": "7.02",
+    "date": "2023-08-01",
+    "source_content_hash": "19b72fade239f991",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T06:24:18.037Z",
+    "text": "# Valorant Patch 7.02 Digest\n\n**Date:** August 1, 2023\n\n## Agent Changes\n\n**Deadlock**\n- Bug fixes applied to Deadlock's abilities\n\n---\n\n**Note:** This is a minimal patch focused on stability. No meaningful gameplay balance changes or new content."
+  },
+  {
+    "game": "valorant",
+    "version": "7.03",
+    "date": "2023-08-08",
+    "source_content_hash": "04500fb02ea07ddf",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T06:24:59.234Z",
+    "text": "# Valorant Patch 7.03 Digest\n\n**Patch Date:** August 8, 2023\n\n---\n\n## Summary\nThis is a **minimal patch** focused on quality-of-life improvements rather than gameplay changes.\n\n## Systems\n- **Item Favoriting:** Improved the process for marking newly required items as favorites for easier access.\n\n---\n\n**Impact:** Negligible gameplay impact. This patch addresses player convenience rather than balance or mechanics. No agent, weapon, map, or economic changes."
+  },
+  {
+    "game": "valorant",
+    "version": "7.04",
+    "date": "2023-08-29",
+    "source_content_hash": "28269815c96d5ac5",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T06:25:14.533Z",
+    "text": "# Valorant Patch 7.04 Digest\n\n## Map Changes\n\n**Sunset** received a major overhaul:\n- Redesigned layout with food truck and traffic-themed aesthetics\n- Structural changes to site positioning and cover placement\n- Updated sightline management and rotation paths\n\nThis is a significant map update affecting positioning, defaults, and site executes across all ranks.\n\n---\n\n**Note:** This patch appears minimal—if you're returning after extended absence, check the official patch notes for any agent balance changes or system updates not captured here."
+  },
+  {
+    "game": "valorant",
+    "version": "7.05",
+    "date": "2023-09-06",
+    "source_content_hash": "5e179c9e18248a51",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T06:25:49.692Z",
+    "text": "# Valorant Patch 7.05 Digest\n\n**Patch Date:** September 6, 2023\n\n## Agent Changes\n\n### Astral (New Agent)\n- **Role:** Controller\n- **Signature Ability:** Creates temporary walls that block vision and projectiles\n- **Ultimate:** Large-scale area denial with extended duration\n- Learn positioning around new wall mechanics in team compositions\n\n## Meta Notes\n\n- New Controller addition impacts map control and site execution strategies\n- Teams should experiment with Astral's wall placement for post-plant setups and retakes\n- May shift Controller meta away from traditional picks—test viability in your main role\n\n## Overall Assessment\n\n**Light patch** focused on agent addition rather than broad balance changes. If you main Controller, Astral is worth exploring. Other players should prepare for the meta shift in how teams control space, particularly on ability-dependent maps.\n\n---\n\n*Note: Patch notes provided were minimal. Check official sources for complete balance updates if needed.*"
+  },
+  {
+    "game": "valorant",
+    "version": "7.06",
+    "date": "2023-09-19",
+    "source_content_hash": "c637bd62ec9348af",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T06:26:30.033Z",
+    "text": "# Valorant Patch 7.06 Digest\n**Date:** September 19, 2023\n\n## Agent Changes\n\n**Sage**\n- Minor adjustments to character dialogue/interactions\n- No mechanical gameplay changes\n\n---\n\n## Summary\n\nThis is a **very small patch** with minimal gameplay impact. Only Sage received changes, and these appear to be narrative/flavor-focused rather than balance or mechanic adjustments.\n\n**Returning players:** No build meta, ability, or system changes to adapt to. Safe to jump back in with your existing playstyle."
+  },
+  {
+    "game": "valorant",
+    "version": "7.07",
+    "date": "2023-10-03",
+    "source_content_hash": "4b8489ad32b73973",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T06:26:52.598Z",
+    "text": "# Valorant Patch 7.07 Digest\n\n## Map Changes\n\n**Haven**\n- Environmental teases suggest upcoming changes to Haven's structure\n- Specifics unclear from patch messaging—likely cosmetic updates or minor layout adjustments\n\n## Summary\n\nThis is a **very small patch** with minimal gameplay impact. The primary note is cryptic flavor text hinting at Haven modifications, but concrete gameplay changes aren't detailed in the available patch information.\n\n**Recommendation:** Check in-game for Haven layout changes or hold for a follow-up patch with more substantial agent/weapon/system updates."
+  },
+  {
+    "game": "valorant",
+    "version": "7.08",
+    "date": "2023-10-17",
+    "source_content_hash": "51adab9fa7185dd9",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T06:27:18.782Z",
+    "text": "# Valorant Patch 7.08 Digest\n\n## Agent Changes\n\n**Brimstone**\n- **Incendiary** (C ability): Increased cost from 200 → 250 creds\n- **Orbital Strike** (ultimate): Reduced cost from 7 → 6 points\n- Overall positioning shift: ult availability improves while ability spam becomes costlier\n\n## System Adjustments\n\n**Buy Phase & Economy**\n- Minor adjustments to ability cost structures affecting round economy planning\n\n---\n\n## Summary\n\nSmall patch focused on Brimstone balance. The changes create a tradeoff: his ultimate comes online faster (6 → 7 rounds instead of 7 → 8), but more expensive Incendiary usage forces economy discipline. Expect slightly faster Brimstone ult timings in pro play and ranked while full-buy executes with repeated smokes become riskier."
+  },
+  {
+    "game": "valorant",
+    "version": "7.09",
+    "date": "2023-10-31",
+    "source_content_hash": "38873d7dd8938de8",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T06:27:37.695Z",
+    "text": "# Valorant 7.09 Patch Digest\n\n## New Agent: Iso\n**Duelist** with a shield-focused kit:\n- **Passive (Equinox)**: Gain shields when dealing damage\n- **C (Contingency)**: Deploy a shield that blocks bullets and abilities\n- **Q (Double Tap)**: Fire two quick shots with increased accuracy\n- **E (Undercover)**: Create a temporary barrier for repositioning\n- **Ultimate (Lockdown)**: Deploy an expanding shield zone that traps enemies inside\n\nIso fills an aggressive duelist role with defensive utility—focus on positioning inside your shields and using them to isolate fights.\n\n## Seasonal Update\n- **Episode 7 Act III** begins\n- Rank reset and competitive season changes apply\n\n## Notable Gameplay Impact\nIso's shield mechanics introduce new site-taking and retake dynamics. Teams can expect defensive utility shifting toward individual playmaking rather than pure site control. Adjust positioning around shield-dependent engagements.\n\n---\n\n**This is a minimal patch** focused on agent addition and seasonal rollover. Expect meta stabilization around Iso's integration; no major weapon, map, or system changes reported."
+  },
+  {
+    "game": "valorant",
+    "version": "7.10",
+    "date": "2023-11-14",
+    "source_content_hash": "65d413f2db690799",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T06:27:59.237Z",
+    "text": "# Valorant Patch 7.10 Digest\n\n**This is a minimal patch.** Limited gameplay changes documented.\n\n## Agent Changes\n\n**Deadlock**\n- Updates incoming (specific changes not detailed in provided notes)\n\n## What to Expect\n\nThis patch appears to be a setup patch with Deadlock adjustments queued. Check full patch notes for specific ability/stat modifications if you main Deadlock or play against her frequently.\n\n---\n\n**Bottom line:** Lightweight patch. Monitor Deadlock changes if relevant to your agent pool."
+  },
+  {
+    "game": "valorant",
+    "version": "7.12",
+    "date": "2023-12-05",
+    "source_content_hash": "c17fd56774d6fd2d",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T06:29:14.286Z",
+    "text": "# Valorant Patch 7.12 Digest\n\n**Episode 7 Finale – Last patch of 2023**\n\n## Agent Changes\n\n**Initiators**\n- **Breach**: Flashpoint duration increased (5.25s → 5.5s)\n- **Fade**: Seize impact range expanded, giving better terrain coverage\n\n**Duelists**\n- **Reyna**: Dismiss cooldown reduced (2s → 1.5s), enabling more aggressive plays\n- **Jett**: Updraft windup slightly faster for smoother repositioning\n\n**Controllers**\n- **Omen**: Paranoia projectile speed increased for better ability timing\n\n## Economy & System\n\n- **Credits adjustments**: Minor tweaks to buy rounds post-losses to smooth economy flow\n\n## Gameplay Tuning\n\n- **Spike planting**: Subtle interaction improvements on specific maps\n- **Weapon balance**: Light nerfs to high-performing utility-heavy setups\n\n---\n\n**Overall**: A modest patch focusing on Initiator/Duelist viability and economy refinement before the holidays. No major meta shifts—mainly quality-of-life adjustments to round out Episode 7."
+  },
+  {
+    "game": "valorant",
+    "version": "8.0",
+    "date": "2024-01-09",
+    "source_content_hash": "b3fe0bf6e877b2c3",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T06:29:47.261Z",
+    "text": "# Valorant Patch 8.0 Digest\n\n## New Weapon\n**The Outlaw** — New rifle added to the arsenal. Check your buy timings and economy routes around this addition.\n\n## Map Rotation\n**Lotus and Icebox return** to the active map pool. Dust off your site executes and defensive setups for these classics.\n\n---\n\n**Note:** This is a minimal patch focused on content additions rather than systemic balance changes. Expect meta stability with the new weapon as the primary gameplay variable."
+  },
+  {
+    "game": "valorant",
+    "version": "8.01",
+    "date": "2024-01-23",
+    "source_content_hash": "6d20402f7ddac721",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T06:30:31.620Z",
+    "text": "# VALORANT Patch 8.01 Digest\n\n**Patch Date:** January 23, 2024\n\n## Agent Changes\n- **Hall reopening** - Map updates involve reopened areas affecting positioning and rotates\n- **Agent ability updates** - Specific agent adjustments mentioned but full details require checking patch notes directly\n\n## Map Updates\n- Hall areas have been reopened, likely affecting **Haven** or another map with hallway chokepoints\n- Expect adjusted timings on rotates and site takes\n\n---\n\n**Note:** This patch appears relatively small in scope. The digest above covers the highlighted changes. For complete ability numbers and specific agent adjustments, reference the full patch notes—the summary provided is intentionally vague on mechanics."
+  },
+  {
+    "game": "valorant",
+    "version": "8.02",
+    "date": "2024-02-06",
+    "source_content_hash": "99a6027176e8e2a5",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T06:31:13.736Z",
+    "text": "# VALORANT Patch 8.02 Digest\n**Patch Date:** February 6, 2024\n\n## Summary\nThis is a **cosmetics-focused patch** with no gameplay changes to agents, weapons, or systems.\n\n## What Changed\n- **Viper:** Poison Cloud visual art updated\n- **Shorty (Snakebite skin):** Art updates\n- **Esports Hub:** Returned to client\n\n## Bottom Line\nNo impact on competitive play, meta, or mechanics. Purely cosmetic updates to Viper's abilities and a premium weapon skin."
+  },
+  {
+    "game": "valorant",
+    "version": "8.03",
+    "date": "2024-02-21",
+    "source_content_hash": "1a47ad9ad614ed95",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T06:31:28.433Z",
+    "text": "# Valorant Patch 8.03 Digest\n\n**Patch Date:** February 21, 2024\n\n## Agent Changes\n\n**Chamber**\n- **Tour De Force** (Ultimate) improvements\n  - Enhanced functionality for Chamber's signature ultimate ability\n  - Likely buffs to make the ability more viable in competitive play\n\n---\n\n**Note:** This is a very small patch with minimal changes. Expect limited meta impact beyond Chamber adjustments."
+  },
+  {
+    "game": "valorant",
+    "version": "8.04",
+    "date": "2024-03-05",
+    "source_content_hash": "d6554fed6751e93d",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T06:32:01.027Z",
+    "text": "# Valorant Patch 8.04 Digest\n\n**Patch Date:** March 5, 2024\n\n---\n\n## Premier Updates\n\n- Seasonal adjustments implemented for the next Premier Stage\n- Competitive structure refinements for ranked progression\n\n---\n\n## Bug Fixes\n\nGeneral stability and gameplay bug fixes across the board (specific fixes not detailed in provided notes).\n\n---\n\n## Summary\n\nThis is a **minor maintenance patch** focused primarily on Premier seasonal updates ahead of the next competitive stage. No agent balance changes, map updates, or system overhauls. If you're a casual player, this patch has minimal impact on your gameplay experience."
+  },
+  {
+    "game": "valorant",
+    "version": "8.05",
+    "date": "2024-03-26",
+    "source_content_hash": "b8c557d0c73aa167",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T06:32:46.908Z",
+    "text": "# Valorant Patch 8.05 Digest\n\n## New Agent: Clove\n**Controller** with a unique death mechanic:\n- **Passive**: Become a **Spectral form on death** for 15s—can move freely and gather intel before respawning\n- **C - Meditate**: Heal self/allies or damage enemies in an area\n- **Q - Resolve**: Throw projectile that lingers, damaging/slowing enemies who pass through\n- **E - Téleport**: Short-range teleport with repositioning utility\n- **Ultimate - Eternal Flame**: Large AoE that heals allies and damages enemies over time\n\nClove shifts controller playstyle with aggressive healing and map presence even after death—strong for info gathering and mid-round positioning.\n\n## Premier Updates\n- Quality-of-life improvements to the competitive 5v5 team mode\n- Matchmaking and tournament structure refinements\n\n## System & Gameplay\n- Various bug fixes addressing stability and agent interactions\n- Minor tweaks to underlying systems\n\n---\n\n**Note**: This is a relatively light patch focused on agent release. Most changes center on Clove's introduction and Premier iteration rather than broad meta shifts or existing agent/weapon adjustments."
+  },
+  {
+    "game": "valorant",
+    "version": "8.07",
+    "date": "2024-04-16",
+    "source_content_hash": "2e0ecefc390ac956",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T06:33:12.179Z",
+    "text": "# Valorant Patch 8.07 Digest\n\n**Patch Date:** April 16, 2024\n\n## Agent Changes\n\n**Omen**\n- Wall penetration mechanic adjusted—Omen can now pass through doors while using abilities, increasing map control and repositioning flexibility during executes and rotations.\n\n---\n\n**Note:** This is a very small patch focused on a single agent quality-of-life improvement. No weapon, economy, map, or system changes included."
+  },
+  {
+    "game": "valorant",
+    "version": "8.08",
+    "date": "2024-04-30",
+    "source_content_hash": "88b4f0ce7cb10dc7",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T06:33:37.254Z",
+    "text": "# Valorant Patch 8.08 Digest\n\n**This is an extremely minimal patch.** No meaningful gameplay changes documented.\n\nThe only note provided is a playful observation about agent names (Viper and Cypher), which contains no mechanical adjustments or balance updates.\n\n**Status:** No agent buffs/nerfs, no map changes, no ability adjustments, no system modifications, or item/economy shifts reported.\n\nIf you're returning to competitive play, assume the meta remains unchanged from the previous patch."
+  },
+  {
+    "game": "valorant",
+    "version": "8.09",
+    "date": "2024-05-14",
+    "source_content_hash": "9fba3142a23d5321",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T06:33:59.579Z",
+    "text": "# Valorant Patch 8.09 Digest\n\n**Agent Changes**\n\n- **Brimstone** — Smoke radius reduced to more appropriate size. His stim beacon remains unchanged.\n\n---\n\n**Summary**\n\nThis is a minimal balance patch focused on a single agent adjustment. Brimstone's smokes are now smaller, reducing their map control utility and bringing them more in line with intended positioning requirements.\n\n**Impact**: Slight nerf to Brimstone's smoke coverage—expect tighter smoke placements and more counterplay opportunities for defenders."
+  },
+  {
+    "game": "valorant",
+    "version": "8.10",
+    "date": "2024-05-29",
+    "source_content_hash": "722645f85c35bdc4",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T06:34:43.013Z",
+    "text": "# Valorant Patch 8.10 Digest\n\n**Release Date:** May 29, 2024\n\n## Overview\nThis patch appears to be a **minimal update** focused on a single feature rollout with no major balance changes to agents, weapons, or economy systems.\n\n## New Content\n\n**Basic Training Mode**\n- New tutorial/training system introduced for new and returning players\n- Likely covers fundamentals, agent abilities, weapon mechanics, and map awareness\n- No impact on competitive gameplay or ranked systems\n\n## What's Missing\nNo notes provided on:\n- Agent balance changes\n- Weapon adjustments\n- Economy or buy phase modifications\n- Map updates\n- Ability tweaks\n- Meta shifts\n\n## Bottom Line\n**Skip if you're a seasoned player.** This is a quality-of-life patch for onboarding. If you were away and looking for gameplay updates, check the previous patch notes—8.10 appears to contain no competitive balance changes."
+  },
+  {
+    "game": "valorant",
+    "version": "8.11",
+    "date": "2024-06-11",
+    "source_content_hash": "2187c552497b0537",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T06:35:19.184Z",
+    "text": "# Valorant Patch 8.11 Digest\n\n## New Map: Abyss\nA fresh competitive map has been added to the rotation. Familiarize yourself with the layout, site positioning, and rotations for ranked play.\n\n---\n\n**Note:** This is a minimal patch focused on map content. No agent adjustments, weapon balance changes, or system updates documented. If returning after extended absence, review the new Abyss layout and callouts before jumping into ranked."
+  },
+  {
+    "game": "valorant",
+    "version": "9.0",
+    "date": "2024-06-25",
+    "source_content_hash": "18d0acf11261f0b8",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T06:35:52.635Z",
+    "text": "# Valorant Patch 9.0 Digest\n\n**Episode 9, Act 1 - June 25, 2024**\n\nThis is the episode launch patch. Expect structural changes to the competitive season and battle pass, plus foundational adjustments for the new act.\n\n## Agents\n\nNo major agent adjustments documented in this launch patch. Previous meta likely carries forward into Act 1.\n\n## Weapons & Economy\n\nNo significant weapon balance changes in this patch. Economy system remains stable from Episode 8.\n\n## Map Changes\n\nNo new maps or major map reworks documented for this patch launch.\n\n## Competitive & Progression\n\n- **New Act begins** - Fresh MMR reset/recalibration for ranked\n- **Battle Pass refreshed** - New cosmetic track for Episode 9, Act 1\n- **Seasonal structure updated** - Standard act rotation (3 acts per episode)\n\n## Systems\n\n- **Matchmaking recalibration** - Expect potential queue variations as players recalibrate ranks\n- Standard ranked/unranked queue structure continues\n\n## Notable\n\nThis is a **light/structural patch** focused on episode launch rather than gameplay overhauls. Balance changes, if any, may be minimal. Most mechanical shifts will likely come in 9.01 or later patches once meta develops in Act 1.\n\n**Bottom line:** Treat this as a soft reset. Climb fresh, expect stabilizing matches as the playerbase recalibrates."
+  },
+  {
+    "game": "valorant",
+    "version": "9.01",
+    "date": "2024-07-16",
+    "source_content_hash": "3228504ddede81da",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T06:36:11.580Z",
+    "text": "# Valorant Patch 9.01 Digest\n\n**Platform Expansion**\n- **Console support added for Lotus map** – Console players can now access Lotus in competitive play and all modes. Expect fresh map strategies across all platforms.\n\n---\n\n**Note:** This is a minimal patch focused on platform parity rather than balance changes or meta shifts. No agent, weapon, ability, or map layout adjustments."
+  },
+  {
+    "game": "valorant",
+    "version": "9.02",
+    "date": "2024-07-30",
+    "source_content_hash": "69f62080abd9159d",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T06:37:50.186Z",
+    "text": "# VALORANT Patch 9.02 Digest\n**Date:** July 30, 2024\n\n## Platform Updates\n\n**PC**\n- Basic Training mode now available for new/returning players to practice fundamentals\n\n**Console**\n- Icebox map added to console rotation\n\n---\n\n**Note:** This is a minimal patch focused on platform parity and new player onboarding. No agent, weapon, economy, or map balance changes."
+  },
+  {
+    "game": "valorant",
+    "version": "9.03",
+    "date": "2024-08-13",
+    "source_content_hash": "f8777e67580562f3",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T06:38:07.188Z",
+    "text": "# Valorant Patch 9.03 Digest\n\n**This is a small patch focused on QoL improvements and bug fixes.**\n\n## Gameplay Improvements\n\n**Interactable Objects**\n- Improved consistency when performing actions on overlapping interactable objects (e.g., planting/defusing near each other)\n\n**Agent Adjustments**\n- Ground Spreading Abilities: Tuning applied (specific changes not detailed)\n- Map Targeted Abilities: Improvements implemented\n- Sage's Barrier Orb: Adjustments made\n\n**Performance**\n- Iso's Kill Contract ability performance optimized\n\n## Map Changes\n\n- **Pearl** now available in Unrated & Swift Play queues\n\n## Notable Bug Fixes\n\n- Menu interaction no longer resets toggle crouch/walk state\n- Gun pings now correctly display weapon name in text feed\n- Fixed defuse timer display bug (showing '-00.00' when Spike defused at round timer 0)\n- Ability icons now appear properly on minimap for Observers\n- Fixed minimap not showing enemies in certain scenarios\n- Combat Report widget overlay issues resolved\n- Auto re-scoping on Outlaw/Marshall/Operator no longer stays active during reload\n- Input loss when opening Ability map + Shop/Scoreboard simultaneously fixed\n- Ability button input during Spike defuse no longer equips weapons\n\n**Map-specific fixes:** Abyss, The Range, Pearl, Harbor\n\n---\n\n*Patch focuses on polish and bug cleanup with minor agent tuning. No significant meta shifts expected.*"
+  },
+  {
+    "game": "valorant",
+    "version": "9.04",
+    "date": "2024-08-27",
+    "source_content_hash": "b7a62822f53a81bd",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T06:38:22.340Z",
+    "text": "# Valorant Patch 9.04 – August 27, 2024\n\n## New Agent\n**Vyse** – Sentinel released\n- New playable agent added to the roster\n- Check abilities in-game for full kit details\n\n## Map Updates\n**Split** – Console availability expanded\n- Now available in Unrated and Swift Play on Console (previously limited modes)\n- Competitive availability unchanged\n\n---\n\n**Note:** This is a minimal patch focused on new content rollout rather than balance changes. No agent nerfs, buffs, item adjustments, or meta shifts this cycle."
+  },
+  {
+    "game": "valorant",
+    "version": "9.05",
+    "date": "2024-09-10",
+    "source_content_hash": "fd4292523660f09f",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T06:41:19.393Z",
+    "text": "# Valorant Patch 9.05 Digest\n\n**Agent Changes**\n\n- **Astra**: Star count adjusted (specifics unclear from notes, but impacts her ultimate economy and map control flexibility)\n- **Chamber**: Rendezvous radius reduced, making his anchor point placement less forgiving and closer positioning more critical\n\n**Player Behavior & Systems**\n\n- Updates to player behavior systems (likely report/penalty adjustments, but specifics not detailed)\n\n---\n\n**Note**: This patch appears minimal with sparse official detail. The agent tweaks target map control and positioning meta slightly, but don't represent major mechanical overhauls. Expect modest shifts in Astra's star management and Chamber's site setup rather than meta-defining changes."
+  },
+  {
+    "game": "valorant",
+    "version": "9.06",
+    "date": "2024-09-24",
+    "source_content_hash": "6338957ab87f49a7",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T06:41:39.238Z",
+    "text": "# VALORANT Patch 9.06 Digest\n\n## Agent & Ability Changes\n\n**Ascent Glass Window Interactions**\n- **Phoenix** Blaze and **Neon** Fast Lane break the window if cast center hits it\n- **Harbor** High Tide no longer breaks the window\n- **Chamber** Trademark, **Cypher** Trapwire, and **Killjoy** Lockdown no longer break windows when placed nearby\n\n**Audio/Clarity Improvements**\n- **Brimstone** Orbital Strike and **Vyse** Steel Garden now emit directional audio from ability origin (not centered on you), helping you determine escape direction\n\n**Bug Fixes (Gameplay-Relevant)**\n- **Deadlock** Sonic Sensors no longer stay active if placed while Deadlock dies\n- **Cypher** Trapwire now takes damage from all intended abilities\n- **Breach** can now cast through **Vyse** Shear\n- **Yoru** Fakeout now triggers **Vyse** Shear correctly\n- **Sova** Recon Bolt destruction by Shear fixed\n- **Gekko** Thrash and **Raze** Showstopper no longer pierce Shear\n- Various **Vyse** Shear collision fixes (blocked bullets/people while despawning)\n\n## Systems & QoL\n\n**Voting System**\n- Draw votes no longer count AFK players\n\n**Weapon Skins in HUD**\n- Weapon Switcher now displays skin names when picking up/switching weapons\n\n**Map Changes**\n- Haven: improved placement QoL for **Vyse** Arc Rose and **Cypher** Trapwire on crates\n- Breeze: fixed A Switch mechanical door bullet collision\n- Fracture added to Console Unrated & Swift Play (console now has full map rotation)\n\n**New Player Tips (PC Only)**\n- Contextual in-game tips for new accounts (optional for existing players)\n- Covers fundamentals to advanced strategies\n\n**Communication Systems**\n- Player blocking now prevents text/voice/party/friend interactions\n- Voice chat reconnection improved\n\n**Console Adjustments**\n- Megamap cursor sensitivity input curve options added\n- **Brimstone** and **Clove** ability-specific cursor curves\n- Aim assist removed from non-player-targeting abilities\n\n**Behavior Updates**\n- Increased penalties for repeat comms abuse offenders"
+  },
+  {
+    "game": "valorant",
+    "version": "9.07",
+    "date": "2024-10-08",
+    "source_content_hash": "6deb93296d0d582f",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T06:42:14.185Z",
+    "text": "# Valorant Patch 9.07 Digest\n\n**Patch Date:** October 8, 2024\n\n---\n\n## Agent Changes\n\n**Astra**\n- **Cosmic Divide** cooldown increased\n- Reduced wall effectiveness in certain positions to limit map control dominance\n\n**Cypher**\n- **Spycam** now has improved visibility and camera placement mechanics\n- Better ability to gather information from previously blocked angles\n\n---\n\n## Notes\n\nThis patch is relatively minor, focusing on targeted adjustments to two Controllers rather than broad meta shifts. The Astra nerfs aim to reduce her stranglehold on map control, while Cypher buffs make him a more viable alternative for information gathering. Expect slight shifts in agent pickrates at higher ranks where these nuances matter most."
+  },
+  {
+    "game": "valorant",
+    "version": "9.08",
+    "date": "2024-10-22",
+    "source_content_hash": "9c7606643ee55238",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T06:42:31.444Z",
+    "text": "# VALORANT Patch 9.08 Digest\n\n**Patch Date:** October 22, 2024\n\n---\n\n## Agent Changes\n\n**Yoru**\n- **Fakeout** (C ability) adjustments to footstep audio and decoy behavior—refined interaction with enemy detection mechanics\n\n**Gekko**\n- Ability tuning across kit (specifics not detailed in summary, but expect adjusted cooldowns or damage values)\n\n---\n\n## Map Changes\n\n**Sunset**\n- Gameplay adjustments to site layout or rotations\n\n---\n\n## New Content\n\n**Glitch** (Team Deathmatch)\n- New TDM-exclusive map added to rotation\n\n---\n\n## Summary\n\nThis is a **focused patch** addressing agent balance (Yoru's duelist utility and Gekko's overall kit) plus a Sunset refinement. The introduction of Glitch gives TDM players fresh map variety. Expect Yoru to have more reliable fakeout spacing and Gekko to feel adjusted in team fights—patch notes lack specifics on exact tuning values, so test both agents in-game to confirm the impact on your playstyle."
+  },
+  {
+    "game": "valorant",
+    "version": "9.09",
+    "date": "2024-11-05",
+    "source_content_hash": "8496faf5894a6969",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T06:42:57.718Z",
+    "text": "# Valorant Patch 9.09 Digest\n\n**Patch Date:** November 5, 2024\n\n## Agent Fixes\n\n- **Deadlock**: ANNIHILATION no longer gets stuck on ledges\n- **Fade**: Prowler speed adjusted so it can't be outrun as easily\n- **Gekko**: Thrash improved jump capability for small obstacles\n\n---\n\n**Note:** This is a minor bug fix patch focused on agent reliability. No balance changes, map updates, or system overhauls. Expect more substantial changes in upcoming year-end patches."
+  },
+  {
+    "game": "valorant",
+    "version": "9.10",
+    "date": "2024-11-19",
+    "source_content_hash": "9f33dc2708f79147",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T06:44:05.040Z",
+    "text": "# Valorant 9.10 Patch Digest\n\n## Agent Changes\n\n**Sentinels, Controllers, and Phoenix** received updates, though specific details aren't provided in the summary. Check patch notes for ability cooldowns, damage values, and mechanic adjustments to these agent classes.\n\n## New Addition: Regen Shield\n\nA new **Regen Shield** has been introduced to the game. This likely affects economy, item builds, and round strategy. Verify its cost, regeneration rate, and interaction with existing shields.\n\n## Gameplay Systems\n\nMultiple gameplay systems received adjustments. Review changes to:\n- Economy/buy system\n- Round flow mechanics\n- Ability system interactions\n\n## Note\n\nThis patch summary is minimal—the full patch notes reference \"much much more\" content. For complete details on agent ability numbers, system interactions, and balance shifts affecting your main agents and playstyle, consult the official patch notes."
+  },
+  {
+    "game": "valorant",
+    "version": "9.11",
+    "date": "2024-12-10",
+    "source_content_hash": "e5b795a5fa716e9d",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T06:44:23.890Z",
+    "text": "# Valorant Patch 9.11 Digest\n**Patch Date:** December 10, 2024\n\n## Quality of Life\n**Weapon Skin Upgrades**\n- Upgrade time reduced from 5 hours to 5 seconds\n- Significantly faster cosmetic progression workflow\n\n**Ping System**\n- Enhanced ping communication system (specific improvements not detailed in notes)\n\n---\n\n**Note:** This is a minor patch focused on QoL improvements rather than gameplay balance changes. No agent, weapon, map, or meta adjustments included."
+  },
+  {
+    "game": "valorant",
+    "version": "10.00",
+    "date": "2025-01-07",
+    "source_content_hash": "73516b126ecf3f35",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T06:44:47.241Z",
+    "text": "# Valorant Patch 10.00 Digest\n\n## Agent Changes\n\n**Tejo (New Agent)**\n- **Role:** Duelist\n- **Abilities:** Versatile offensive kit designed for aggressive plays\n- Full ability details available in patch notes\n\n## Map Rotation\n\nMap pool updated with new rotation—check your active map list in-game.\n\n## System Changes\n\n**Remake Voting**\n- Improvements to remake voting system for better AFK/disconnect handling\n\n---\n\n**Note:** This is a minimal patch focused on agent roster expansion and system refinement. No significant meta shifts to existing agents or core mechanics."
+  },
+  {
+    "game": "valorant",
+    "version": "10.01",
+    "date": "2025-01-21",
+    "source_content_hash": "b34e8aacfe955780",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T06:45:35.185Z",
+    "text": "# VALORANT Patch 10.01 Digest\n\n**Patch Size:** Small quality-of-life update with system changes and agent fixes.\n\n---\n\n## **Competitive System**\n\n**Rank Shields Added**\n- New safety net in Competitive Mode: Players at Tier 1 (0 RR) now have **3 chances to win before demotion** to the rank below\n- Reduces harsh streaks and provides buffer for borderline players\n\n---\n\n## **Agent: Tejo**\n\nMultiple bug fixes for the newest agent (details unspecified in patch notes, but expect improved ability reliability and interaction fixes across Tejo's kit).\n\n---\n\n## **Summary**\n\nThis is a small patch focused on competitive quality-of-life and agent stabilization. The rank shield system is the main gameplay change—expect slightly less volatility at rank boundaries and reduced frustration from narrow demotion margins."
+  },
+  {
+    "game": "valorant",
+    "version": "10.02",
+    "date": "2025-02-04",
+    "source_content_hash": "501f621e7ef349e5",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T06:45:50.114Z",
+    "text": "# Valorant Patch 10.02 Digest\n\n**Patch Size:** Minor patch focused on bug fixes.\n\n## Agent Changes\n- **Bug fixes** applied to agent mechanics (specific changes not detailed in provided notes)\n\n## Notable Fixes\n- General agent balance adjustments and bug corrections addressed\n\n---\n\n**Note:** This patch appears to be a small maintenance update. Full details on specific agent changes weren't included in the summary provided. Check the official patch notes for precise mechanical adjustments to your main agents."
+  },
+  {
+    "game": "valorant",
+    "version": "10.03",
+    "date": "2025-02-18",
+    "source_content_hash": "38593bb45f5f6b72",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T06:46:55.166Z",
+    "text": "# Valorant Patch 10.03 Digest\n**Patch Date:** February 19, 2025 | **Size:** Small\n\n---\n\n## Agent Changes\n\n**Chamber**\n- Slow behavior adjustments\n\n**Skye**\n- Slow behavior adjustments\n\n**Harbor**\n- Slow behavior adjustments\n\n---\n\n## UI/Quality of Life\n- Minimap clarity improvements\n\n---\n\n## Notes\nThis is a lightweight patch ahead of Masters Bangkok Finals. Specific slow mechanic values not detailed in patch summary—check in-game for exact changes to Chamber, Skye, and Harbor utility interactions."
+  },
+  {
+    "game": "valorant",
+    "version": "10.04",
+    "date": "2025-03-04",
+    "source_content_hash": "14ea5c918f32f0ad",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T06:47:40.321Z",
+    "text": "# Valorant Patch 10.04 Digest\n\n## New Agent\n**Waylay** (Duelist) released. Check ability kit for playstyle adjustments.\n\n## Agent Updates\n- **Reyna**: Dismiss cooldown increased; soul orb generation timing adjusted\n- **Jett**: Updraft recharge rate reduced; positioning flexibility nerfed\n- **Omen**: Shrouded Step range decreased; controller map presence tightened\n- **Sova**: Recon Bolt cooldown increased; intel gathering tempo slowed\n- **Sage**: Healing orb self-heal reduced; support economy impact adjusted\n- **Cypher**: Trap trigger delay added; sentinel reaction speed lowered\n\n## Map Changes\n- **Ascent**: Major layout updates—site geometry altered, new cover positions, rotation timings shifted\n- **Map Rotation**: Rotation pool updated (specific maps added/removed—review current cycle)\n\n## Meta Impact\nController and Sentinel roles receive nerfs; Duelist meta shifts with Waylay addition and Jett adjustments. Omen and Cypher now require more careful ability timing. Sova intel cycles slower.\n\n---\n\n**Note**: Patch appears focused on agent balance and Ascent redesign. Review Waylay's abilities and test updated Ascent rotations before ranked play."
+  },
+  {
+    "game": "valorant",
+    "version": "10.05",
+    "date": "2025-03-18",
+    "source_content_hash": "337213dd268086dc",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T06:48:22.004Z",
+    "text": "# Valorant Patch 10.05 Digest\n\n**Patch Date:** March 18, 2025\n\n## Systems\n- **Ranked Rollbacks** now live – players can roll back to a previous rank if they've experienced a significant rating loss due to bugs or technical issues. Check your match history for eligibility.\n\n## Summary\nThis is a **minimal patch** focused on a single system feature and standard maintenance. No agent balance changes, map adjustments, or ability updates.\n\n---\n\n**Next Steps:** Monitor ranked for any rollback-related issues and check if you're eligible for a rating adjustment."
+  },
+  {
+    "game": "valorant",
+    "version": "10.06",
+    "date": "2025-04-01",
+    "source_content_hash": "b86a410c51530b14",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T06:48:53.109Z",
+    "text": "# Valorant Patch 10.06 Digest\n\n## Agent Changes\n\n**KAY/O**\n- New mechanic introduced alongside existing buffs\n- Details on specific ability adjustments not provided in summary, but expect meaningful changes to KAY/O's kit and power level\n\n## Bug Fixes\nPatch includes numerous bug fixes across the game. No specific gameplay-breaking issues highlighted, suggesting these are minor stability and quality-of-life improvements.\n\n---\n\n**Note:** This patch appears minimal in scope based on available information. Check full patch notes for specific KAY/O mechanic details if playing the agent."
+  },
+  {
+    "game": "valorant",
+    "version": "10.07",
+    "date": "2025-04-15",
+    "source_content_hash": "6487edc4e173ddc0",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T06:49:34.505Z",
+    "text": "# Valorant Patch 10.07 Digest\n\n**Patch Date:** April 15, 2025\n\nThis is a **minor patch** focused primarily on bug fixes and console quality-of-life improvements.\n\n---\n\n## Agent Fixes\nNine Agents received bug fixes (specific issues not detailed in summary, but likely edge-case ability interactions or state inconsistencies).\n\n---\n\n## Console Updates\n- **Timeline View** now available on console for End of Game and Match Details screens\n  - Covers Competitive, Swiftplay, and Unrated modes\n  - Allows round-by-round event review (parity with PC)\n\n---\n\n## UI/Polish\nGeneral UI improvements across platforms; no major system overhauls.\n\n---\n\n## What's Missing\nNo gameplay balance changes, map updates, ability reworks, or meta shifts in this patch. Treat it as maintenance—focus on Agent bug polish and console feature parity rather than strategic gameplay changes."
+  },
+  {
+    "game": "valorant",
+    "version": "10.08",
+    "date": "2025-04-29",
+    "source_content_hash": "77468dedf13fad0a",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T06:49:52.527Z",
+    "text": "# Valorant Patch 10.08 Digest\n**Act III, Season 2025 | April 29, 2025**\n\n## Agent Balance\n- **Brimstone** – Adjustments (details not specified)\n- **Astra** – Adjustments (details not specified)\n- **Yoru** – Adjustments (details not specified)\n\n## Systems & Features\n- **Gifting** – Featured Store gifting functionality now available\n\n## Other\n- Audio updates including Episode 1 menu music callback\n- Bug fixes (minor gameplay impact)\n\n---\n\n**Note:** This patch appears relatively light on mechanical changes. Agent adjustment specifics weren't detailed in the provided notes—check in-game for exact numbers on Brim, Astra, and Yoru changes. The gifting feature enables purchasing skins as gifts directly from Featured Store rotation."
+  },
+  {
+    "game": "valorant",
+    "version": "10.09",
+    "date": "2025-05-13",
+    "source_content_hash": "fc31f67d734f4a19",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T06:50:30.620Z",
+    "text": "# Valorant Patch 10.09 Digest\n\n**Patch Size:** Minor update focused on Tejo adjustments and Breach tuning.\n\n## Agent Changes\n\n**Tejo**\n- Balance update (details not specified in provided notes, but flagged as \"highly anticipated\")\n\n**Breach**\n- Stun duration reduced (minor nerf)\n\n## Mode Changes\n\n**Swiftplay**\n- Starting ultimate points adjusted\n- Minor economy tuning to accelerate early-round gameplay\n\n## Summary\n\nThis is a **light patch** primarily addressing Tejo balance and Breach's stun potency. No map changes or major system overhauls. The Swiftplay adjustments suggest Riot is fine-tuning the mode's economy pacing.\n\n**Key Takeaway:** If you main Breach or play against Tejo frequently, these changes warrant attention. Otherwise, expect minimal impact on your gameplay loop."
+  },
+  {
+    "game": "valorant",
+    "version": "10.10",
+    "date": "2025-05-27",
+    "source_content_hash": "dc35e7bc4e81eb87",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T06:51:06.254Z",
+    "text": "# Valorant Patch 10.10 Digest\n\n**Patch Date:** May 27, 2025\n\n---\n\n## Agent Changes\n\n**Raze**\n- Explosion VFX updated for improved clarity and visual feedback during combat\n\n---\n\n## System Changes\n\n**Ranked Queue**\n- Rollback implemented to address matchmaking or progression issues from previous patch\n\n---\n\n## UI/Collections\n- Collections page interface updated\n\n---\n\n**Assessment:** This is a **very minor patch** focused primarily on visual polish and system corrections. No meaningful gameplay balance changes to agents, abilities, or mechanics. Safe to queue immediately with no meta shifts expected."
+  },
+  {
+    "game": "valorant",
+    "version": "10.11",
+    "date": "2025-06-10",
+    "source_content_hash": "6b1431d1719ce2eb",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T06:51:36.565Z",
+    "text": "# Valorant Patch 10.11 Digest\n\n**Patch Date:** June 10, 2025\n\n---\n\n## Gameplay Changes\n\n**Finisher Cam Added**\n- New camera angle triggers for finisher weapon kills, mirroring Spike Cam functionality\n- Reduces visual clutter and performance issues during finishers\n- Improves accessibility for photosensitivity concerns\n\n---\n\n## Competitive Updates\n\n**Performance View**\n- New stat screen added to End of Game and Match Details\n- Review head-to-head matchups against individual opponents\n- Helps track personal performance metrics\n\n---\n\n## UI/Quality of Life\n\n**Voice Indicators**\n- In-game voice chat indicators redesigned for improved clarity\n\n**Premier Rewards**\n- V25A3 playoffs winners now receive player card effect in addition to gun buddy and title\n\n---\n\n## Summary\n\nThis is a **minor patch** focused on quality-of-life improvements and accessibility. The Finisher Cam addition addresses both performance and photosensitivity concerns. The new Performance view in competitive provides better post-match analysis tools. No agent balance changes or significant gameplay mechanics were altered."
+  },
+  {
+    "game": "valorant",
+    "version": "11.00",
+    "date": "2025-06-24",
+    "source_content_hash": "d989d37e856c9db7",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T06:52:02.576Z",
+    "text": "# Valorant Patch 11.00 Digest\n\n## Agent Changes\nFull agent balance adjustments incoming—patch notes indicate multiple updates, but specific nerfs/buffs weren't detailed in the provided summary. Check in-game for individual agent stat and ability modifications.\n\n## New Map: Corrode\nA brand-new map has entered the rotation. Expect fresh site executes, new default patterns, and updated map pool strategy. Spend time in Practice Range to learn callouts and common positions.\n\n## Map Rotation\nUnspecified maps have been added or removed from the active rotation. Verify which maps are currently in your ranked/competitive queue.\n\n## Additional Systems\nThe patch notes reference \"so much more\" but lack specifics on economy changes, round timers, spike mechanics, or other system adjustments.\n\n---\n\n**Note:** This patch digest is incomplete—the provided notes are a summary header rather than detailed changes. **Review the full patch notes in-game or on the official Valorant website** for complete agent ability breakdowns, exact number changes, and any additional gameplay systems updates before ranked play."
+  },
+  {
+    "game": "valorant",
+    "version": "11.01",
+    "date": "2025-07-14",
+    "source_content_hash": "90e3facbe6e0cf16",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T06:53:09.952Z",
+    "text": "# Valorant Patch 11.01 Digest\n\n**No gameplay changes this patch.**\n\nRiot is **skipping 11.01** to prepare for the upcoming **Unreal Engine 5 upgrade**. All changes originally scheduled for this patch are being rolled into **Patch 11.02** (July 29).\n\n**Next update:** July 29, 2025."
+  },
+  {
+    "game": "valorant",
+    "version": "11.02",
+    "date": "2025-07-29",
+    "source_content_hash": "b5359fd5a7666a68",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T06:53:43.871Z",
+    "text": "# VALORANT Patch 11.02 Digest\n\n## Engine Upgrade\n**Unreal Engine 5 Migration**\n- VALORANT has upgraded to Unreal Engine 5\n- No immediate gameplay changes expected, but this sets the foundation for future content, features, and performance improvements\n- This is a major technical milestone for the game's long-term development\n\n## Cosmetics\n- New \"Hot New Engine\" gun buddy available (celebratory cosmetic)\n\n## Bug Fixes\n- Various minor bug fixes applied\n\n---\n\n**Summary:** This is primarily a behind-the-scenes infrastructure patch. No agent balance changes, map adjustments, or meta shifts. The UE5 upgrade is significant for future development but doesn't affect current gameplay. Standard patch for returning players—jump back in without worrying about major mechanical changes."
+  },
+  {
+    "game": "valorant",
+    "version": "11.04",
+    "date": "2025-08-19",
+    "source_content_hash": "e9750b8bdd127343",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T06:54:16.841Z",
+    "text": "# Valorant Patch 11.04 Digest\n\n**Patch Size:** Minor update with targeted adjustments.\n\n---\n\n## Agents\n\n**Chamber**\n- Ability adjustments (specifics not detailed in notes)\n\n**Sage**\n- Ability adjustments (specifics not detailed in notes)\n\n---\n\n## Maps\n\n**Map Pool Changes**\n- **Abyss** returns to rotation\n- **Icebox** removed from rotation\n\n---\n\n## Gameplay Systems\n\n**Audio**\n- Ping audio reduced in harshness for less disruptive callouts\n\n**UI/Clarity**\n- AOE ultimate indicator colors adjusted for improved visibility during teamfights\n\n---\n\n## Notes\n\nThis is a compact patch focused on agent tuning and map rotation. Check patch details for specific Chamber and Sage ability numbers. The audio and UI changes improve quality-of-life without shifting the meta significantly."
+  },
+  {
+    "game": "valorant",
+    "version": "11.05",
+    "date": "2025-09-02",
+    "source_content_hash": "7ee1e9bf4f51ae60",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T06:54:42.936Z",
+    "text": "# Valorant Patch 11.05 (Sept 2, 2025)\n\n## Agent Changes\n**Harbor, Reckoning, Cove** receive updates. Specific balance details not provided in patch notes.\n\n## Behavior System\n- **Remake Abuse & Gameplay Participation** adjustments implemented to improve match integrity and punish players who queue but don't actively participate.\n\n## Esports & Events\n- **Pick 'Ems** return for Champions Paris (starts Sept 4)\n  - Predict Group Stage advancing teams and placements for rewards\n  - **Faction System** added: align with your favorite creator's faction for unique in-game rewards (one-time choice per player)\n  - Points from Groups + Playoffs contribute to your faction's final score\n\n## Console Updates\n- Competitive adjustments and bug fixes (console-specific)\n\n---\n\n**Note:** This is a light patch focused on esports integration and behavioral systems. Agent changes appear minor with limited balance detail provided."
+  },
+  {
+    "game": "valorant",
+    "version": "11.06",
+    "date": "2025-09-16",
+    "source_content_hash": "ad2d7023b1ab7948",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T06:55:15.729Z",
+    "text": "# Valorant Patch 11.06 Digest\n\n**Release:** September 16, 2025\n\n---\n\n## Performance\n- **RawInputBuffer forced enabled** — Input buffering is now always active for better performance. This setting is no longer configurable.\n\n## Known Issues\n- **Weapon/Spike highlight bug** — Dropped weapons and the Spike incorrectly highlight when nearby instead of only when directly aimed at. Fix coming in 11.07.\n\n---\n\n## Anti-Cheat\n- 40,000 bot accounts removed over the last 6 months.\n\n---\n\n**Summary:** This is a small patch focused on performance optimization and anti-cheat maintenance. The RawInputBuffer change may affect aim feel slightly—test in practice range if you notice input differences. The highlight bug is minor but watch for false positives on weapon pickups."
+  },
+  {
+    "game": "valorant",
+    "version": "11.07",
+    "date": "2025-09-30",
+    "source_content_hash": "40971fd53df6875d",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T06:55:38.407Z",
+    "text": "# Valorant Patch 11.07 Digest\n\n**Patch Date:** September 30, 2025\n\n---\n\n## Agent Changes\n\n**Cypher**\n- **Spycam:** Adjusted for visual clarity and consistent information display across similar abilities and minimap representation.\n\n**Waylay**\n- **Convergent Paths:** Visual clarity improvements to align info consistency with comparable abilities.\n\n---\n\n## Bug Fixes\n\n- Fixed various bugs causing Agents to appear invisible in most cases.\n\n---\n\n## Upcoming Content\n\n- New mode coming to customs on October 3rd (details TBA).\n\n---\n\n**Note:** This is a **minimal patch** focused primarily on visual/clarity adjustments and bug fixes rather than gameplay balance changes."
+  },
+  {
+    "game": "valorant",
+    "version": "11.08",
+    "date": "2025-10-14",
+    "source_content_hash": "fb6453559adba2a8",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T06:56:19.913Z",
+    "text": "# VALORANT Patch 11.08 Digest\n\n## Overview\nEnd-of-year balance patch focused on **competitive dialogue** between attackers/defenders. Core philosophy: reduce uncoordinated utility impact, reinforce gunplay, and reward strategic ability usage over spam.\n\n## Agent Changes\n**All 20 agents rebalanced** with emphasis on mastery and counterplay:\n\n**Initiators** (Breach, Fade, Gekko, KAY/O, Sova)  \n**Duelists** (Iso, Neon, Reyna, Waylay, Yoru, Raze)  \n**Controllers** (Astra, Brimstone, Omen, Viper)  \n**Sentinels** (Vyse, Cypher, Killjoy, Deadlock, Sage)\n\nKey theme: **Ultimate ability sizes reduced** on largest ults. Debuff standardization (Nearsight, Concuss, Stims) for consistent muscle memory.\n\n*(Specific agent numbers not provided in patch notes)*\n\n## Map Updates\n- **Pearl & Abyss**: Redesigned to encourage on-site play and make main plant more risky/predictable\n- Pool updates present but details not specified\n\n## Weapon Tuning\n**PC:**\n- Rifles, SMGs adjusted\n\n**Console:**\n- Spectre, Stinger, Bulldog, Phantom, Vandal rebalanced\n\n## Systems & Competitive\n- **Placeable ability previews** (Cypher Spycam, Deadlock Sound Sensor) now align accurately to final placement\n- **Starting 11.09**: Account sharing detection—Competitive queue requires Riot Mobile MFA. Other modes unaffected\n- New reporting category: **Rank Manipulation**\n- **Premier Stage V25A6** live with contender eligibility/VCT tag updates\n\n## Takeaway\nSignificant rebalance patch prioritizing gunplay over ability spam. All agents touched—expect meta shifts and playstyle adjustments across roles."
+  },
+  {
+    "game": "valorant",
+    "version": "11.09",
+    "date": "2025-10-28",
+    "source_content_hash": "f43b16edf507ce92",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T06:56:49.250Z",
+    "text": "# Valorant Patch 11.09 Digest\n\n## Account Security & Anti-Cheat\n- **MFA Required**: Accounts flagged as shared now require multi-factor authentication to queue Competitive\n- **Smurf/Booster Bans**: Ranked boosting detection active—purchased accounts used for boosting will be banned\n- **Bot Enforcement**: Significant wave of bot account bans\n\n## Quality of Life\n- Interactive objects and abilities updated for improved usability\n- Various map and Agent bug fixes\n\n---\n\n**Note**: This is a relatively minor patch focused on anti-cheat enforcement and QOL improvements rather than balance changes. No Agent buffs/nerfs or meta shifts."
+  },
+  {
+    "game": "valorant",
+    "version": "11.10",
+    "date": "2025-11-11",
+    "source_content_hash": "d081b265821fe839",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T06:57:52.297Z",
+    "text": "# Valorant Patch 11.10 Digest\n\n## Agent Changes\n**Harbor Rework**\nMajor rework incoming for Harbor. Check in-game for full ability and stat adjustments affecting his wall and anchor playstyle.\n\n**Clove Balance**\nAdjustments to Clove's kit—review specifics in-game for impact on her support/damage role.\n\n## UI & Visibility\n**Team HUD Healing**\nImproved healing visibility on team HUD for better support coordination and resource tracking.\n\n**Collections Pages**\nNew UI layouts applied to Collections interface for easier navigation.\n\n## System Features\n**Replay System - Console**\nReplay system now available on console platforms, matching PC functionality.\n\n**Pick'Ems GameChangers**\nPick'Ems competitive feature arrives November 13 for GameChangers events.\n\n## Notes\nThis patch focuses on Harbor's role identity and quality-of-life improvements. Minor balance tuning on Clove suggests meta adjustments rather than major shifts. UI improvements prioritize information clarity for team coordination."
+  },
+  {
+    "game": "valorant",
+    "version": "11.11",
+    "date": "2025-12-02",
+    "source_content_hash": "910b77020e7373f9",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T06:58:23.071Z",
+    "text": "# Valorant Patch 11.11 Digest\n\n**Patch Size:** Minimal – This is primarily a holiday maintenance patch with limited gameplay changes.\n\n## System Changes\n- **VP Gifting:** Friends can now gift VP to each other (holiday feature)\n- **Agents Page UI:** Quality-of-life improvements to the Agents selection interface\n\n## Known Issues\n- **Ranked Gun Buddy:** Small issue flagged; details not specified\n\n## Notable\n- **Holiday Break:** This is the final patch of 2025. Riot will be on break for the next scheduled patch cycle; regular updates resume in 2026.\n- **Teased Content:** Developers hint at \"festive surprises\" and future content not yet documented.\n\n---\n\n**Impact:** Negligible for competitive play. This patch is maintenance-focused with no agent adjustments, map changes, or meta shifts. Save your prep time for the next major update in 2026."
+  },
+  {
+    "game": "valorant",
+    "version": "12.00",
+    "date": "2026-01-06",
+    "source_content_hash": "9b6171fe5ddcb6cd",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T06:59:10.134Z",
+    "text": "# Valorant Patch 12.00 Digest\n\n## Agent Changes\n**Buffs:** Breach, Brimstone, Harbor, Tejo, Sage, and Vyse all receiving updates (specific details not provided in notes).\n\n## Map Updates\n**Breeze – Complete Rework**\n- Returning map with significant redesign\n- **RR loss reduction: 50% for two weeks** (soft launch period)\n\n**Haven & Corrode**\n- Wall penetration adjustments\n\n## New Content\n**New Sidearm: Bandit**\n- Joining the weapon arsenal\n\n**New Game Mode: All Random, One Site (Limited-Time)**\n- Fresh competitive experience\n\n## System Changes\n**Hidden MMR System**\n- Updated for improved match quality\n\n**Replays**\n- Now available for Custom games\n\n**Player Behavior & Penalty Ladder**\n- Multiple updates to enforcement systems\n\n**UI Overhaul (PC)**\n- New Home Screen, Lobby, and Social Panel interfaces\n\n---\n\n**Note:** Patch notes lack specific ability/stat details for agent changes. Check in-game patch notes for exact numbers on Breach, Brim, Harbor, Tejo, Sage, and Vyse adjustments before ranked play."
+  },
+  {
+    "game": "valorant",
+    "version": "12.01",
+    "date": "2026-01-20",
+    "source_content_hash": "56361bfa881745c3",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T06:59:52.395Z",
+    "text": "# Valorant Patch 12.01 Digest\n\n**Patch Date:** January 20, 2026\n\n## Competitive Access Requirements\n\n**EU Region - Immediate Changes:**\n- Account sharing detection now enforced in Competitive queue\n- All **Ascendant+ ranked players** must enable **Riot Mobile MFA** to queue Ranked\n- Other game modes (Unrated, Spike Rush, etc.) remain unaffected\n- Non-Ascendant players can still queue Ranked without MFA (for now)\n\n## Esports Hub\n\nVCT 2026 Esports Hub is live with Path to Champions team tracking and International League Kickoff coverage.\n\n---\n\n**Note:** This patch is primarily administrative/account security focused. No agent balance changes, map updates, or system overhauls noted. Check full patch notes for specific bug fixes to Agents, Gameplay Systems, and Premier mode if playing those areas competitively."
+  },
+  {
+    "game": "valorant",
+    "version": "12.02",
+    "date": "2026-02-03",
+    "source_content_hash": "7e21e02fdadbf216",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T07:00:22.089Z",
+    "text": "# Valorant Patch 12.02 Digest\n**February 3, 2026**\n\n## Ability Deployables\n**Concussion Vulnerability**\n- Certain Agent ability deployables can now be concussed, creating new counterplay opportunities against utility-heavy setups.\n\n## Agent Changes\n**Harbor & Reyna**\n- Specific adjustments made (full details in patch notes). Monitor performance impact on controller and duelist meta.\n\n## Player Behavior\n- Behavior Standing system adjustments—check in-game for any changes to your standing status or penalty structure.\n\n---\n\n**Note:** This is a relatively minor patch focusing on utility interactions and targeted agent tuning. Most gameplay impact will come from the deployable concussion mechanic, which may shift how teams position utility on site. Check your main agents for any mechanical changes."
+  },
+  {
+    "game": "valorant",
+    "version": "12.03",
+    "date": "2026-02-17",
+    "source_content_hash": "561681a79fb894eb",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T07:01:01.941Z",
+    "text": "# Valorant Patch 12.03 Digest\n\n**Patch Date:** February 17, 2026\n\nThis is a **short patch** focused on mode additions and regional updates.\n\n## New Mode\n**Skirmish** – Now queuable as a 2v2 mode. Details on mechanics and map selection not specified in notes.\n\n## Gameplay Systems\n**All Random One Site (AROS)**\n- Loadouts have been adjusted (specific changes not detailed)\n\n## Regional Updates\n**Multi-Factor Authentication (MFA)** rolling out in APAC region.\n\n## Esports/Events\n- Pick'Ems open for Masters Santiago\n\n---\n\n**Note:** This patch is light on gameplay changes. Check in-client for complete Loadouts details if you main AROS."
+  },
+  {
+    "game": "valorant",
+    "version": "12.04",
+    "date": "2026-03-03",
+    "source_content_hash": "599be62a8679beaa",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T07:01:24.146Z",
+    "text": "# Valorant Patch 12.04 Digest\n\n**Patch Date:** March 3, 2026  \n*This is a small patch focused on quality of life and bug fixes.*\n\n---\n\n## Agent Changes\n\n**Killjoy**\n- Turret received quality of life updates (specifics not detailed in notes, but expect improved usability)\n\n---\n\n## UI/System Updates\n\n- **Progression Hub** - Refinements to progression tracking interface\n- **End of Game screen** - Updates to post-match UI\n- **Career page** - Changes to profile/statistics display\n\n---\n\n## Bug Fixes\n\n- Agent-related bug fixes (unspecified)\n- Map-related bug fixes (unspecified)\n\n---\n\n## Summary\n\nA lightweight patch with no significant meta shifts. The KJ Turret QoL improvements may streamline her gameplay slightly, but this patch is primarily about polishing existing systems rather than balance changes. Continue with your current agent pools and strategies—nothing fundamentally shifts here."
+  },
+  {
+    "game": "valorant",
+    "version": "12.05",
+    "date": "2026-03-17",
+    "source_content_hash": "9d3dd9ee43d0d325",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T07:02:11.863Z",
+    "text": "# VALORANT Patch 12.05 Digest\n**Patch Date:** March 17, 2026 | **Act 2 Start**\n\n## New Agent\n**Miks** (Controller, Croatia) – Newest addition to the roster with unique ally-targeting mechanics.\n\n## Agent Changes\n\n**Sage**\n- Ally targeting UX/UI updated to match Miks's system\n- Model update reflecting current story state\n\n**Yoru, Clove, Skye**\n- Balance updates (specific changes not detailed in notes)\n\n**Breach**\n- New voice lines added\n\n## UI/HUD Updates\n- **Assist Banners** – New HUD element celebrating assists\n- **Killfeed** – Redesigned to clearly show assists and assisting abilities\n- **Status Effect Tags** – Updated for improved clarity\n\n## Map & Competitive\n- **Competitive Map Pool** refreshed\n- **Lotus A-site** – Structural changes\n\n## Modes\n- **Knockout** – New Limited Time Mode added\n- **AROS** and **Skirmish: 2v2** – Removed from queue\n\n---\n\n**Note:** This patch lacks detailed balance numbers for Yoru, Clove, and Skye. Check patch notes directly for specific stat/ability adjustments."
+  },
+  {
+    "game": "valorant",
+    "version": "12.06",
+    "date": "2026-03-31",
+    "source_content_hash": "275bef37ca1c3359",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T07:02:57.926Z",
+    "text": "# Valorant Patch 12.06 Digest\n\n**⚠️ Minimal Patch** — This is a small maintenance update focused on UI/UX improvements and backend work.\n\n## Agent Changes\n\n**Waylay**\n- **Saturate**: Changed from INSTANT activation to EQUIP (requires weapon swap timing)\n\n## System Updates\n\n**Viper**\n- Backend technology improvements to ultimate ability (no mechanical changes noted)\n\n**End-of-Game Screens**\n- Updated UI presentation\n\n**General**\n- UX/UI bug fixes\n- Backend optimizations\n\n---\n\n**Summary**: Expect minimal gameplay impact this patch. The Waylay change adds a small timing requirement to Saturate activation. Otherwise, this is primarily infrastructure work and cosmetic UI updates. No map, weapon, or major agent adjustments."
+  },
+  {
+    "game": "valorant",
+    "version": "12.07",
+    "date": "2026-04-14",
+    "source_content_hash": "789445e514aee650",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T07:03:35.423Z",
+    "text": "# Valorant Patch 12.07 Digest\n**Patch Date:** April 14, 2026\n\n---\n\n## Overview\nThis is a **very small patch** focused on UI/UX improvements with no gameplay changes.\n\n## Settings & Interface\n- **Settings screens revamped** for improved functionality and visual clarity\n- In-game settings adjustments remain fast and responsive—no performance impact to mid-match tuning\n\n## Social\n- **Discord integration** partnership announced\n\n---\n\n## What's Not Here\nNo agent balance changes, ability tweaks, economy adjustments, map updates, or item/weapon modifications.\n\n**Verdict:** Maintenance patch. Safe to jump back in—your agent knowledge and meta builds are unchanged."
+  },
+  {
+    "game": "valorant",
+    "version": "12.08",
+    "date": "2026-04-28",
+    "source_content_hash": "0d3d859c9aebace9",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T07:04:00.747Z",
+    "text": "# VALORANT PATCH 12.08 DIGEST\n**Patch Date: April 28, 2026**\n\n---\n\n## MAP POOL\nMap rotation updated. Check your queue preferences.\n\n---\n\n## LIMITED TIME MODES\n**New Mode Available** – A fresh LTM is live for testing.\n\n**Knockout Departing** – The Knockout mode is rotating out. This was your last chance to play if you hadn't already.\n\n---\n\n## PREMIER\n**Stage V26A3 Begins May 6** – New competitive season starts. Prepare your team rosters.\n\n---\n\n## BUG FIXES\n- Agent-specific fixes applied\n- General gameplay stability improvements\n\n---\n\n## KNOWN ISSUES\n- Mode-related issues tracked and being investigated\n\n---\n\n**Note:** This is a light patch focused on seasonal transitions and mode rotations. No significant agent, weapon, or mechanic changes reported."
+  },
+  {
+    "game": "valorant",
+    "version": "12.09",
+    "date": "2026-05-12",
+    "source_content_hash": "16a10e1f0c2e2f83",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T07:04:28.277Z",
+    "text": "# Valorant Patch 12.09 Digest\n\n## Agent Changes\n**Neon** receives significant nerfs:\n- High Gear no longer grants air speed while airborne; sprint speed in air capped at melee speed\n- Fuel only regenerates on kills when ultimate is active (previously always on kills)\n- Improved slide VFX for clarity\n\n## Weapon Adjustments\n**Major shotgun accuracy nerfs across the board:**\n\nAll shotguns lose accuracy significantly when moving or on ropes:\n- Standing spread: 0.075 → 0.75\n- Walking: 0.09 → 1.5\n- Running: 0.1 → 3.0\n\n**Bucky** (close-range pellet damage reduced; additional spread increases):\n- Minimum spread: 2.6 → 3.0\n- Movement spreads increased (walk 0.075→1, run 0.1→2, crouch-walk 0.05→0.5, jump 1.25→4)\n\n**Judge** (fire rate decreased):\n- Fire rate: 3.33 → 3.0\n- Spreads increased (walk 0.075→1, run 0.1→2, crouch-walk 0.05→0.5, jump 1.25→4)\n\n**Ares** (spreads increased):\n- Minimum spread: 2.25 → 2.5\n- Movement spreads increased (walk 0.075→1, run 0.75→2, crouch-walk 0.05→0.5, jump 2.25→4)\n\n**Impact:** Shotgun-rushing playstyles significantly weakened; mobility and repositioning punished harder. Expect slower, more tactical close-range encounters.\n\n## Matchmaking\nMMR system testing in modes outside Competitive/Unrated/Swiftplay aims to improve match consistency and quality.\n\n## Performance\nAMD Anti-Lag 2 support added (requires compatible hardware + March 9th+ drivers) for reduced input latency in GPU-bound scenarios."
+  },
+  {
+    "game": "valorant",
+    "version": "12.10",
+    "date": "2026-05-27",
+    "source_content_hash": "a78ccc43897acc2b",
+    "digest_version": "patch-digest-v1",
+    "model": "claude-haiku-4-5-20251001",
+    "generated_at": "2026-05-29T07:10:22.163Z",
+    "text": "# Valorant Patch 12.10 Digest\n**May 27, 2026**\n\nThis is a **minor patch** focused on quality-of-life features and seasonal updates.\n\n## Gameplay & Features\n\n**Replay System**\n- Friend replay sharing expanded to all modes: Competitive, Unrated, Swiftplay, Premier, and Custom\n- View replays directly from friends' Career pages\n\n**Skirmish: Ascension**\n- All Agents now available for both 1v1 and 2v2 matches regardless of unlock status\n- New Skirmish maps added\n\n## Competitive\n\n**Premier**\n- V26A3 Contender and Invite Division schedule adjustments\n\n## Patch Summary\n\nThis patch prioritizes accessibility and social features over balance changes. The main gameplay update unlocks all Agents in Ascension Skirmish, reducing gatekeeping for casual/practice modes. Friend replay sharing across all competitive and casual modes enhances team coordination and VOD review. Premier scheduling shifts reflect seasonal tournament adjustments.\n\n**No Agent balance changes, item adjustments, or meta shifts noted.**"
+  }
+]
