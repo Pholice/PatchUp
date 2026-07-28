@@ -3078,5 +3078,23 @@
       }
     ],
     "raw_text": "Sup, gamers!We’re back with a big one for the start of V26 Act 4. So let’s jump right into it!TL;DR:Our Sentinel buffs are here! (Cypher, Killjoy, Veto, Sage, and Deadlock)We’re reducing Signature Ability cooldowns for Initiators! (Sova, Fade, Skye, Breach, and KAY/O)Our newest map Summit is now in the Competitive Map Rotation.We’re adjusting our Ranked Rating (RR) calculations!We’re making adjustments to improve consistency of player ranks in your Competitive lobbies.We’re tuning the Bandit to make it more viable outside of pistol rounds.Our newest limited-time mode Retake is now in the queue menu!Omen Shrouded Step audio is changing for gameplay clarity.Lots of small updates to Agent voice lines!We’ve added our first version of Inbox for cataloging some of your in-client notifications.Plus, a bunch of bug fixes.There’s a lot more detail from the Devs below! So be sure to check out the full notes for more context on all the changes.Good luck on your Act 4 grind!"
+  },
+  {
+    "version": "13.02",
+    "date": "2026-07-28",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-13-02",
+    "fetched_at": "2026-07-28T19:04:50.644Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "b7d66f775f2ca779",
+    "sections": [
+      {
+        "title": "Patch Notes",
+        "items": [
+          "Hey there, I’m Emily. I’ll be joining the Global Community team at Riot as an intern this summer, nice to meet you all! Hopefully y’all are staying cool with this summer heat, got a couple things for you to check out here :DHere’s what’s happening in Patch 13.02:Phoenix adjustment to address frequent casting of Run it Back.We are delaying AROS: Replication, we’ll let you know when we have news to share.Split, Corrode, and Lotus added to Retakes!Some Agent bug fixes.A fix for some door/ability interactions on Summit.GLHF and see you all on the server!"
+        ]
+      }
+    ],
+    "raw_text": "Hey there, I’m Emily. I’ll be joining the Global Community team at Riot as an intern this summer, nice to meet you all! Hopefully y’all are staying cool with this summer heat, got a couple things for you to check out here :DHere’s what’s happening in Patch 13.02:Phoenix adjustment to address frequent casting of Run it Back.We are delaying AROS: Replication, we’ll let you know when we have news to share.Split, Corrode, and Lotus added to Retakes!Some Agent bug fixes.A fix for some door/ability interactions on Summit.GLHF and see you all on the server!"
   }
 ]
