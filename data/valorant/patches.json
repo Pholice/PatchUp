@@ -3080,6 +3080,82 @@
     "raw_text": "Sup, gamers!We’re back with a big one for the start of V26 Act 4. So let’s jump right into it!TL;DR:Our Sentinel buffs are here! (Cypher, Killjoy, Veto, Sage, and Deadlock)We’re reducing Signature Ability cooldowns for Initiators! (Sova, Fade, Skye, Breach, and KAY/O)Our newest map Summit is now in the Competitive Map Rotation.We’re adjusting our Ranked Rating (RR) calculations!We’re making adjustments to improve consistency of player ranks in your Competitive lobbies.We’re tuning the Bandit to make it more viable outside of pistol rounds.Our newest limited-time mode Retake is now in the queue menu!Omen Shrouded Step audio is changing for gameplay clarity.Lots of small updates to Agent voice lines!We’ve added our first version of Inbox for cataloging some of your in-client notifications.Plus, a bunch of bug fixes.There’s a lot more detail from the Devs below! So be sure to check out the full notes for more context on all the changes.Good luck on your Act 4 grind!"
   },
   {
+    "version": "13.01",
+    "date": "2026-07-14",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-13-01",
+    "fetched_at": "2026-08-04T19:17:07.792Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "2749580a56bc3bec",
+    "sections": [
+      {
+        "title": "AGENTS UPDATES",
+        "items": [
+          "Iso",
+          "Yoru"
+        ]
+      },
+      {
+        "title": "PLAYER BEHAVIOR UPDATES",
+        "items": [
+          "Rank Manipulation Penalties"
+        ]
+      },
+      {
+        "title": "WEAPONS UPDATES",
+        "items": [
+          "Outlaw"
+        ]
+      },
+      {
+        "title": "BUG FIXES",
+        "items": [
+          "Agents",
+          "Fixed an issue where Cyber Cage could incorrectly block line-of-sight interactions above the ability's visual effects.",
+          "Fixed an issue where Cyber Cage's trajectory indicator would not appear when throwing the ability into locations outside of Cypher's line of sight.",
+          "Fixed an issue where Cyber Cage would sometimes fail to play an audio cue when enemies entered through the lower portion of the cage.",
+          "Fixed an issue where certain Spycam voice lines would not play correctly during specific actions.",
+          "Deadlock",
+          "Gekko",
+          "Iso",
+          "Jett",
+          "KAY/O",
+          "Killjoy",
+          "Miks",
+          "Neon",
+          "Reyna",
+          "Sage",
+          "Skye",
+          "Viper",
+          "Veto",
+          "Yoru",
+          "Maps"
+        ]
+      },
+      {
+        "title": "BUG FIXES",
+        "items": [
+          "General"
+        ]
+      },
+      {
+        "title": "KNOWN ISSUES",
+        "items": [
+          "Agent"
+        ]
+      },
+      {
+        "title": "SOCIAL UPDATES",
+        "items": [
+          "Discord 🤝 Riot",
+          "This rolled out as a beta in Brazil first and is launching globally wherever Discord is available on July 21.",
+          "For more information, check out <this article>."
+        ]
+      }
+    ],
+    "raw_text": "Hey, it’s Ashley! Hope everyone has been enjoying their summer and spending some time outside. It’s the season of sport so if you’re watching the World Cup, who are you rooting for?Here’s the breakdown for Patch 13.01:Iso buff to weapon equip speed after unequipping Double TapYoru buff with an increase in duration of GatecrashOutlaw adjustment to allow for more expression and controlWe can better detect rank manipulation and will begin issuing penalties for confirmed users. If you know you do this, count your days.Loads of bug fixesALL PLATFORMSAGENTS UPDATESIsoDouble TapThe speed of equipping your weapon after unequipping Double Tap is now instant.YoruGatecrash Active Beacon Duration increased from 15s >>> 20sFakeoutTo further satisfy his deception fantasy, clones from Fakeout will now hold Yoru's last equipped weapon, instead of defaulting to his strongest weapon.PLAYER BEHAVIOR UPDATESRank Manipulation Penalties We’ve rolled out new tools to better detect rank manipulation in VALORANT, building on systems we successfully introduced in League of Legends last year. Combined with the data we’ve gathered since adding the Rank Manipulation category in-game late last year, we will begin issuing penalties for confirmed rank manipulation. Penalties may include account suspensions, rank reversions, and ranked reward reversions.As part of this, players will begin to receive reporter and bystander feedback in game when a player in their matches is penalized for rank manipulation.Our goal is to protect ranked integrity and make sure competitive progress reflects fair play. For more detail on what counts as rank manipulation and how we’re approaching enforcement, check out this Play Fair article.WEAPONS UPDATESOutlaw has been performing strongly and we still want it to feel powerful with its back-to-back shots, but allow for some expression and some control to warrant that power.OutlawRecovery from 0.1 >>> 0.15 after first shotSpread from 0 >>> 2.25 after first shotRecoil from 0 >>> 4.0 after first shotBUG FIXESAgentsAstraFixed an issue where Astra's ability cooldown timer could sometimes remain visible after the ability had already been used.CloveFixed an issue where Clove could gain an extra charge of Ruse during the Buy Phase by purchasing and reselling ability charges.CypherFixed an issue where Cyber Cage could incorrectly block line-of-sight interactions above the ability's visual effects.Fixed an issue where Cyber Cage's trajectory indicator would not appear when throwing the ability into locations outside of Cypher's line of sight.Fixed an issue where Cyber Cage would sometimes fail to play an audio cue when enemies entered through the lower portion of the cage.Fixed an issue where certain Spycam voice lines would not play correctly during specific actions.DeadlockFixed an issue where GravNet's third-person visual effects could disappear after a player disconnected and reconnected to the match.GekkoFixed an issue where Nearsight visual effects on some controllable creatures could persist after they had been destroyed by an enemy.IsoFixed an issue where Double Tap could incorrectly prevent the first instance of fall damage.JettFixed an issue where Cloudburst could be activated during Updraft and Tailwind animations when multiple abilities were bound to the same key.Fixed an inconsistency where Jett could not pick up the Spike or weapons during Tailwind.KAY/OFixed an issue where FLASH/drive was missing part of its visual effects.Fixed an issue that could cause an animation skip when equipping FLASH/drive.KilljoyFixed an issue on Split where Killjoy's Alarmbot could interact with players through certain wooden covers.MiksFixed an issue where Miks could gain an extra charge of Waveform during the Buy Phase by purchasing and reselling ability charges.NeonFixed an issue where Neon could be unable to pick up the Spike while sliding over it.ReynaFixed an issue where Dismiss could occasionally leave Reyna unable to equip a weapon.Fixed an issue on Abyss where Leer could apply its blind effect in unintended locations near A Main.SageFixed an issue where players revived by Sage inside Viper's Pit or Poison Cloud would not correctly receive the nearsighted debuff.SkyeFixed an issue where Skye could gain an extra charge of Guiding Light during the Buy Phase by purchasing and reselling ability charges.Fixed an issue where Nearsight visual effects on some controllable creatures could persist after they had been destroyed by an enemy.ViperFixed an issue where players using controllable abilities could briefly see through Viper's Pit.Fixed an issue where players revived by Sage inside Viper's Pit or Poison Cloud would not correctly receive the Nearsighted debuff.VetoFixed an issue where the Evolution voice filter could persist on certain voice lines for the remainder of the match after activating the Ultimate.YoruFixed an issue that allowed Yoru to gain unintended movement speed while in Dimensional Drift when interacting with Flex/Totems.MapsSplitFixed an issue where certain wall-based abilities could be cut off when used in the middle of B Garage.SummitFixed an issue where Iso could survive the falling door crush.Fixed an issue where Waylay could reach unintended locations using Refract and Lightspeed.BUG FIXESGeneralFixed a cosmetic issue where Packets Received/Sent Rate graphs showed incorrect values when the game is running at extremely high frameratesKNOWN ISSUESAgentOmenShrouded Step’s obstructed placement indicator is missingPC ONLYSOCIAL UPDATESDiscord 🤝 RiotVALORANT is partnering with Discord to make getting into your next game with your friends easier. You can now link your accounts to unlock new social features!Invite friends in Discord straight to your party from within VALORANT. No alt-tabbing needed.Copy a lobby link and share it directly on your server or anywhere your friends are.See which of your Discord friends play VALORANT and jump into parties faster.This rolled out as a beta in Brazil first and is launching globally wherever Discord is available on July 21.For more information, check out <this article>."
+  },
+  {
     "version": "13.02",
     "date": "2026-07-28",
     "locale": "en-us",
