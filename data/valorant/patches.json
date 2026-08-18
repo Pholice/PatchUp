@@ -3172,5 +3172,23 @@
       }
     ],
     "raw_text": "Hey there, I’m Emily. I’ll be joining the Global Community team at Riot as an intern this summer, nice to meet you all! Hopefully y’all are staying cool with this summer heat, got a couple things for you to check out here :DHere’s what’s happening in Patch 13.02:Phoenix adjustment to address frequent casting of Run it Back.We are delaying AROS: Replication, we’ll let you know when we have news to share.Split, Corrode, and Lotus added to Retakes!Some Agent bug fixes.A fix for some door/ability interactions on Summit.GLHF and see you all on the server!"
+  },
+  {
+    "version": "13.04",
+    "date": "2026-08-18",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-13-04",
+    "fetched_at": "2026-08-18T18:20:14.703Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "a4adcebe67cfbdbf",
+    "sections": [
+      {
+        "title": "Patch Notes",
+        "items": [
+          "TLDR; Goodbye Breeze and hello Abyss! There’s a new map rotation in our Competitive and Deathmatch queues, and we fixed some issues with Agent bugs and transforming melees like Kuronami 2.0 and Nocturnum. Happy Patch Day, it’s Emily again! Act 5 is here, and with it a few fixes to keep your ranked grind consistent. Have y’all checked out the new skinline? You should really spam that flex…While we’re starting Act 5 with some minor bug fixes and adjustments, keep an eye out for news coming in September. I sense a new Dev Update on the horizon, and some other game updates we are stoked to reveal! That’s all for now, GLHF!"
+        ]
+      }
+    ],
+    "raw_text": "TLDR; Goodbye Breeze and hello Abyss! There’s a new map rotation in our Competitive and Deathmatch queues, and we fixed some issues with Agent bugs and transforming melees like Kuronami 2.0 and Nocturnum. Happy Patch Day, it’s Emily again! Act 5 is here, and with it a few fixes to keep your ranked grind consistent. Have y’all checked out the new skinline? You should really spam that flex…While we’re starting Act 5 with some minor bug fixes and adjustments, keep an eye out for news coming in September. I sense a new Dev Update on the horizon, and some other game updates we are stoked to reveal! That’s all for now, GLHF!"
   }
 ]
