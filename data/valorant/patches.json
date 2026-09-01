@@ -3190,5 +3190,54 @@
       }
     ],
     "raw_text": "TLDR; Goodbye Breeze and hello Abyss! There’s a new map rotation in our Competitive and Deathmatch queues, and we fixed some issues with Agent bugs and transforming melees like Kuronami 2.0 and Nocturnum. Happy Patch Day, it’s Emily again! Act 5 is here, and with it a few fixes to keep your ranked grind consistent. Have y’all checked out the new skinline? You should really spam that flex…While we’re starting Act 5 with some minor bug fixes and adjustments, keep an eye out for news coming in September. I sense a new Dev Update on the horizon, and some other game updates we are stoked to reveal! That’s all for now, GLHF!"
+  },
+  {
+    "version": "13.05",
+    "date": "2026-09-01",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-13-05",
+    "fetched_at": "2026-09-01T20:16:06.448Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "8fb4c960e069107e",
+    "sections": [
+      {
+        "title": "COSMETICS UPDATES",
+        "items": [
+          "Sound Sprays"
+        ]
+      },
+      {
+        "title": "ESPORTS FEATURES",
+        "items": [
+          "Pick’Ems have returned for Champions Shanghai! Starting on September 10, you will have access to the Group Stage in-client and on the web. Predict the advancing teams for points, earning extra points for correctly guessing the exact placement. You’ll also earn rewards just for participating. Get your picks in before Groups kickoff on September 24th!"
+        ]
+      },
+      {
+        "title": "PLAYER BEHAVIOR UPDATES",
+        "items": [
+          "We've started rolling out penalties if we detect usage of stream sniping and instalock tools. Players found using these tools will be subject to temporary game bans that will escalate to permanent with repeated usage."
+        ]
+      },
+      {
+        "title": "PROGRESSION UPDATES",
+        "items": [
+          "Agent Gear"
+        ]
+      },
+      {
+        "title": "BUG FIXES",
+        "items": [
+          "Agent"
+        ]
+      },
+      {
+        "title": "GENERAL UPDATES",
+        "items": [
+          "Default Bot Count in Range Practice Mode",
+          "Fixed an issue where the close button was not functional after purchasing VALORANT Points."
+        ]
+      }
+    ],
+    "raw_text": "TLDR; Pick’ Ems for Champs, penalties for stream sniping and instalock tools, and future changes to the Agent Gear system so make sure to grind it out and get all the items now!Heyo, it’s Ash and we’ve got a small-ish patch for you with mostly bug fixes. We’re prepping for a pretty beefy next patch in 13.06 so more to come!Let’s get it.ALL PLATFORMSCOSMETICS UPDATESSound SpraysBased on your feedback, we've adjusted the sound attenuation for all sound sprays so you'll only be able to hear the sounds if you're nearby to ensure teams can communicate effectively. This will be a standard for all future audio sprays.ESPORTS FEATURESPick’Ems have returned for Champions Shanghai! Starting on September 10, you will have access to the Group Stage in-client and on the web. Predict the advancing teams for points, earning extra points for correctly guessing the exact placement. You’ll also earn rewards just for participating. Get your picks in before Groups kickoff on September 24th! PLAYER BEHAVIOR UPDATESWe've started rolling out penalties if we detect usage of stream sniping and instalock tools. Players found using these tools will be subject to temporary game bans that will escalate to permanent with repeated usage.PROGRESSION UPDATESAgent GearHeads up, gamers! With the release of Patch 13.06 on September 22, we'll be revamping the Agent Gear system and the way you unlock items on that progression track. You will still keep the gear you've already earned, and you'll continue to use Kingdom Credits to unlock future gear. But after Patch 13.06, each piece of gear will be tied directly to how much you play the associated Agent. So if you're currently grinding for Agent Gear on any Agents you don't usually play, now's your chance to lock in and get those unlocks.BUG FIXESAgentGeneralFixed an issue where Agent Ultimate voiceover could continue playing from an enemy's perspective after the Agent casting the Ultimate was killed.Fixed an issue where the Combat Report incorrectly displayed \"Enemies Blinded\" for certain abilities that don't apply Blind.Fixed an issue where smokes would block flashes after dissipating.We’ve better timed the dissipation for the smokes on Astra, Brimstone, Clove, Miks, and Omen to fix an issue where their smokes could continue blocking flashes and other line-of-sight-dependent abilities while the smoke was dissipating.ChamberFixed an issue that could cause performance drops the first time Chamber equipped, aimed, or fired Headhunter during a round.CypherFixed an issue where Cypher's Trapwire debuff could persist indefinitely on a new target if the initial target was killed just before the Trapwire triggered.Fixed an issue where Cypher's Cyber Cage could incorrectly block flashes, detection, and other line-of-sight-dependent abilities.DeadlockFixed an issue where casting Deadlock's GravNet could briefly display unintended VFX on screen.FadeFixed an issue where Fade's Seize would not display its danger indicator to enemies in certain locations on Lotus.KAY/OFixed an issue where KAY/O's NULL/cmd could cause client-side framerate drops with each pulse.OmenFixed an issue where Omen’s Dark Cover could obscure a player’s vision after the smoke has dissipated.SageFixed an issue where Sage's Healing Orb ability tooltips could be missing from the HUD when equipping the ability.Waylay Fixed an issue where vision-blocking abilities could prevent Waylay's Saturate from applying Hinder to players within its area of effect.Fixed an issue where Waylay's Refract could cause snapshots of dynamic map objects to remain visible after the ability ended.Fixed an issue where Waylay's Saturate could apply Hinder to Agents while they were intangible.PC ONLYGENERAL UPDATESDefault Bot Count in Range Practice Mode An option for 10, 5, or 1 bot to spawn has been added in the Range practice mode.The default number of bots spawned is now 5.You can adjust this number in the Range settings.Fixed an issue where the close button was not functional after purchasing VALORANT Points."
   }
 ]
