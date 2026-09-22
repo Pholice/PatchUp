@@ -50815,5 +50815,548 @@
       }
     ],
     "raw_text": "The Beacon of Hope has officially been inducted into the Hall of Legends. Congratulations, Caps!This week's patch kicks off our event that honors the most decorated player in European League of Legends history. The Hall of Legends battle pass will take you on a journey through his storied career, and features new cosmetics plus brand new skins co-developed by Caps himself. We can't wait to celebrate such a humble, confident, and resilient competitor with you all.This patch also features changes to Summoner's Rift balance, with some targeted nerfs on overperforming pro supports like Nautilus and Bard, as well as some taps to Seraphine bot and Zeri. A round of buffs is in order for Viego, Zaahen, Master Yi, Ekko, and Kassadin. Finally, Cassiopeia has slithered her way into an adjustment to help reduce her pro skew.Classic will be having a big old Demacian reunion this week as Fiora, Galio, Poppy, Shyvana, and Xin Zhao join the fray in addition to a host of balance changes and the results of our first Council vote!For all you Mayhem heads out there, we're making sure that the Augment choices you receive make more sense for the champion you're playing, as we continue to improve the Augment pools.Looking for more information on all things League of Legends? Check out our community-run wiki here!Wrong patch notes? You can find the TFT patch notes here! Austin \"Riot wroadie\" Wright Erika \"Riot Cashmiir\" Haas Steven \"Riot sternest\" EarnestPatch HighlightsImmortalized Legend Tristana, Risen Legend Orianna, and Risen Legend Tristana will be available September 10, 2026.Hall of LegendsLoL Esports inducts a pro player into the Hall of Legends to honor their achievements within the sport and game. Players are chosen by an independent voting panel of esports industry veterans and experts from every region who select players based on criteria including international berths, international and regional titles, role-specific stats, and overall contributions to the sport.We're honored to announce that Rasmus \"Caps\" Winther is the third inductee into the Hall of Legends! Known as a Beacon of Hope whose legacy reshaped what the West believed was possible on the global stage, Caps becomes the first Western League of Legends pro to earn the distinction.Widely regarded as the defining Western player of his generation, Caps built his legacy through a rare blend of elite skill, creativity, and authenticity. From his meteoric rise as a rookie to becoming the most decorated player in European League of Legends history, Caps has consistently proven he can stand toe-to-toe with the world's best while staying true to his own style.The in-game Hall of Legends event pass celebrates Caps' countless accomplishments and takes you on a journey through his career. You can earn and purchase commemorative cosmetic items and an exclusive skin themed after the Beacon of Hope himself in celebration of this moment. Also available are the Risen Legend, Immortalized Legend, and Signature Immortalized Legend Collections, featuring Tristana skins co-developed with Caps himself.Experience the fearless blend of creativity, adaptability, and unbridled enthusiasm that characterizes Caps' career in the Hall of Legends battle pass with 100 total levels of unlockable rewards, including commemorative skins, icons, and an exclusive callback honoring an iconic Caps champion. Reward highlights include:Risen Legend Orianna Skin & BorderRisen Legend Orianna Event ChromaFreljord Taliyah, Elderwood LeBlanc, Empyrean Akali Skins125 Mythic Essence11 Orbs15 Caps-Themed Icons & EmotesUnkillable Demon Cactus WardBeacon of Hope Banner\"Martin 1\" TitleAnd more!ChampionsBardBard has been a meta staple for much of the year. Earlier we toned his damage down to what we think are reasonable levels, so this time we are going to target his durability which has also stood out as high given his mobility and long range ultimate utility.Base StatsArmor: 34 + 5/Level ⇒ 32 + 4.7/LevelCassiopeiaCassio has always scaled with skill, but this year has propelled her to new heights of pro play dominance despite being weaker for average players. These adjustments should tap down her laning power, especially in pro where defensive purchases are valued more than raw AP, while giving her back some scaling power. It will still be critical to use empowered E's, but raising her floor lets us be a bit more flexible with tuning.Passive - Serpentine GraceMove Speed Bonus: 6% - 40% (based on level) ⇒ 5% - 36% (based on level)Q - Noxious BlastDamage: 75 / 110 / 145 / 180 / 215 ⇒ 65 / 100 / 135 / 170 / 205Ability Power Ratio: 65% ⇒ 75%E - Twin FangMana Cost: 40 ⇒ 45Base Ability Power Ratio: 10% ⇒ 20%Enhanced Ability Power Ratio: 55% ⇒ 45%Total Ability Power Ratio: 65% ⇒ 65%Damage: 52 - 120 ⇒ 50 - 120R - Petrifying GazeDamage: 150 / 250 / 350 ⇒ 125 / 225 / 325Ability Power Ratio: 50% ⇒ 75%EkkoAs one of our assassins that offer opponents a wider mix of gameplay options, Ekko has found a slightly weak steady state since Dusk & Dawn's update mid year. We believe he has some room for power, especially in mid where he scales slightly worse, without buffing his Hail of Blades pattern.Q - TimewinderMana Cost: 50 / 60 / 70 / 80 / 90 ⇒ 40 / 50 / 60 / 70 / 80Return Damage Ability Power Ratio: 60% ⇒ 70%KassadinKassadin had a strong start to 2026 but hasn't regained his…footing…since our earlier nerfs. His Q should feel more punchy with his scaling, and we're aiming to provide more early agency through good Riftwalk usage without touching his late game fantasy.Q - Null SphereAbility Power Ratio: 70% AP ⇒ 80% APR - RiftwalkBase Damage: 70 / 90 / 110 ⇒ 80 / 95 / 110Master YiYi drew the short end of the stick on the Rageblade bugfix from earlier this year due to his double strike interactions. While the actual impact for most Rageblade users was minor (and we are compensating Rageblade as well for that this patch), he was impacted harder than the other users. He's also just been unable to scale as well as a melee carry compared to his normal power level, so we are also giving him a buff up.Base StatsArmor Growth: 33 + 4.5/Level ⇒ 33 + 5/LevelR - HighlanderMove Speed: 35 / 45 / 55% ⇒ 40 / 50 / 60%NautilusNautilus has been sitting near the top of the meta for the entire year, even before our work to bring other tank supports up in power, and we feel nerfing him will open up room for a more variety. That said, we know a lot of his value is in being able to lock down champions effectively, and that'll remain a core strength.Base StatsAttack Damage: 61 + 3.3/Level ⇒ 58 + 3.3/LevelQ - Dredge LineDamage: 85 / 130 / 175 / 220 / 265 (+90% AP) ⇒ 85 / 125 / 165 / 205 / 245 (+90% AP)SeraphineSeraphine bot has been a source of frustration for opponents for some time, despite a minor nerf a few patches ago. We are nerfing her E's rank up to target this head on, as support Seraphine usually maxes it last (which basically means she never has it maxed as a support.)E - Beat DropCooldown: 11 / 10.5 / 10 / 9.5 / 9s ⇒ 11sSyndraOur MSI changes were effective at pulling her to the forefront of pro play for the first time in years, but unfortunately she's too performant in specific solo queue settings. Our data shows that W damage is a meaningfully larger share of damage in the tiers where she's stronger than desired, so this should help tap her down while still preserving her core fantasies. Her passive is also now better breakpointed to increase reliance on Lost Chapter in early-mid levels, nerfing her higher winrate builds that make do with less mana investment.Passive - TranscendentSplinter Mana: 20 - 255 ⇒ 20 - 199W - Force of WillCooldown: 12 / 11 / 10 / 9 / 8s ⇒ 13 / 12 / 11 / 10 / 9sViegoViego's winrate has been on a downward trend recently, and his players have noticed and begun dropping him. He has a fair bit of room to bring up, both just generally and for the viability of his more bruisery alt build.Base StatsAttack Damage Growth: 3.5 ⇒ 4Passive - Sovereign's DominationHeal: 2% (+…. ) ⇒ 2% (+ 2.5% per 100 bonus AD) (+ 2% per 100 AP) (+ 5% per 100% bonus attack speed) (+ 2% per 500 bonus HP) of the target's maximum health ZaahenWe're using a QoL change here as an opportunity to give Zaahen some love! This might read as a nerf, but Zaahen's Q lined up with his passive in such a way that it meant he always left his resurrection (and GA, Zilean R) with Q on CD, so now he's always happier. His Q2 is also a clean double of his Q1 base damage now. Q - The Darkin Glaive NEW Cooldown Behavior: If Q is active, it is now placed on Cooldown immediately upon being put in ResurrectionQ2 Damage: 25 / 50 / 75 / 100 / 125 (+20 / 25 / 30 / 35 / 40% bonus AD) ⇒ 30 / 60 / 90 / 120 / 150 (+20 / 25 / 30 / 35 / 40% bonus AD)ZeriZeri has been slowly climbing in winrate with the recent Runaan's Hurricane and Yun Tal Wildarrows buffs. She now sits very high in winrate compared to her historical resting, which is worrying for a champ that is so skill intensive. As she has also begun showing up in pro, we expect she has a high chance of becoming meta dominant, so we are pulling some power out of her burst and waveclear.W - Ultrashock LaserDamage: 30 / 70 / 110 / 150 / 190 (+120% tAD) ⇒ 30 / 70 / 110 / 150 / 190 (+100% tAD)Wall Damage: 45 / 105 / 165 / 225 / 285 (+180% tAD) ⇒ 45 / 105 / 165 / 225 / 285 (+150% tAD)Critical Strike: 150% (+15% IE)ItemsGuinsoo's RagebladeIn light of the bugfix nerfing rageblade by a minor amount by pushing back when the first double hit triggers, we are compensating with a similarly minor QoL buff to help players get it stacked up and keep it stacked.Seething Strike Stack Duration: 3s ⇒ 4sClassicOur third League Classic patch has our biggest content drop to date: Five brand new old champions! Do you want to remove as much gameplay as possible with Poppy's Diplomatic Immunity? Untargetably Blade Waltz the entire enemy team as Fiora? Deliver taunt explosions as Galio? Experience the fabled early Xin Zhao kit (he's been nerfed, don't worry)? Shyvana's also here.We've got a smaller balance patch than before, as we're in a much better state balance-wise. Some of our bugfixes had substantial winrate impact, so we're returning some power we took away in a few cases. Otherwise, we're just addressing the game's biggest outliers.Champions NEW FioraWelcome back Classic Fiora, who existed from 2012-2015. Fiora is a deadly duelist, poised to deal tons of damage to isolated targets while also excelling in short trades by Riposting their strikes back at them. You'll probably want a Ravenous Hydra to have access to wave clear. Some things never change.Passive - DuelistFiora regenerates health whenever she damages enemies. This regeneration can stack when hitting champions.Q - LungeFiora dashes to strike a nearby enemy. Lunge can be cast a second time at no additional cost..W - RipostePassive: Fiora gain bonus Attack DamageActive: Fiora parries the next attack within a short time, dealing damage back to her attacker.E - Burst of SpeedFiora gains Attack Speed for a few seconds. Attacks and Lunges during this time grant her a stacking Move Speed bonus.R - Blade WaltzThis is why you're really here. Fiora becomes untargetable and dashes around the battlefield, striking nearby enemies for (say it with me) tons of damage. All strikes apply on-hit effects and repeated hits on the same target deal reduced damage. NEW GalioClassic Galio existed from 2010-2017 and was one part mage, one part AP bruiser, one part tank, one part support. He still wants to build Magic Resist to scale his offense, but almost everything about him is different from the modern-day champion.Passive - Runic SkinGalio gains a portion of his Magic Resist as Ability Power. Hooray for one-sentence passives!Q - Resolute SmiteGalio fires a concussive blast from his eyes that damages and slows enemies where it lands.W - BulwarkGalio gives a nearby allied champion bonus Armor and Magic Resist. While buffed, whenever they take damage, Galio is healed.E - Righteous GustGalio unleashes a gust of wind that damages enemies in a line and leaves behind a directional draft, which gives all allies movement speed as long as they're moving with the current.Hwei stole this ability. What a jerk.R - Idol of DurandGalio channels to taunt all nearby enemies, taking reduced damage in the process. After channeling, Galio damages all enemies caught in the area, increasing based on how many times he was hit while channeling. NEW PoppyDo you think League of Legends has too much gameplay? Do you want your opponents to literally have no counterplay to you? No damage, no CC, nothing? We have the Demacian for you. Initially available from 2010-2015, Classic Poppy is a single-target terror with the option to become completely immune to all enemies but one.Passive - Valiant FighterAll damage to Poppy beyond 10% of her current health is reduced by 50%Just in case you thought she was too easy to kill alreadyQ - Devastating BlowPoppy's next attack deals bonus damage based on her target's max HPW - Paragon of DemaciaPassive: Poppy gains Armor and Attack Damage (up to a cap) whenever she deals or takes Attacks herself.Active: Immediately gain max stacks of Paragon of Demacia and gain increased Move Speed for several secondsE - Heroic ChargePoppy charges at an enemy, damaging and knocking this back. If they collide with a wall, they take more damage and are stunned.R - Diplomatic ImmunityPoppy picks an enemy. For the next few seconds no one else can do anything to her and she deals bonus damage to them.Don't be fooled by the bonus damage. Ult Soraka and then kill the enemy ADC. There's no counter-play.I can't believe they got rid of this spell during her rework. NEW ShyvanaWe chose 2011-2013 for Classic Shyvana, so this is a true blast from the past. Our biggest pro tip for you is Frozen Mallet. If they're slowed, they can't run away.Passive - Fury of the DragonbornShyvana's basic attacks enhance each of her basic abilities. They reduce Q's cooldown, increase W's duration, deal a fraction of E's initial damage, and generate Fury for her ultimate.Q - Twin BiteShyvana's next attack strikes her target twice, dealing bonus damage.In dragon form, Twin Bite deals damage in a cone in front of her.W - BurnoutShyvana gains Move Speed and continually damages enemies around her.In dragon form, Burnout leaves a trail of fire that damages enemies who stand on it.E - Flame BreathShyvana unleashes a fireball that damages the first enemy hit and reduces their armorIn dragon form, she unleashes a cone of fireballs, hitting more enemies.R - Dragon's DescentPassive: Shyvana gains bonus Armor and Magic Resist. This bonus is doubled while in dragon form.Shyvana transforms into a dragon, flying forward to damage and knock back all enemies encountered during her flight. NEW Xin ZhaoClassic Xin Zhao takes on his kit from 2012-2017. If you're looking for some straightforward right click until they're dead gameplay, look no further!Passive - ChallengeXin Zhao Challenges his most recent attack target, reducing their Armor.Q - Three Talon StrikeXin Zhao's next three basic attacks deal bonus damage and reduce his other cooldowns by 1 second. The third attack knocks up his target.W - Battle CryPassive: Every third basic attack heals Xin Zhao.Active: Xin Zhao gains bonus Attack Speed for several seconds.E - Audacious ChargeXin Zhao dashes an enemy, Challenging them. Nearby enemies, including the target, take damage and are slowed.R - Crescent SweepXin Zhao sweeps all enemies around him, dealing damage and gaining Armor and Magic Resist for each enemy struck. Every enemy except his Challenge target are knocked back.AniviaAnivia is our single top performer in mid lane, so she's been slated for nerfs. We've got several changes this patch, all of which are re-tuning her numbers back to 2013 accuracy.Q - Flash FrostMissile Speed: 950 ⇒ 850Manual Detonation Stun Duration: 1s ⇒ 0.75sManual Detonation Radius: 230 ⇒ 210Minimum Delay for Recast: 0 ⇒ 0.25sGangplankGangplank is performing worst of all conventional top laners and is deserving of a large buff. As with many of our changes on Classic, we're reverting old nerfs from 2011 and 2012. We're playing up his dreams of being a banker and sharing the wealth when it's time to go all in.Q - ParrrleyBonus Gold on Kill: 4 / 5 / 6 / 7 / 8 ⇒ 4 / 6 / 8 / 10 / 12E - Raise MoraleActive Attack Damage: 12 / 19 / 26 / 33 / 40 ⇒ 14 / 22 / 30 / 38 / 46Active Move Speed: 8 / 11 / 14 / 17 / 20% ⇒ 10 / 14 / 18 / 22 / 26%Ally Bonus: Allies still gain 50% of Gangplank's bonusesHeimerdingerHeimerdinger's bugfix last patch ended up being a massive hit to his power, well above what we expected. So we're buffing him back up, partially reverting some of our previous nerfs. Because the double damage turret bugfix was significantly top lane skewed, we're looking to buff his performance in top lane most of all and fix a couple of minor mismatches that escaped his release.Base StatsBase Health Regeneration: 4.5 ⇒ 5.05Q - H-28G Evolution TurretBase Damage: 28 / 36 / 44 / 52 / 60 ⇒ 30 / 38 / 46 / 54 / 62W - Hextech Micro-RocketsMana Cost: 65 / 85 / 105 / 125 / 145 ⇒ 60 / 75 / 90 / 105 / 120E - CH-1 Concussion GrenadeCooldown: 14 / 13 / 12 / 11 / 10s ⇒ 13 / 12 / 11 / 10 / 9sCast Range: 920 ⇒ 925KayleKayle isn't performing too well in her most popular role of top lane, so we're here to lend her a wing. We've got a large change to her passive, which is a boost of functionally 17-32 ability power. All in all, this should result in a Kayle with more damage, more healing, more everything.Passive - Holy FervorAbility Power Gained: 30% bonus AD ⇒ 30% total ADMalzaharMalzahar is one of our best-performing mid laners, primarily as an AP threat, and is due for a small nerf. We completed a pass of minor differences from his 2013 form and have some changes to Voidlings as a result, which should skew toward making AD Malzahar better without affecting AP Malzahar much. Continuing on the trend of AD Malzahar, we're raising his overall attack speed, so that he can use those potential AD items better. Meanwhile, on the AP nerf front, we have a meaningful bugfix to R, which will reduce its damage in several circumstances, plus an AP ratio nerf to bring him in line.Base StatsAttack Speed Growth: 1.36% ⇒ 3%Attack Speed Ratio: 0.625 ⇒ 0.658Passive - Summon VoidlingMovement Speed: 400 ⇒ 460Attack Cast Frame: 12 ⇒ 9Gold on Kill: 2 ⇒ 12Q - Call of the VoidAbility Power Ratio: 80% ⇒ 70%R - Nether GraspBugfix: R no longer continues to deal damage if the channel stops.NasusNasus is the top dog of top lane and it's by a lot. Thankfully, we've got some substantial bugfixes that should put his bark and his bite on more equal footing. First, we're fixing a bug where his Q stacks could crit, which means for all you Trinity Force enjoyers, that's a big hit to Q damage about 10% of the time. For Wither, there are two bugs worth noting and a single change for period-accuracy. The slow now updates every 1 second (affected by tenacity) instead of every 0.5 seconds, unaffected. So now Tenacity won't cut off the top-end of his slow. However, it was also bugged to use the per-second update every 0.5 seconds, meaning the maximum slow was much higher than it should have been. Fixing both bugs should net out to an appropriate nerf for the ability.Q - Siphoning StrikeBonus Damage from stacks can no longer critically strikeW - WitherSlow ramps every: 0.5s ⇒ 1.0s, affected by TenacityBugfix: The slow no longer ramps up twice as hard as it shouldWarwickWarwick is the top dog of the jungle and it's by a lot. With Feral Flare's build path turning back into attack speed, Warwick's doing even better than he ever has. Accordingly, we're pulling back even further on how much auto-attack power he gets, mostly from historic changes in his past. We're also pulling in part of a nerf from 4.21. He was a real terror back in the patch before then...Base StatsAttack Speed: 0.644 ⇒ 0.625Passive - Eternal ThirstBase Damage: 3 - 16, linear scaling ⇒ 3 + 0.5 per level until level 9, then +1 per levelW - Hunter's CallCooldown: 24 / 22 / 20 / 18 / 16s ⇒ 30 / 27 / 24 / 21 / 18sR - Infinite DuressDamage: 250 / 335 / 420 + 200% bonus AD ⇒ 180 / 300 / 420 + 200% bonus ADCast Indicator: Updated the cast indicator to better reflect its cast rangeCouncil - Poll 1 ResultsThank you, Summoners, for casting your votes in the inaugural Council! We aggregated the results from across the world and you can read them below. The questions with actionable results will be released in an upcoming patch, specifically:Reviving all 3 proposed items.Adding modern jungle timers.Turtle, Duck.How does game length feel?1. Way too short - 1.87%2. Too short - 5.88%3. About right - 52.80%4. Too long - 26.21%5. Way too long - 13.24%When is a game too long?1. 30 minutes - 16.75%2. 40 minutes - 32.68%3. 50 minutes - 29.29%4. 60 minutes - 11.64%5. No preferred maximum - 9.63%Which of these items do you want us to revive in Classic? Each item that scores higher than 50% is added, including \"All 3.\"1. Zz'Rot Portal - 16.16%2. Cloak and Dagger - 3.75%3. Moonflair Spellblade - 5.11%4. All 3 - 60.67%5. None - 14.32%Should Classic add jungle timers? If options 1 and 2 receive more than 50% combined, the higher of those two options wins.1. Yes – Add modern jungle timers that are always visible on the minimap - 45.74%2. Yes – Only when the scoreboard is open - 23.46%3. No – Keep the current minimap - 30.79%Base gates were added at the start of Season 5 to give the defending team a way to protect its base without relying on more extreme comeback mechanics. Should we keep base gates in the game?1. Yes - 55.03%2. No - 44.97%How snowbally do games feel to you now?1. Significantly too snowbally - 8.89%2. Slightly too snowbally - 24.99%3. About right - 48.82%4. Slightly not snowbally enough - 12.24%5. Significantly not snowbally enough - 5.06%Do you feel that the ward trinkets improve Classic gameplay?1. Yes, I like them - 69.72%2. No, I don't like them - 30.28%We're adding 2 critters to the river, 1 at top and 1 at bottom. What should the critter pairings be (top first, bottom second)?1. Turtle, Turtle - 11.31%2. Turtle, Duck- 52.09%3. Duck, Turtle - 28.39%4. Duck, Duck - 8.21%SystemsWe've made some changes around Classic Skin Chromas and their distribution. Instead of directly selling Classic Skin Chromas, we're unifying this product with their associated Base Skin. We're hoping this simplifies things and removes some edge cases (where players could effectively pay double if they purchased the Classic Chroma and then the Base Skin).For those players who have only purchased the Classic Chroma, we'll be granting the associated Base Skin for free!Baron Rammus will be going into the vault in 26.20. You can acquire him at a discounted price until then!\"BugfixesFixed a bug where Teemo's traps did not last the appropriate 10 minutes.Fixed a bug where Akali's Q cast indicator did not accurately reflect its cast range.Fixed a bug where Akali's W could be cast while moving.Fixed a bug where Akali's R cast indicator did not accurately reflect its cast range.Fixed a bug where Skarner's E could heal for less than the full amount.Fixed a bug where Nidalee's Cougar E hit range was 310 instead of 350.Fixed a bug where Nidalee's Human E cast range was 900 instead of 600.ARAM: MayhemHello Mayhemers! In this patch, we're making more behind-the-scenes adjustments to Augment offerings.We've heard your feedback around some Augments showing up on champions that don't make sense on them, such as AP-focused Augments on Vayne.We're taking another pass at these cases and will continue improving the Augment pools to provide more relevant and exciting choices for each champion.For bugfixes, we've also addressed a few unintended interactions with Ultra Hydra and Ravenous Hydra that could be abused for some…questionable results.Thanks for the feedback, and see you on the Bridge!AugmentsClown College NEW Status: Re-enabledSpin to WinR Abilities Damage Increase: 30% ⇒ 50%Ultra Hydra NEW Sale Restriction: You cannot sell Hydra Items when having this augmentBugfixesFixed a bug where item damage triggers the cleave effect when you have Upgrade Ravenous Hydra.Fixed a bug where En Passant fail to function when two or more players have it on the same team.Fixed a bug where Viego can get multiple Tiamat when possessing others while having Ultra Hydra.Fixed a bug where extra gold can be gained by selling and re-purchasing a Hydra item with Ultra Hydra augment equipped.Fixed a bug where players can purchase multiple Ravenous Hydra and gain Upgrade Ravenous Hydra lifesteal on all three when paired with Quest: Ultra Hydra.Fixed a bug where Clown College's Deceive dealt incorrect damage with critical strike ratio.Fixed a bug where Rite of Ascension may seal enhanced abilities.Bugfixes & QoL ChangesFixed a bug where Baron Nashor's max stacks of Void Corruption was higher than intended.Fixed a bug where Serpent's Fang's Shield Reaver damage applied Omnivamp.Fixed a bug where Diana's R VFX may not play properly around different areas of the map.Fixed a bug where Viego possessing Kled could result in an infinite looping sound effect.Upcoming Skins & ChromasThe following skins will be released in this patch:Immortalized Legend TristanaRisen Legend OriannaRisen Legend TristanaThe following chromas will be released this patch:Risen Legend Orianna (Paragon)Risen Legend Orianna (Mythclimber)Elderwood LeBlanc (Paragon)Empyrean Akali (Paragon)Freljord Taliyah (Paragon)"
+  },
+  {
+    "version": "26.19",
+    "date": "2026-09-22",
+    "locale": "en-us",
+    "url": "https://www.leagueoflegends.com/en-us/news/game-updates/league-of-legends-patch-26-19-notes",
+    "fetched_at": "2026-09-22T20:37:02.515Z",
+    "parser_version": "lol-v1",
+    "content_hash": "d15a08c31de836cc",
+    "sections": [
+      {
+        "title": "W - Infernal Chains",
+        "items": [
+          "Cooldown: 20 / 18 / 16 / 14 / 12 seconds ⇒ 18 / 16.5 / 15 / 13.5 / 12 seconds"
+        ]
+      },
+      {
+        "title": "E - Umbral Dash",
+        "items": [
+          "Health Heal Ratio: 1.1% per 100 bonus health ⇒ 1.3% per 100 bonus health"
+        ]
+      },
+      {
+        "title": "Calibrum",
+        "items": [
+          "Moonshot Damage: 70 - 160 (+42 - 60% bonus AD) (+100% AP) ⇒ 80 - 170 (+42 - 60% bonus AD) (+100% AP)"
+        ]
+      },
+      {
+        "title": "Severum",
+        "items": [
+          "Healing: 2 - 7.1%, increased to 5 - 17.75% ⇒ 2 - 8%, increased to 5 - 20%"
+        ]
+      },
+      {
+        "title": "Gravitum",
+        "items": [
+          "Slow: 30% for 2.5 seconds, decaying to 10% after 0.7 seconds ⇒ 30% for 2.5 seconds, decaying to 15% after 0.7 seconds"
+        ]
+      },
+      {
+        "title": "Infernum",
+        "items": [
+          "Duskwave Cooldown: 9 / 8.25 / 7.5 / 6.75 / 6 seconds ⇒ 8 / 7.25 / 6.5 / 5.75 / 5 seconds"
+        ]
+      },
+      {
+        "title": "Crescendum",
+        "items": [
+          "Mini-Crescendum Damage: 15% AD, decreasing by 1.5% AD to a minimum of 5% AD for the 8th+ chakram ⇒ 16% AD, decreasing by 1.5% AD to a minimum of 5% AD for the 9th+ chakram"
+        ]
+      },
+      {
+        "title": "E - The Weirding",
+        "items": [
+          "Base Damage: 70 / 110 / 150 / 190 / 230 ⇒ 80 / 120 / 160 / 200 / 240"
+        ]
+      },
+      {
+        "title": "R - Between Worlds",
+        "items": [
+          "Rift Duration: 1.75 / 2.5 / 3.25 seconds ⇒ 2.25 / 2.75 / 3.25 seconds"
+        ]
+      },
+      {
+        "title": "Base Stats",
+        "items": [
+          "Attack Damage: 62 ⇒ 64"
+        ]
+      },
+      {
+        "title": "Passive - Spider Queen",
+        "items": [
+          "Passive Magic Damage On-Hit: 12 / 22 / 32 / 42 ⇒ 14 / 24 / 34 / 44"
+        ]
+      },
+      {
+        "title": "W - Skittering Frenzy",
+        "items": [
+          "Bonus Attack Speed: 60 / 75 / 90 / 105 / 120% ⇒ 70 / 85 / 100 / 115 / 130%"
+        ]
+      },
+      {
+        "title": "Base Stats",
+        "items": [
+          "Health Growth: 99 ⇒ 105"
+        ]
+      },
+      {
+        "title": "R - Grand Challenge",
+        "items": [
+          "Heal Range: 550 ⇒ 600",
+          "Heal Per Tick: 18.75 / 25 / 31.25 (+15% bonus AD) ⇒ 20 / 26.25 / 32.5 (+17.5% bonus AD)",
+          "Maximum Heal: 375 / 500 / 625 (+300% bonus AD) ⇒ 400 / 525 / 650 (+350% bonus AD)"
+        ]
+      },
+      {
+        "title": "Passive - Unseen Threat",
+        "items": [
+          "Damage: 17 - 136 (+50% bonus AD) ⇒ 22 - 141 (+50% bonus AD)"
+        ]
+      },
+      {
+        "title": "W - Void Spike",
+        "items": [
+          "Evolved Slow Duration: 2 seconds ⇒ 2.25 seconds"
+        ]
+      },
+      {
+        "title": "E - Leap",
+        "items": [
+          "Evolved Range Bonus: +200 ⇒ +300"
+        ]
+      },
+      {
+        "title": "Base Stats",
+        "items": [
+          "Armor: 22 ⇒ 24"
+        ]
+      },
+      {
+        "title": "R - Lilting Lullaby",
+        "items": [
+          "Sleep Duration: 2 seconds ⇒ 2.5 seconds"
+        ]
+      },
+      {
+        "title": "Passive - Vigilance",
+        "items": [
+          "Empowered On-Hit Damage: 15 (+20% AD) ⇒ 5 (+15% AD)"
+        ]
+      },
+      {
+        "title": "Q - Piercing Light",
+        "items": [
+          "Base Damage: 80 / 115 / 150 / 185 / 220 (+100% bonus AD) ⇒ 90 / 130 / 170 / 210 / 250 (+100% bonus AD)"
+        ]
+      },
+      {
+        "title": "Q - Alpha Strike",
+        "items": [
+          "Cooldown Refund on Hit: -1 second, scaling down with Ability Haste ⇒ 1 second"
+        ]
+      },
+      {
+        "title": "Q - Siphoning Strike",
+        "items": [
+          "Bonus Damage: 40 / 60 / 80 / 100 / 120 ⇒ 30 / 50 / 70 / 90 / 110"
+        ]
+      },
+      {
+        "title": "R - Paranoia",
+        "items": [
+          "Cooldown: 140 / 115 / 90 seconds ⇒ 160 / 130 / 100 seconds"
+        ]
+      },
+      {
+        "title": "Q - Hammer Shock",
+        "items": [
+          "Minion/Monster Maximum Health Cap: 85 / 120 / 155 / 190 / 225 ⇒ 70 / 105 / 140 / 175 / 210"
+        ]
+      },
+      {
+        "title": "Passive - Junkyard Titan",
+        "items": [
+          "Overheat Attack Speed: 50 - 130% ⇒ 30 - 100%",
+          "Monster Cap: 65 - 150 ⇒ 90 - 175"
+        ]
+      },
+      {
+        "title": "Base Stats",
+        "items": [
+          "Armor Growth: 4.2 ⇒ 4.7"
+        ]
+      },
+      {
+        "title": "Q - Overload",
+        "items": [
+          "Flux Bonus Damage: 25 / 50 / 75 / 100% increased damage ⇒ 15 / 40 / 65 / 90% increased damage"
+        ]
+      },
+      {
+        "title": "E - Spell Flux",
+        "items": [
+          "Mana Cost: 35 / 45 / 55 / 65 / 75 ⇒ 40 / 50 / 60 / 70 / 80"
+        ]
+      },
+      {
+        "title": "Base Stats",
+        "items": [
+          "Attack Damage: 63 + 3.5/Level ⇒ 61 + 3.9/Level"
+        ]
+      },
+      {
+        "title": "Passive - Blast Shield",
+        "items": [
+          "Shield: 12% Maximum Health ⇒ 10% Maximum Health"
+        ]
+      },
+      {
+        "title": "Passive - The Relentless Storm",
+        "items": [
+          "Attack Speed per Stack: 5% (+3% per 100 AP) ⇒ 5% (+4% per 100 AP)",
+          "Lightning On-Hit Damage: 11 - 60 (Levels 1-18) (+45% AP) ⇒ 11 - 60 (Levels 1-18) (+45% AP) (+20% bonus AD)"
+        ]
+      },
+      {
+        "title": "World Atlas and Runic Compass",
+        "items": [
+          "Health: 30 / 100 / 200 ⇒ 0 / 60 / 200",
+          "Health Regeneration: 25% / 50% / 75% ⇒ 50% / 75% / 75%"
+        ]
+      },
+      {
+        "title": "Teleport Cooldown",
+        "items": [
+          "Top Role Quest's Free Teleport Cooldown: 420 seconds ⇒ 390 seconds",
+          "Top Role Quest's Upgraded Unleashed Teleport Cooldown: 330 - 240 seconds ⇒ 300 - 210 seconds",
+          "Non-Top Unleashed Teleport Cooldown: 330 - 240 seconds ⇒ Unchanged"
+        ]
+      },
+      {
+        "title": "Champions",
+        "items": [
+          "Fizz can move through units and takes reduced damage from basic attacks.",
+          "Fizz dashes a fixed distance through an enemy, damaging them and applying on-hit effects.",
+          "Passive: Fizz's basic attacks deal additional damage over time, scaling with his target's missing health.",
+          "Active: For the next few seconds, Fizz's basic attacks deal bonus damage on-hit and apply Grievous Wounds for a few seconds, reducing healing by 50%.",
+          "First cast: Fizz hops up on his trident, becoming untargetable. After a short delay, he will crash down, damaging and slowing enemies around him.",
+          "Second cast: Fizz can hop off the trident early to dash farther but deal damage in a smaller area and doesn't slow.",
+          "Fizz throws out bait that clings onto the first enemy champion it hits. After a short delay, a mighty shark stalks its prey, dealing tons of damage, knocking up, and slowing enemies in the area.",
+          "While in combat, Graves gains stacking Armor and Magic Resist every second, up to a cap.",
+          "Graves fires out three bullets that damage all enemies in a line. Multiple hits on the same target deal reduced damage.",
+          "Graves launches a smoke grenade that damages, slows, and nearsights enemies in an area.",
+          "Graves dashes a short distance and gains bonus attack speed for several seconds. Basic attacks reduce Quickdraw's cooldown.",
+          "Graves fires an explosive shell that damages enemies in a line. It explodes on the first enemy champion hit, dealing reduced damage in a cone behind them.",
+          "Allies struck by Nami's abilities briefly gain bonus move speed.",
+          "Nami lobs a bubble that damages and stuns enemies where it lands.",
+          "Nami unleashes a stream of water that bounces, alternating between enemies and allies. Enemies take damage while allies are healed. Each bounce is less effective than the hit before it.",
+          "Nami empowers an ally, causing their next three attacks to deal bonus damage and slow their target.",
+          "Nami unleashes a massive tidal wave that damages, knocks up, and slows all enemies it crashes into.",
+          "Nautilus's basic attacks deal bonus damage and root their enemies. Each enemy can only be Staggered once every few seconds.",
+          "Nautilus throws out his anchor, colliding with the first enemy or piece of terrain it hits. Enemies are damaged and pulled in, while Nautilus pulls himself to his target. Hitting terrain refunds part of Dredge Line's cooldown.",
+          "Nautilus gains a shield. While it holds, his attacks deal damage over time to enemies in the area.",
+          "Nautilus slams the ground, sending out cascading shockwaves that damage and slow enemies. Enemies may be hit by multiple shockwaves, taking reduced damage for subsequent hits.",
+          "Nautilus fires a shockwave into the earth that damages and knocks up enemies in its path. When it reaches his target, it damages, knocks up, and stuns all enemies in the immediate area.",
+          "Energy Cost: 60 / 60 / 60 / 60 / 60 ⇒ 60 / 55 / 50 / 45 / 40",
+          "Cooldown: 7 / 6 / 5 / 4 / 3s ⇒ 5 / 4 / 3 / 2 / 1s",
+          "Ability Power Ratio: 30% ⇒ 40%",
+          "Bugfix: Fixed a bug where the reflected damage could be blocked by enemies in the way.",
+          "Damage: 160 / 330 / 500 (+115% bonus AD) ⇒ 125 / 255 / 385 (+85% bonus AD)",
+          "Maximum Single Target Damage: 320 / 660 / 1000 (+230% bonus AD) ⇒ 325 / 663 / 1001 (+221% bonus AD)",
+          "Cooldown: 130 / 120 / 110s ⇒ 150 / 130 / 110s",
+          "Damage Timing: Starts dealing damage 0.25s later into the animation.",
+          "Target Prioritization: Now always tries to prioritize unstruck enemies if possible.",
+          "Maximum Return Range: 1500 ⇒ 2500",
+          "Bugfix: Fixed a bug where Fiora could be locked out of attacking or moving for 2 seconds if her target immediately became untargetable.",
+          "Bugfix: Fixed a bug where the first heal was receiving the -20% heal reduction.",
+          "Cast Time: 0.4s ⇒ 0.25s",
+          "Missile Speed: 1200 ⇒ 1300",
+          "Missile Width: 60 ⇒ 160",
+          "Missile Range: 1100 ⇒ 1175",
+          "Bugfix: Fixed a bug where it was dealing 15 more damage than it should have.",
+          "Bugfix: Fixed a bug where it was applying the wrong VFX on its target.",
+          "Ability Power Ratio: 60% ⇒ 70%",
+          "Damage: 60 / 120 / 180 / 240 / 300 (+80% AP) ⇒ 80 / 130 / 180 / 230 / 280 (+70% AP)",
+          "Slow: 20 / 30 / 40 / 50 / 60% ⇒ 30 / 35 / 40 / 45 / 50%",
+          "Range: 600 ⇒ 700",
+          "Splash Damage: Now crits if the main attack does.",
+          "Activation: No longer interrupts Malphite's attack mid-swing.",
+          "Bugfix: Fixed a bug where it could slow Epic Monster attack speed.",
+          "Bugfix: Fixed a bug where Malphite could get locked out of casting Flash for too long.",
+          "Mana Cost: 70 / 85 / 100 / 115 / 130 ⇒ 80 / 100 / 120 / 140 / 160",
+          "Cooldown: 10s ⇒ 12s",
+          "Shield: 95 / 160 / 225 / 290 / 355 ⇒ 100 / 150 / 200 / 250 / 300",
+          "Cooldown: 120 / 110 / 100s ⇒ 120 / 120 / 120s",
+          "Vision: Now gives 250u of vision for 0.5s when cast.",
+          "Damage Duration: 4s ⇒ 2.5s. Total damage unchanged.",
+          "Attack Timer: Now resets Nidalee's basic attack timer.",
+          "Critical Strike: Now crits her total AD ratio if she crits.",
+          "Spellblade Damage: Now converts all Spellblade damage to magic.",
+          "Tooltip: Updated to clarify crit damage, damage cap, and the Spellblade interaction.",
+          "Maximum Duration Extension: 4 ⇒ 6",
+          "Bonus Resistances: 10 / 15 / 20 ⇒ 15 / 20 / 25, still doubled during dragon form.",
+          "Bonus Gold While Dead: Allies no longer gain bonus gold while Twisted Fate is dead.",
+          "Cooldown: 120 / 105 / 90 / 75 / 60s ⇒ 135 / 120 / 105 / 90 / 75s",
+          "Cooldown: 130 / 110 / 90s ⇒ 180 / 150 / 120s",
+          "Mana Cost: 150 ⇒ 150 / 125 / 100",
+          "Bonus Experience While Dead: No longer grants bonus XP while Zilean is dead.",
+          "Cast Visibility: Casting the spell now reveals Zilean if cast from fog of war.",
+          "Cast Range: 550 edge to edge (around 650 in practical use) ⇒ 700 center to center"
+        ]
+      },
+      {
+        "title": "Items",
+        "items": [
+          "Recipe: Cloak of Agility + Dagger. 1130 total cost.",
+          "Attack Speed: 20%",
+          "Critical Strike Chance: 20%",
+          "Unique Passive: 35% Tenacity, shared with Mercury's Treads, Zephyr, and Moonflair Spellblade.",
+          "Recipe: Seeker's Armguard + Negatron Cloak. 2300 total cost.",
+          "Ability Power: 50",
+          "Armor: 50",
+          "Magic Resistance: 50",
+          "Unique Passive: 35% Tenacity, shared with Mercury's Treads, Zephyr, and Cloak and Dagger.",
+          "Recipe: Chain Vest + Negatron Cloak + Rejuvenation Bead. 2700 total cost.",
+          "Armor: 50",
+          "Magic Resistance: 50",
+          "Health Regeneration: 5 per 5 seconds",
+          "Active: Place down a void gate for 150 seconds. Voidlings with decaying health periodically spawn and march down the nearest lane, damaging enemies in their path. 150-second cooldown."
+        ]
+      },
+      {
+        "title": "Systems",
+        "items": [
+          "Added more in-game negative behavior detections.",
+          "Updated in-game pings to use oldschool art.",
+          "Updated start-of-champion select visuals to make team and position more apparent.",
+          "Updated the loading screen to look more classic.",
+          "Improved visual clarity in The Council voting.",
+          "Added a new \"Recommended\" sort in the Runes store, making it easier for new players to identify good early-account runes."
+        ]
+      },
+      {
+        "title": "Bugfixes",
+        "items": [
+          "Fixed a bug where Janna's Tailwind could persist on allies for up to 5 seconds after death.",
+          "Fixed a bug where the Overview, Abilities, and Skins tabs in Classic champion profiles were misaligned and unclickable.",
+          "Fixed a bug where purchasing Royal Guard Fiora did not grant the associated Classic chroma.",
+          "Fixed a bug where Release Date sorting did not sort Classic Store runes from newest to oldest or oldest to newest.",
+          "Fixed a bug where Recommended was missing from the Classic Store Runes sort options.",
+          "Fixed a bug where Classic homepage images loaded when logging into a non-Classic mode tab.",
+          "Fixed a bug where the Imperial Classic chroma name was missing in Champion Select for Xin Zhao.",
+          "Fixed a bug where Runaan's Hurricane Volley could trigger minions' Call for Help when hitting enemy champions near minions.",
+          "Fixed a bug where Sona's Song of Celerity description incorrectly stated that its effect applied only to champions.",
+          "Fixed a bug where rapidly pressing Recall granted Guinsoo's Rageblade stacks.",
+          "Fixed a bug where Sivir's Spell Shield did not block damage from Miss Fortune's Double Up.",
+          "Fixed a bug where Tristana's Explosive Charge did not trigger its explosion when bonus damage killed a minion.",
+          "Fixed a bug where Release Date ascending and descending sorting had the same effect in Classic Collection portraits."
+        ]
+      },
+      {
+        "title": "Augments",
+        "items": [
+          "Drop Rate: Further reduced."
+        ]
+      },
+      {
+        "title": "Bugfixes",
+        "items": [
+          "Fixed a bug where Clown College used the wrong text color for true damage.",
+          "Fixed a bug where King Me had debug Augment name shoutouts, including Hellbent, Overloaded, Surge Field, and Spirit Bomb.",
+          "Fixed a bug where Mad Scientist granted both +30% Attack Damage and Ability Power instead of 30% Adaptive Force.",
+          "Fixed a bug where Multishot had extra quest step requirements for Nami's and Ezreal's ultimate abilities.",
+          "Fixed a bug where Yuumi could spam Bilgewater Cannon landing effects when she was attached to a unit.",
+          "Fixed a bug where Bursting Teeth did not trigger due to a per-target cooldown.",
+          "Fixed a bug where Bel'Veth's Q did not reset after using her ultimate when she had Ultimate Awakening.",
+          "Fixed a bug where Item Quest Progress broke when re-adding quest Augment offerings.",
+          "Fixed a bug where Vel'Koz's W did not get the correct refund with Skilled Sniper.",
+          "Fixed a bug where removing Upgrade Ravenous resulted in negative Life Steal for all your items."
+        ]
+      },
+      {
+        "title": "Aphelios",
+        "items": [
+          "Health Growth: 102 ⇒ 114",
+          "Attack Damage Growth: 2.3 ⇒ 3.3",
+          "Move Speed: 325 ⇒ 330"
+        ]
+      },
+      {
+        "title": "Bard",
+        "items": [
+          "Chimes per Upgrade: 4 ⇒ 3"
+        ]
+      },
+      {
+        "title": "Bel'Veth",
+        "items": [
+          "On-Hit/Attack Effectiveness: 12 - 24 ⇒ 8 - 16",
+          "Passive Bonus Attack Damage Ratio: 3 ⇒ 1"
+        ]
+      },
+      {
+        "title": "Dr. Mundo",
+        "items": [
+          "Active Minimum-Health Ratio: 5 ⇒ 4",
+          "Passive Health Ratio: 2 - 3.2 ⇒ 1.5 - 2.7"
+        ]
+      },
+      {
+        "title": "Elise",
+        "items": [
+          "Cooldown: 12 / 11.5 / 11 / 10.5 / 10s ⇒ 8 / 7.5 / 7 / 6.5 / 6s",
+          "Cooldown: 12s ⇒ 10s"
+        ]
+      },
+      {
+        "title": "Ezreal",
+        "items": [
+          "Refund: 1.5 ⇒ 2.5"
+        ]
+      },
+      {
+        "title": "Lee Sin",
+        "items": [
+          "Ability Power Ratio: 80% ⇒ 120%"
+        ]
+      },
+      {
+        "title": "Lillia",
+        "items": [
+          "Percentage Maximum Health: 4% ⇒ 3%"
+        ]
+      },
+      {
+        "title": "Locke",
+        "items": [
+          "Minimum Damage: 7.5 - 60 ⇒ 10 - 80",
+          "Maximum Damage: 15 - 120 ⇒ 20 - 160",
+          "Percentage per Stack: 0.5 ⇒ 1"
+        ]
+      },
+      {
+        "title": "Neeko",
+        "items": [
+          "Secondary-Hit Ability Power Ratio: 25% ⇒ 50%"
+        ]
+      },
+      {
+        "title": "Ornn",
+        "items": [
+          "Stat Discount: 100 ⇒ 75",
+          "Legendary Discount: 200 ⇒ 150"
+        ]
+      },
+      {
+        "title": "Rammus",
+        "items": [
+          "Cooldown: 11 / 9.5 / 8 / 6.5 / 5s ⇒ 12 / 10.5 / 9 / 7.5 / 6s"
+        ]
+      },
+      {
+        "title": "Rell",
+        "items": [
+          "Stat Steal: 3 - 15% ⇒ 2 - 10%"
+        ]
+      },
+      {
+        "title": "Sion",
+        "items": [
+          "Stacks per Round: 133 ⇒ 111"
+        ]
+      },
+      {
+        "title": "Veigar",
+        "items": [
+          "Stacks per Round: 12 ⇒ 10",
+          "Cooldown: 23 / 21.75 / 20.5 / 19.25 / 18s ⇒ 24 / 23 / 22 / 21 / 20s"
+        ]
+      },
+      {
+        "title": "Zed",
+        "items": [
+          "Bonus Attack Damage Ratio: 110% ⇒ 100%",
+          "Cooldown: 18 - 15s ⇒ 20 - 16s"
+        ]
+      },
+      {
+        "title": "Zeri",
+        "items": [
+          "Attack Damage Ratio: 102 - 110% ⇒ 107 - 115%",
+          "Refund: 0.75 ⇒ 1"
+        ]
+      },
+      {
+        "title": "Augments",
+        "items": [
+          "Whenever you cast an ability, refund the cooldown of another, randomly selected ability by 30% of the cast ability's cooldown.",
+          "Gain Ability Haste equal to 40% of your Critical Strike Chance.",
+          "Replacement: Replaces Flee.",
+          "Activate on a target champion to enter the Death Realm for 4 / 8 seconds. Entering the Death Realm causes you to become invisible for the first 2 seconds.",
+          "Cap Stone: At Max Level, killing your target grants your team another revive and delays the slain player's revive by 1 second.",
+          "Every 3 seconds spawn a nearby hot dog. This can be picked up by anyone, causing them to breathe fire.",
+          "Enemies who pick this up can damage their allies.",
+          "If you die while breathing fire, you explode, dealing magic damage per stack.",
+          "Hellbent: Upon taking lethal damage, you enter resurrection for 4 seconds, during which you are invulnerable, untargetable, and unable to act. Afterwards, you revive with 35 - 75% (based on level) of your maximum health with a 90-second cooldown. Additionally, you become empowered for the next 15 seconds, granting you 15 - 120 (based on level) bonus Attack Damage or 25 - 200 (based on level) Ability Power (Adaptive), 20% - 40% (based on level) bonus Move Speed while facing toward nearby enemy champions, and 15% - 30% (based on level) Omnivamp for the duration.",
+          "Upon consumption of the Essence, you gain 100% bonus Move Speed decaying over 2 seconds, heal yourself for 75 - 300 (based on level) (+50% bonus AD) (+25% AP), and reset the cooldowns of your basic abilities. The heal is increased by 0% - 100% (based on your missing health), for a maximum heal of 150 - 600 (based on level) (+100% bonus AD) (+50% AP).",
+          "At the end of the duration, a massive shark emerges from beneath you that lets out a powerful chomp in a 400 radius, dealing 120 - 350 (based on level) (+10 / 30% of the target's missing health) magic damage to all enemies within the area and knocking them up for 1 second.",
+          "While under the zombie state, you are able to move and become invulnerable, untargetable, and immune to crowd control, but you are also rendered unable to declare basic attacks, cast abilities, use summoner spells, and activate items.",
+          "At Max Level, everyone on your team will turn into a shark on death.",
+          "Aria of Perseverance: Heal yourself for 60 (+60% AP) and send out a tone to the most wounded allied champion within 1000 units that heals them for the same amount. Additionally, generate an aura that grants you and tagged allied champions an 80 (+40% AP) shield for 1.5 seconds.",
+          "Song of Celerity: Gain 30% bonus Move Speed for 7 seconds. If you take damage during this time, the duration ends prematurely once or if 3 seconds have elapsed. Additionally, generate an aura that grants tagged allied champions 20% bonus Move Speed for 3 seconds.",
+          "The missile effect cannot trigger from itself.",
+          "The zone lasts indefinitely as long as you stay within its radius.",
+          "If you leave the zone's radius for the first time, it moves to your current location.",
+          "Exiting the zone a second time causes it to disappear if you do not re-enter the area within 1.25 seconds.",
+          "Rank 1 Stacks Gained: 1",
+          "Rank 2 Stacks Gained: 2",
+          "Health Scaling Ratio: 350 ⇒ 450",
+          "Rarity: Prismatic ⇒ Gold",
+          "Rank 1 Damage Bonus: 10 - 30 ⇒ 5 - 25",
+          "Rank 2 Damage Bonus: 15 - 35 ⇒ 10 - 30",
+          "Rank 3 Damage Bonus: 20 - 40 ⇒ 15 - 35",
+          "Base Health Scaling: 15 ⇒ 25",
+          "Gold: 500 ⇒ 1000",
+          "Cooldown: 15 seconds ⇒ 10 seconds",
+          "Base Damage: 100 ⇒ 150"
+        ]
+      },
+      {
+        "title": "Systems",
+        "items": [
+          "Maximum Bonus Energy Regeneration: Up to 100% ⇒ Up to 400%"
+        ]
+      },
+      {
+        "title": "Guests of Honor",
+        "items": [
+          "When a team loses a round, spawn a brush at each of their locations. This brush lasts the rest of the game.",
+          "Opens up 3 portals to the Death Realm. Anyone can enter the portal to go to the Death Realm. While in the Death Realm, you can go through any of the portals to return to the living realm.",
+          "While downed, throw a lantern to your allies every few (8) seconds. This grants allies near the lantern a shield. Anyone can click the lantern to be pulled to the downed player."
+        ]
+      },
+      {
+        "title": "Bugfixes & QoL Changes",
+        "items": [
+          "Fixed a bug where Renata's R would not amp damage caused by Berserk targets.",
+          "Updated the Practice Tool Stack Item cheat to include: Dark Seal, Mejai's, Heartsteel, Gluttonous Greaves, and Force of Nature.",
+          "Fixed a bug where Taliyah's W terrain was smaller than the hitbox.",
+          "Fixed a bug where Yone's R warning VFX was not visible in very specific circumstances.",
+          "Fixed a bug where Yunara's auto resets would not extend Hail of Blades appropriately.",
+          "Fixed a bug where Renekton would not gain 20 fury from his ult when it was cast immediately after W.",
+          "Fixed a bug where Nunu & Willump could unlock his camera during W.",
+          "Fixed a bug where clones would not receive Homeguards after running back to the fountain",
+          "Fixed a bug where Target Champions Only could be toggled on unexpectedly",
+          "Fixed a bug where Camille's W would count as two hits when triggering bone plating.",
+          "Fixed a bug where Camille's Passive would sometimes not proc Shield Bash.",
+          "Fixed a bug where Aatrox Q sweetspots use crit text instead of enhanced damage text."
+        ]
+      }
+    ],
+    "raw_text": "We're soon coming up on the Worlds patch (which is the patch after this one), so our first round of pro-focused Summoner's Rift changes are coming up here. We've identified some potential fringe picks for the tournament that could also provide some normal play variety without becoming disruptive with a nudge up in power, and knocking some individual meta outliers as well (and also Nasus). Systemically, the top lane role quest has been quite successful at freeing up top laners to skip Teleport, so we think increasing their map influence through that spell (both if you take it from the start of game or just through the quest) is a fair place to give the role some power.Looking for more information on all things League of Legends? Check out our community-run wiki here!Wrong patch notes? You can find the TFT patch notes here! Austin \"Riot wroadie\" Wright Erika \"Riot Cashmiir\" Haas Steven \"Riot sternest\" EarnestPatch HighlightsCoven Janna, Coven Mel, Old God Anivia, Old God Urgot will be available September 23, 2026.Team VoiceFirst up, we wanted to share an update on the rollout of Team Voice, which is our planned expansion to the existing pre-made party voice chat allowing you to chat with everyone on your team. While we originally announced this as coming to North America and Oceania in Patch 26.20, after extensive testing, we've made the call to postpone this a bit to make sure we're hitting the quality bar you deserve for the experience. We don't have a target patch just yet, but we're prioritizing ironing out the kinks as efficiently as we can, since we know this is a long awaited feature we need to get right.ChampionsAatroxWe think The Darkin Blade has lost a fair bit of power with Sundered Sky nerfs that were aimed more at opening up the jungle meta, so we are giving him a bump so he remains a world-ending threat.W - Infernal ChainsCooldown: 20 / 18 / 16 / 14 / 12 seconds ⇒ 18 / 16.5 / 15 / 13.5 / 12 secondsE - Umbral DashHealth Heal Ratio: 1.1% per 100 bonus health ⇒ 1.3% per 100 bonus healthApheliosAphelios has been kiting the spotlight for a while now, even though he's a hypercarry in an enchanter meta that should favor him, so we're looking to give him a little boost to encourage him to get out of his comfort zone.CalibrumMoonshot Damage: 70 - 160 (+42 - 60% bonus AD) (+100% AP) ⇒ 80 - 170 (+42 - 60% bonus AD) (+100% AP)SeverumHealing: 2 - 7.1%, increased to 5 - 17.75% ⇒ 2 - 8%, increased to 5 - 20%GravitumSlow: 30% for 2.5 seconds, decaying to 10% after 0.7 seconds ⇒ 30% for 2.5 seconds, decaying to 15% after 0.7 secondsInfernumDuskwave Cooldown: 9 / 8.25 / 7.5 / 6.75 / 6 seconds ⇒ 8 / 7.25 / 6.5 / 5.75 / 5 secondsCrescendumMini-Crescendum Damage: 15% AD, decreasing by 1.5% AD to a minimum of 5% AD for the 8th+ chakram ⇒ 16% AD, decreasing by 1.5% AD to a minimum of 5% AD for the 9th+ chakramAuroraDespite not receiving any changes since last year, Aurora has fallen off as we've had to nerf Rocketbelt into a fairer state. We're giving our favorite Bryni a bit more power in her waveclear and outplay potential with her ultimate.E - The WeirdingBase Damage: 70 / 110 / 150 / 190 / 230 ⇒ 80 / 120 / 160 / 200 / 240R - Between WorldsRift Duration: 1.75 / 2.5 / 3.25 seconds ⇒ 2.25 / 2.75 / 3.25 secondsDravenSince all bot laners received significantly increased gold income thanks to role quests, Draven's potential to gain a gold advantage through his Adoration stacks has lost some of its impact. We're giving him a helping hand (axe?) by tapping up his early game damage.Base StatsAttack Damage: 62 ⇒ 64EliseThis year started strong for AP junglers that could use Dusk and Dawn, but others like Elise have been in a weak spot for a while, so we are helping out our friendly neighborhood spider with clear speed and damage.Passive - Spider QueenPassive Magic Damage On-Hit: 12 / 22 / 32 / 42 ⇒ 14 / 24 / 34 / 44W - Skittering FrenzyBonus Attack Speed: 60 / 75 / 90 / 105 / 120% ⇒ 70 / 85 / 100 / 115 / 130%FioraOur Grand Duelist has room to shine a bit more when she succeeds after finding her opening, without giving her sharper 1v1 tools.Base StatsHealth Growth: 99 ⇒ 105R - Grand ChallengeHeal Range: 550 ⇒ 600Heal Per Tick: 18.75 / 25 / 31.25 (+15% bonus AD) ⇒ 20 / 26.25 / 32.5 (+17.5% bonus AD)Maximum Heal: 375 / 500 / 625 (+300% bonus AD) ⇒ 400 / 525 / 650 (+350% bonus AD)Kha'ZixKha'Zix has been on the fringe of the meta now that the jungle is no longer dominated by Sundered Sky users. We are taking this opportunity to buff some of his weaker evolves to give him the flexibility to adapt and overcome.Passive - Unseen ThreatDamage: 17 - 136 (+50% bonus AD) ⇒ 22 - 141 (+50% bonus AD)W - Void SpikeEvolved Slow Duration: 2 seconds ⇒ 2.25 secondsE - LeapEvolved Range Bonus: +200 ⇒ +300LilliaLillia is on the edge of being viable at higher levels of play and we believe her current pattern requires her to get in danger's way, so we're helping her durability. We also want to give Lillia opportunities to really be a playmaker so we're making the enemies she lullabies a little extra sleepy.Base StatsArmor: 22 ⇒ 24R - Lilting LullabySleep Duration: 2 seconds ⇒ 2.5 secondsLucianYears ago, we added the Vigilance Passive so Lucian bot players didn't feel like their champ was being nerfed because of mid laners, which ended up being super effective. We think now is a good opportunity to adjust the tuning of the passive and strike a balance between both roles.Passive - VigilanceEmpowered On-Hit Damage: 15 (+20% AD) ⇒ 5 (+15% AD)Q - Piercing LightBase Damage: 80 / 115 / 150 / 185 / 220 (+100% bonus AD) ⇒ 90 / 130 / 170 / 210 / 250 (+100% bonus AD)Master YiSomewhat overdue, but because Duskblade was removed a while ago, we're removing the Ability Haste penalty we had to apply to his Q CDR mechanic. This should have minimal impact on Summoner's Rift, but we see you Mayhem and Arena!Q - Alpha StrikeCooldown Refund on Hit: -1 second, scaling down with Ability Haste ⇒ 1 secondNasusNasus is difficult to keep down these days, and part of that is how quickly getting his early stacks leads to more reliable stacking. These higher highs will be compensated with some lower lows through some more vulnerability early on with lower damage and lifesteal lane sustain values off of that, and a bit longer before he really comes online.Q - Siphoning StrikeBonus Damage: 40 / 60 / 80 / 100 / 120 ⇒ 30 / 50 / 70 / 90 / 110NocturneNocturne has been a popular and powerful jungler in both pro and solo-queue for a while, so we're hitting the map presence and dueling power he benefits from through his ultimate.R - ParanoiaCooldown: 140 / 115 / 90 seconds ⇒ 160 / 130 / 100 secondsPoppyPoppy's flex potential and jungle presence has been a bit problematic, suppressing many champions across the board as a strong counterpick. For this change, we're targeting her flexibility by reverting a previous buff to jungle clear.Q - Hammer ShockMinion/Monster Maximum Health Cap: 85 / 120 / 155 / 190 / 225 ⇒ 70 / 105 / 140 / 175 / 210RumbleAt higher levels of play, we've seen Rumble continue to take over games, even after our changes earlier this year designed to hit his power in lane. Here, we're making some modifications to his passive that's much more elite-skewed, while giving Rumble in the Jungle some compensation.Passive - Junkyard TitanOverheat Attack Speed: 50 - 130% ⇒ 30 - 100%Monster Cap: 65 - 150 ⇒ 90 - 175RyzeBetween strong itemization options and best-in-class skirmish and roam potential demonstrated by his most skilled players, it's high time we put some restraints on the archmage, while giving him some help with bad solo queue matchups.Base StatsArmor Growth: 4.2 ⇒ 4.7Q - OverloadFlux Bonus Damage: 25 / 50 / 75 / 100% increased damage ⇒ 15 / 40 / 65 / 90% increased damageE - Spell FluxMana Cost: 35 / 45 / 55 / 65 / 75 ⇒ 40 / 50 / 60 / 70 / 80ViVi has been a meta staple for the entire year, and now that Sundered Sky is in a better spot, we're going after her durability and early clear speed to make her a riskier pick who can still bring the pain if you are willing to build for it.Base StatsAttack Damage: 63 + 3.5/Level ⇒ 61 + 3.9/LevelPassive - Blast ShieldShield: 12% Maximum Health ⇒ 10% Maximum HealthVolibearThis year we've been carefully buffing up AD Volibear, but he remains on the weak side even with his very unique AP build. We're tuning him up to help him out across both the fringe AD build and his core AP build.Passive - The Relentless StormAttack Speed per Stack: 5% (+3% per 100 AP) ⇒ 5% (+4% per 100 AP)Lightning On-Hit Damage: 11 - 60 (Levels 1-18) (+45% AP) ⇒ 11 - 60 (Levels 1-18) (+45% AP) (+20% bonus AD)ItemsWorld Atlas and Runic CompassWe think melee supports have too much of their power in roaming and all-ins and are too weak in sustained laning. In response, we're shifting the flat health to health regen on World Atlas and Runic Compass, which will benefit them more due to their higher base health regen values.Health: 30 / 100 / 200 ⇒ 0 / 60 / 200Health Regeneration: 25% / 50% / 75% ⇒ 50% / 75% / 75%SystemsTeleport CooldownAs the meta has continued to adjust to role quests, it's become clear that top lane is slightly weak, especially for split pushing. We're in turn buffing the cooldown of both the free role quest Teleport and upgraded Unleashed Teleport to promote those alternative strategies.Top Role Quest's Free Teleport Cooldown: 420 seconds ⇒ 390 secondsTop Role Quest's Upgraded Unleashed Teleport Cooldown: 330 - 240 seconds ⇒ 300 - 210 secondsNon-Top Unleashed Teleport Cooldown: 330 - 240 seconds ⇒ UnchangedClassicWe've got our third big champion \"drop\" this patch (get it? They're water-themed) with four fresh faces and the highlight is a long-lost favorite, Graves! We've also got our first set of actions from the previous Council poll. Welcome back, Cloak and Dagger, Moonflair Spellblade, and Zz'Rot Portal. Our fourth patch for Classic also contains more bugfixing, balance changes, and client quality. Check out those sweet new rune effects when you socket them in!Champions NEW FizzFizz came out back in 2011 and was finally reworked in late 2016. Though many of you remember all his buttons being in the same place, he's got a missing HP bleed on his W passive, so maybe build a Sunfire Cape or two?Passive - Nimble FighterFizz can move through units and takes reduced damage from basic attacks.Q - Urchin StrikeFizz dashes a fixed distance through an enemy, damaging them and applying on-hit effects.W - Seastone TridentPassive: Fizz's basic attacks deal additional damage over time, scaling with his target's missing health.Active: For the next few seconds, Fizz's basic attacks deal bonus damage on-hit and apply Grievous Wounds for a few seconds, reducing healing by 50%.E - Playful/TricksterFirst cast: Fizz hops up on his trident, becoming untargetable. After a short delay, he will crash down, damaging and slowing enemies around him.Second cast: Fizz can hop off the trident early to dash farther but deal damage in a smaller area and doesn't slow.R - Chum the WatersFizz throws out bait that clings onto the first enemy champion it hits. After a short delay, a mighty shark stalks its prey, dealing tons of damage, knocking up, and slowing enemies in the area. NEW GravesWelcome back, pre-rework Graves! This version from 2011-2015 is a true-to-live bot lane ADC, rewarded for long duration fights and deadly burst damage against short-range enemies. Careful though, his bonus resists take time to stack up, so assassins can still jump you in the jungle.Passive - True GritWhile in combat, Graves gains stacking Armor and Magic Resist every second, up to a cap.Q - BuckshotGraves fires out three bullets that damage all enemies in a line. Multiple hits on the same target deal reduced damage.W - SmokescreenGraves launches a smoke grenade that damages, slows, and nearsights enemies in an area.E - QuickdrawGraves dashes a short distance and gains bonus attack speed for several seconds. Basic attacks reduce Quickdraw's cooldown.R - Collateral DamageGraves fires an explosive shell that damages enemies in a line. It explodes on the first enemy champion hit, dealing reduced damage in a cone behind them. NEW NamiNami is back in action and not much has changed since her release in 2013. For those of you coming right from the modern game, her E buff is attack-only, so the modern Nami-Karthus synergy is gone.Passive - Surging TidesAllies struck by Nami's abilities briefly gain bonus move speed.Q - Aqua PrisonNami lobs a bubble that damages and stuns enemies where it lands.W - Ebb and FlowNami unleashes a stream of water that bounces, alternating between enemies and allies. Enemies take damage while allies are healed. Each bounce is less effective than the hit before it.E - Tidecaller's BlessingNami empowers an ally, causing their next three attacks to deal bonus damage and slow their target.R - Tidal WaveNami unleashes a massive tidal wave that damages, knocks up, and slows all enemies it crashes into. NEW NautilusNautilus came out back in 2012 and as with Nami, his kit has stood the test of time. Remember that you can buy multiple Doran's Rings if you want your laning phase to work out, and he used to be quite the jungler back in the day. The biggest difference you'll find is that his ultimate is much less disruptive to targets hit by the traveling portion.Passive - Staggering BlowNautilus's basic attacks deal bonus damage and root their enemies. Each enemy can only be Staggered once every few seconds.Q - Dredge LineNautilus throws out his anchor, colliding with the first enemy or piece of terrain it hits. Enemies are damaged and pulled in, while Nautilus pulls himself to his target. Hitting terrain refunds part of Dredge Line's cooldown.W - Titan's WrathNautilus gains a shield. While it holds, his attacks deal damage over time to enemies in the area.E - RiptideNautilus slams the ground, sending out cascading shockwaves that damage and slow enemies. Enemies may be hit by multiple shockwaves, taking reduced damage for subsequent hits.R - Depth ChargeNautilus fires a shockwave into the earth that damages and knocks up enemies in its path. When it reaches his target, it damages, knocks up, and stuns all enemies in the immediate area.AkaliAs the dust has settled, Akali appears weak, so we're swinging by for some buffs. Crescent Slash can feel like it's a waste of energy, so we're both improving its late-game energy efficiency and its overall DPS, which are buffs from 2012 and 2015, respectively.E - Crescent SlashEnergy Cost: 60 / 60 / 60 / 60 / 60 ⇒ 60 / 55 / 50 / 45 / 40Cooldown: 7 / 6 / 5 / 4 / 3s ⇒ 5 / 4 / 3 / 2 / 1sAbility Power Ratio: 30% ⇒ 40%FioraFiora is doing far too well, so it's nerf time. First up, we're fixing several bugs and implementation mismatches compared to her 3.11 version, which is why you're seeing some low-impact changes here. For her balance, we're pulling in an adjustment from 2014 and reverting a buff from 2012. The change to her ultimate will deal similar damage to a single isolated target but weaken her AoE teamfighting.W - RiposteBugfix: Fixed a bug where the reflected damage could be blocked by enemies in the way.R - Blade WaltzDamage: 160 / 330 / 500 (+115% bonus AD) ⇒ 125 / 255 / 385 (+85% bonus AD)Maximum Single Target Damage: 320 / 660 / 1000 (+230% bonus AD) ⇒ 325 / 663 / 1001 (+221% bonus AD)Cooldown: 130 / 120 / 110s ⇒ 150 / 130 / 110sDamage Timing: Starts dealing damage 0.25s later into the animation.Target Prioritization: Now always tries to prioritize unstruck enemies if possible.Maximum Return Range: 1500 ⇒ 2500Bugfix: Fixed a bug where Fiora could be locked out of attacking or moving for 2 seconds if her target immediately became untargetable.GalioWhile Fiora landed as pretty much the strongest champion in the game, Galio is arguably the weakest. We're delivering a huge swath of buffs and some bugfixes for his initial state.W - BulwarkBugfix: Fixed a bug where the first heal was receiving the -20% heal reduction.E - Righteous GustCast Time: 0.4s ⇒ 0.25sMissile Speed: 1200 ⇒ 1300Missile Width: 60 ⇒ 160Missile Range: 1100 ⇒ 1175Bugfix: Fixed a bug where it was dealing 15 more damage than it should have.Bugfix: Fixed a bug where it was applying the wrong VFX on its target.KassadinAs we've buffed up the bottom end of the mid lane pool, Kassadin has wound up as the actual worst-performing mid laner. Our primary buff is increasing his Riftwalk range. Instead of using his formerly Dominion-only 600 max range, he's regaining his full Summoner's Rift 700 range Riftwalk. We're also shipping adjustments that adhere more closely to his tuning during Worlds 2013.Q - Null SphereAbility Power Ratio: 60% ⇒ 70%E - Force PulseDamage: 60 / 120 / 180 / 240 / 300 (+80% AP) ⇒ 80 / 130 / 180 / 230 / 280 (+70% AP)Slow: 20 / 30 / 40 / 50 / 60% ⇒ 30 / 35 / 40 / 45 / 50%R - RiftwalkRange: 600 ⇒ 700MalphiteWe've got a few historical-accuracy changes and bugfixes for Malphite this patch. Crit AD Malphite now has sweet AoE damage and he no longer halves Dragon's attack speed. Infinity Edge is calling to you.W - Brutal StrikesSplash Damage: Now crits if the main attack does.Activation: No longer interrupts Malphite's attack mid-swing.E - Ground SlamBugfix: Fixed a bug where it could slow Epic Monster attack speed.R - Unstoppable ForceBugfix: Fixed a bug where Malphite could get locked out of casting Flash for too long.MorganaMorgana is one of the strongest mid laners in the game and is a little too good in support as well, so we're pushing in some mid-skewed nerfs by reverting some of her 2010-2012 era buffs and adjustments.W - Tormented SoilMana Cost: 70 / 85 / 100 / 115 / 130 ⇒ 80 / 100 / 120 / 140 / 160Cooldown: 10s ⇒ 12sE - Black ShieldShield: 95 / 160 / 225 / 290 / 355 ⇒ 100 / 150 / 200 / 250 / 300R - Soul ShacklesCooldown: 120 / 110 / 100s ⇒ 120 / 120 / 120sNidaleeWe're putting in a few more historical-accuracy changes for Nidalee this patch. There won't be a huge power gain here, but it will allow oldschool expert Nidalee players to activate their old combos.W - BushwhackVision: Now gives 250u of vision for 0.5s when cast.Damage Duration: 4s ⇒ 2.5s. Total damage unchanged.R - Aspect of the CougarAttack Timer: Now resets Nidalee's basic attack timer.PoppyPoppy re-released fairly balanced but had a few bugs and oversights in her scripts. Both of these changes represent period-accurate power to Season Three and constitute small buffs.Q - Devastating BlowCritical Strike: Now crits her total AD ratio if she crits.Spellblade Damage: Now converts all Spellblade damage to magic.Tooltip: Updated to clarify crit damage, damage cap, and the Spellblade interaction.ShyvanaShyvana isn't doing too hot, so it's time for buffs. We're leading with a revert of some nerfs from 2012, which should help her stay in step with her opponents.W - BurnoutMaximum Duration Extension: 4 ⇒ 6R - Dragon's DescentBonus Resistances: 10 / 15 / 20 ⇒ 15 / 20 / 25, still doubled during dragon form.Twisted FateTwisted Fate is too good in both mid and support, so it's nerf time. As support is the better-performing role, we're lowering his map-wide omnipresence and frontloading the nerfs. These nerfs come in the form of patch 3.7's Destiny cooldown and 1.0.0.75's Gate cooldown, the last time it was ever its own spell. We're also matching his passive's behavior with other global passives: It's disabled while he's dead.Passive - Loaded DiceBonus Gold While Dead: Allies no longer gain bonus gold while Twisted Fate is dead.E - GateCooldown: 120 / 105 / 90 / 75 / 60s ⇒ 135 / 120 / 105 / 90 / 75sR - DestinyCooldown: 130 / 110 / 90s ⇒ 180 / 150 / 120sMana Cost: 150 ⇒ 150 / 125 / 100ZileanZilean has some small anachronisms in his cast paradigms and ability functionality, which we're fixing this patch.Passive - Heightened LearningBonus Experience While Dead: No longer grants bonus XP while Zilean is dead.Q - Time BombCast Visibility: Casting the spell now reveals Zilean if cast from fog of war.E - Time WarpCast Range: 550 edge to edge (around 650 in practical use) ⇒ 700 center to centerItems NEW Cloak and DaggerRecipe: Cloak of Agility + Dagger. 1130 total cost.Attack Speed: 20%Critical Strike Chance: 20%Unique Passive: 35% Tenacity, shared with Mercury's Treads, Zephyr, and Moonflair Spellblade. NEW Moonflair SpellbladeRecipe: Seeker's Armguard + Negatron Cloak. 2300 total cost.Ability Power: 50Armor: 50Magic Resistance: 50Unique Passive: 35% Tenacity, shared with Mercury's Treads, Zephyr, and Cloak and Dagger. NEW Zz'Rot PortalRecipe: Chain Vest + Negatron Cloak + Rejuvenation Bead. 2700 total cost.Armor: 50Magic Resistance: 50Health Regeneration: 5 per 5 secondsActive: Place down a void gate for 150 seconds. Voidlings with decaying health periodically spawn and march down the nearest lane, damaging enemies in their path. 150-second cooldown.SystemsCouncil VoteWelcome to our second League Classic community poll! This time around, we want your feedback on six specific areas, including which champion's kit we prioritize restoring next. Head over to \"The Council\" tab in the League client to cast your votes! Voting will be open for seven days and you're free to update your answers while the poll is active. And keep an eye out, as poll results will be published in the next Patch Notes. In case you missed it, we previously posted the results of our inaugural Council vote in the Patch 26.18 Notes, and some of those results are starting to go to live, including the three items you voted to revive in this patch!MiscellaneousAdded more in-game negative behavior detections.Updated in-game pings to use oldschool art.Updated start-of-champion select visuals to make team and position more apparent.Updated the loading screen to look more classic.Improved visual clarity in The Council voting.Added a new \"Recommended\" sort in the Runes store, making it easier for new players to identify good early-account runes.BugfixesFixed a bug where Janna's Tailwind could persist on allies for up to 5 seconds after death.Fixed a bug where the Overview, Abilities, and Skins tabs in Classic champion profiles were misaligned and unclickable.Fixed a bug where purchasing Royal Guard Fiora did not grant the associated Classic chroma.Fixed a bug where Release Date sorting did not sort Classic Store runes from newest to oldest or oldest to newest.Fixed a bug where Recommended was missing from the Classic Store Runes sort options.Fixed a bug where Classic homepage images loaded when logging into a non-Classic mode tab.Fixed a bug where the Imperial Classic chroma name was missing in Champion Select for Xin Zhao.Fixed a bug where Runaan's Hurricane Volley could trigger minions' Call for Help when hitting enemy champions near minions.Fixed a bug where Sona's Song of Celerity description incorrectly stated that its effect applied only to champions.Fixed a bug where rapidly pressing Recall granted Guinsoo's Rageblade stacks.Fixed a bug where Sivir's Spell Shield did not block damage from Miss Fortune's Double Up.Fixed a bug where Tristana's Explosive Charge did not trigger its explosion when bonus damage killed a minion.Fixed a bug where Release Date ascending and descending sorting had the same effect in Classic Collection portraits.ARAM: MayhemHello Mayhemers! In this patch, we're focusing on bugfixes and small quality-of-life improvements. We're continuing to assess Augment offerings so that each Augment you're offered feels like a reasonable and meaningful option for your champion. For balance, High Roller has caught our attention for how powerful it can be when picked up early in the game. We're giving it another nerf to bring down some of that early snowballing potential. See you on the Bridge!AugmentsHigh RollerDrop Rate: Further reduced.BugfixesFixed a bug where Clown College used the wrong text color for true damage.Fixed a bug where King Me had debug Augment name shoutouts, including Hellbent, Overloaded, Surge Field, and Spirit Bomb.Fixed a bug where Mad Scientist granted both +30% Attack Damage and Ability Power instead of 30% Adaptive Force.Fixed a bug where Multishot had extra quest step requirements for Nami's and Ezreal's ultimate abilities.Fixed a bug where Yuumi could spam Bilgewater Cannon landing effects when she was attached to a unit.Fixed a bug where Bursting Teeth did not trigger due to a per-target cooldown.Fixed a bug where Bel'Veth's Q did not reset after using her ultimate when she had Ultimate Awakening.Fixed a bug where Item Quest Progress broke when re-adding quest Augment offerings.Fixed a bug where Vel'Koz's W did not get the correct refund with Skilled Sniper.Fixed a bug where removing Upgrade Ravenous resulted in negative Life Steal for all your items.ArenaWe've got something special for this Arena patch. We've created three Guests of Honor, brought over ten Augments from Mayhem, and we've got two brand-new Augments (Death Dealer and Got That Dog In Em) created in collaboration with the champions, VestionOCE and SoyJamiie, from the For The Win Creator Invitational we held in Season 2! For balance, we're tapping down the power level of some of the strongest and most consistent champions while buffing up some who were struggling. We've also targeted some of the strongest and weakest Augments to bring them closer into line so there's a little bit more freedom of choice.ChampionsApheliosBase StatsHealth Growth: 102 ⇒ 114Attack Damage Growth: 2.3 ⇒ 3.3Move Speed: 325 ⇒ 330BardPassive - Traveler's CallChimes per Upgrade: 4 ⇒ 3Bel'VethE - Royal MaelstromOn-Hit/Attack Effectiveness: 12 - 24 ⇒ 8 - 16R - Endless BanquetPassive Bonus Attack Damage Ratio: 3 ⇒ 1Dr. MundoE - Blunt Force TraumaActive Minimum-Health Ratio: 5 ⇒ 4Passive Health Ratio: 2 - 3.2 ⇒ 1.5 - 2.7EliseE - CocoonCooldown: 12 / 11.5 / 11 / 10.5 / 10s ⇒ 8 / 7.5 / 7 / 6.5 / 6sW - Skittering FrenzyCooldown: 12s ⇒ 10sEzrealQ - Mystic ShotRefund: 1.5 ⇒ 2.5Lee SinW - SafeguardAbility Power Ratio: 80% ⇒ 120%LilliaPassive - Dream-Laden BoughPercentage Maximum Health: 4% ⇒ 3%LockePassive - Silver StakeMinimum Damage: 7.5 - 60 ⇒ 10 - 80Maximum Damage: 15 - 120 ⇒ 20 - 160R - PurgatoryPercentage per Stack: 0.5 ⇒ 1NeekoQ - Blooming BurstSecondary-Hit Ability Power Ratio: 25% ⇒ 50%OrnnPassive - Living ForgeStat Discount: 100 ⇒ 75Legendary Discount: 200 ⇒ 150RammusQ - PowerballCooldown: 11 / 9.5 / 8 / 6.5 / 5s ⇒ 12 / 10.5 / 9 / 7.5 / 6sRellPassive - Break The MoldStat Steal: 3 - 15% ⇒ 2 - 10%SionPassive - Glory in DeathStacks per Round: 133 ⇒ 111VeigarPassive - Phenomenal Evil PowerStacks per Round: 12 ⇒ 10E - Event HorizonCooldown: 23 / 21.75 / 20.5 / 19.25 / 18s ⇒ 24 / 23 / 22 / 21 / 20sZedQ - Razor ShurikenBonus Attack Damage Ratio: 110% ⇒ 100%W - Living ShadowCooldown: 18 - 15s ⇒ 20 - 16sZeriQ - Burst FireAttack Damage Ratio: 102 - 110% ⇒ 107 - 115%E - Spark SurgeRefund: 0.75 ⇒ 1Augments NEW ArchmageWhenever you cast an ability, refund the cooldown of another, randomly selected ability by 30% of the cast ability's cooldown. NEW Crit N CastGain Ability Haste equal to 40% of your Critical Strike Chance. NEW Death DealerReplacement: Replaces Flee.Activate on a target champion to enter the Death Realm for 4 / 8 seconds. Entering the Death Realm causes you to become invisible for the first 2 seconds.Cap Stone: At Max Level, killing your target grants your team another revive and delays the slain player's revive by 1 second. NEW Got That Dog In EmEvery 3 seconds spawn a nearby hot dog. This can be picked up by anyone, causing them to breathe fire.Enemies who pick this up can damage their allies.If you die while breathing fire, you explode, dealing magic damage per stack. NEW HellbentGenerate a stack of Revivemaxxing for each enemy champion you hit with basic attacks or abilities, lasting for 6 seconds, refreshing on subsequent hits, and stacking up to 10 times. At maximum stacks, you become Hellbent.Hellbent: Upon taking lethal damage, you enter resurrection for 4 seconds, during which you are invulnerable, untargetable, and unable to act. Afterwards, you revive with 35 - 75% (based on level) of your maximum health with a 90-second cooldown. Additionally, you become empowered for the next 15 seconds, granting you 15 - 120 (based on level) bonus Attack Damage or 25 - 200 (based on level) Ability Power (Adaptive), 20% - 40% (based on level) bonus Move Speed while facing toward nearby enemy champions, and 15% - 30% (based on level) Omnivamp for the duration. NEW Nature Is HealingUpon entering a patch of brush, you are healed for 40 - 300 (based on level) (+15% of your missing health) over 1.5 seconds. This has a 10-second cooldown per brush patch. NEW Rite of AscensionScoring a takedown against an enemy champion within 3 seconds of damaging them causes them to leave behind their Essence for 8 seconds. You can basic attack the Essence within 400 units to consume it, causing you to blink to its location after winding up for 1.25 seconds, during which you are untargetable, displacement immune, and unable to act.Upon consumption of the Essence, you gain 100% bonus Move Speed decaying over 2 seconds, heal yourself for 75 - 300 (based on level) (+50% bonus AD) (+25% AP), and reset the cooldowns of your basic abilities. The heal is increased by 0% - 100% (based on your missing health), for a maximum heal of 150 - 600 (based on level) (+100% bonus AD) (+50% AP). NEW Shark BaitUpon taking fatal damage, you become a Shark Bait, causing you to enter a zombie state for 3.5 seconds, during which your Move Speed is set to a static 400, you gain Ghosting, and enemies within 400 units of you are slowed by 40%.At the end of the duration, a massive shark emerges from beneath you that lets out a powerful chomp in a 400 radius, dealing 120 - 350 (based on level) (+10 / 30% of the target's missing health) magic damage to all enemies within the area and knocking them up for 1 second.While under the zombie state, you are able to move and become invulnerable, untargetable, and immune to crowd control, but you are also rendered unable to declare basic attacks, cast abilities, use summoner spells, and activate items.At Max Level, everyone on your team will turn into a shark on death. NEW SonataAlternate between automatically casting a modified version of Sona's Aria of Perseverance and modified Song of Celerity, with the former being cast first on a 7.5-second cooldown.Aria of Perseverance: Heal yourself for 60 (+60% AP) and send out a tone to the most wounded allied champion within 1000 units that heals them for the same amount. Additionally, generate an aura that grants you and tagged allied champions an 80 (+40% AP) shield for 1.5 seconds.Song of Celerity: Gain 30% bonus Move Speed for 7 seconds. If you take damage during this time, the duration ends prematurely once or if 3 seconds have elapsed. Additionally, generate an aura that grants tagged allied champions 20% bonus Move Speed for 3 seconds. NEW Surge FieldUpon casting your ultimate ability, you spawn a surge zone beneath you that has a 300 radius. While you are within the zone, you gain 50 Ability Haste and 40% bonus Move Speed, and your damage dealt to enemy champions fires missiles at them that deal 20% of the triggering damage instance pre-mitigation as bonus magic damage.The missile effect cannot trigger from itself.The zone lasts indefinitely as long as you stay within its radius.If you leave the zone's radius for the first time, it moves to your current location.Exiting the zone a second time causes it to disappear if you do not re-enter the area within 1.25 seconds. NEW Titan's ResolveDealing and receiving champion damage grants you 1 stack of Juggernauting for 6 seconds. For every 10 stacks of Juggernauting you gain 25-75 Adaptive Force, 5-10 Armor and Magic Resist, Size, and 8% Tenacity.Rank 1 Stacks Gained: 1Rank 2 Stacks Gained: 2 NEW Warlock JuiceboxGain Omnivamp based on your Ability Power. NEW Wee Woo Wee WooGain up to 50% Move Speed toward nearby allies based on their missing Health. Your healing and shielding are also increased up to 50% based on the target's missing Health.Angel of RetributionHealth Scaling Ratio: 350 ⇒ 450Chroma FluxRarity: Prismatic ⇒ GoldGiant SlayerRank 1 Damage Bonus: 10 - 30 ⇒ 5 - 25Rank 2 Damage Bonus: 15 - 35 ⇒ 10 - 30Rank 3 Damage Bonus: 20 - 40 ⇒ 15 - 35Protein ShakeBase Health Scaling: 15 ⇒ 25ScavengerGold: 500 ⇒ 1000SpellcraftCooldown: 15 seconds ⇒ 10 secondsBase Damage: 100 ⇒ 150SystemsBonus Energy Regen Based on Missing HealthMaximum Bonus Energy Regeneration: Up to 100% ⇒ Up to 400%Guests of Honor NEW IvernWhen a team loses a round, spawn a brush at each of their locations. This brush lasts the rest of the game. NEW SennaOpens up 3 portals to the Death Realm. Anyone can enter the portal to go to the Death Realm. While in the Death Realm, you can go through any of the portals to return to the living realm. NEW ThreshWhile downed, throw a lantern to your allies every few (8) seconds. This grants allies near the lantern a shield. Anyone can click the lantern to be pulled to the downed player.Bugfixes & QoL ChangesFixed a bug where Renata's R would not amp damage caused by Berserk targets.Updated the Practice Tool Stack Item cheat to include: Dark Seal, Mejai's, Heartsteel, Gluttonous Greaves, and Force of Nature.Fixed a bug where Taliyah's W terrain was smaller than the hitbox.Fixed a bug where Yone's R warning VFX was not visible in very specific circumstances.Fixed a bug where Yunara's auto resets would not extend Hail of Blades appropriately.Fixed a bug where Renekton would not gain 20 fury from his ult when it was cast immediately after W.Fixed a bug where Nunu & Willump could unlock his camera during W.Fixed a bug where clones would not receive Homeguards after running back to the fountainFixed a bug where Target Champions Only could be toggled on unexpectedlyFixed a bug where Camille's W would count as two hits when triggering bone plating.Fixed a bug where Camille's Passive would sometimes not proc Shield Bash.Fixed a bug where Aatrox Q sweetspots use crit text instead of enhanced damage text.Upcoming Skins & ChromasThe following skins will be released in this patch:Coven JannaCoven MelOld God AniviaOld God UrgotThe following chromas will be released this patch:Coven AhriCoven AsheCoven JannaCoven MelCoven MorganaOld God AniviaOld God Urgot"
   }
 ]
