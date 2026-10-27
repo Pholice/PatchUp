@@ -3275,5 +3275,23 @@
       }
     ],
     "raw_text": "TL;DR: Vanguard continues to go brr, Map Rating is here, Performance Score has been updated, Corrode got some sweet new updates, Ascent and Split are out, Corrode and Bind are in, and we fixed some bugs.Sup, gamers?!Kenny here, back with another patch and some nifty little updates to kick off V26 Act 6. Read below for the full details.GL HF GGs!"
+  },
+  {
+    "version": "13.09",
+    "date": "2026-10-27",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-1309",
+    "fetched_at": "2026-10-27T21:33:19.275Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "b09fabb64ad65a75",
+    "sections": [
+      {
+        "title": "Patch Notes",
+        "items": [
+          "TL;DR: New Agent Hush is here, along with some updated tooltips, Warden buffs, and a plethora of bug fixes.HELLOOO everybody 🙂Get ready to meet our latest Agent, Hush, as she changes the game. Try her out and let us know what you think!"
+        ]
+      }
+    ],
+    "raw_text": "TL;DR: New Agent Hush is here, along with some updated tooltips, Warden buffs, and a plethora of bug fixes.HELLOOO everybody 🙂Get ready to meet our latest Agent, Hush, as she changes the game. Try her out and let us know what you think!"
   }
 ]
