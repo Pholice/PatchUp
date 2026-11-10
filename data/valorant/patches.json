@@ -3293,5 +3293,23 @@
       }
     ],
     "raw_text": "TL;DR: New Agent Hush is here, along with some updated tooltips, Warden buffs, and a plethora of bug fixes.HELLOOO everybody 🙂Get ready to meet our latest Agent, Hush, as she changes the game. Try her out and let us know what you think!"
+  },
+  {
+    "version": "13.10",
+    "date": "2026-11-10",
+    "locale": "en-us",
+    "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-13-10",
+    "fetched_at": "2026-11-10T22:38:03.748Z",
+    "parser_version": "valorant-v1",
+    "content_hash": "2d2fe457276414ea",
+    "sections": [
+      {
+        "title": "Patch Notes",
+        "items": [
+          "TL;DR: You can add bookmarks to your replays, Gauntlet: Glitched updates, assist changes, and bug fixes.HELLOOO everyone! Joy here to bring you the latest on patch 13.10. In this patch, you get a gun, you get a gun, everybody gets a gun. We’re bringing some fun updates to Gauntlet: Glitched, where Cypher’s Spycam and Skye’s Trailblazer gain some memorable abilities... among a number of other updates. Read on for more. 😀"
+        ]
+      }
+    ],
+    "raw_text": "TL;DR: You can add bookmarks to your replays, Gauntlet: Glitched updates, assist changes, and bug fixes.HELLOOO everyone! Joy here to bring you the latest on patch 13.10. In this patch, you get a gun, you get a gun, everybody gets a gun. We’re bringing some fun updates to Gauntlet: Glitched, where Cypher’s Spycam and Skye’s Trailblazer gain some memorable abilities... among a number of other updates. Read on for more. 😀"
   }
 ]
